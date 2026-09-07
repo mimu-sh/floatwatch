@@ -1,0 +1,45 @@
+{
+ "captured_at": "2026-09-07T12:37:48.535876+00:00",
+ "premiums": {
+  "IBM": {
+   "token_px": 247.0064,
+   "token_liq": 263838.48,
+   "token_chg24": 2.76,
+   "real_close": 234.89,
+   "real_after": 234.3,
+   "premium_pct": 5.158329430797415
+  },
+  "HIMS": {
+   "token_px": 28.25,
+   "token_liq": 1169221.27,
+   "token_chg24": 2.63,
+   "real_close": 27.71,
+   "real_after": 27.82,
+   "premium_pct": 1.948754962107535
+  },
+  "MU": {
+   "token_px": 1040.32,
+   "token_liq": 1511897.39,
+   "token_chg24": 0.74,
+   "real_close": 1016.59,
+   "real_after": 1014.95,
+   "premium_pct": 2.3342743879046557
+  },
+  "MSTR": {
+   "token_px": 146.22,
+   "token_liq": 1243663.29,
+   "token_chg24": -0.28,
+   "real_close": 142.8,
+   "real_after": 142.58,
+   "premium_pct": 2.394957983193269
+  },
+  "NVDA": {
+   "token_px": 232.18,
+   "token_liq": 6302968.61,
+   "token_chg24": 0.21,
+   "real_close": 230.36,
+   "real_after": 229.47,
+   "premium_pct": 0.7900677200902928
+  }
+ }
+}

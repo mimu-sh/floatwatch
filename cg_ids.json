@@ -1,0 +1,30 @@
+{
+ "IBM": {
+  "rh": "international-business-machines-corporation-robinhood-token",
+  "ctrl": "ibm-ondo-tokenized-stock"
+ },
+ "HIMS": {
+  "rh": "hims-hers-health-inc-robinhood-token",
+  "ctrl": "hims-hers-health-ondo-tokenized-stock"
+ },
+ "MSTR": {
+  "rh": "strategy-inc-robinhood-tokenized-stock",
+  "ctrl": "microstrategy-xstock"
+ },
+ "NVDA": {
+  "rh": "nvidia-robinhood-tokenized-stock",
+  "ctrl": "nvidia-xstock"
+ },
+ "TSLA": {
+  "rh": "tesla-robinhood-tokenized-stock",
+  "ctrl": "tesla-xstock"
+ },
+ "AAPL": {
+  "rh": "apple-robinhood-tokenized-stock",
+  "ctrl": "apple-xstock"
+ },
+ "PLTR": {
+  "rh": "palantir-technologies-robinhood-tokenized-stock",
+  "ctrl": "palantir-xstock"
+ }
+}
