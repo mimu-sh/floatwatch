@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  floatwatch hourly collector, as a launchd agent rather than a cron job.
+
+  WHY NOT CRON: macOS cron silently skips any job whose slot falls while the
+  machine is asleep, and never runs it afterwards. Observed 2026-09-07: the
+  17:23 UTC run was lost to a Maintenance Sleep window, and the float
+  concentration series CANNOT be backfilled, so that hour is gone permanently.
+
+  launchd's StartCalendarInterval fires a missed job on wake, which is exactly
+  the behaviour this series needs.
+
+  Install:
+    cp sh.mimu.floatwatch.plist ~/Library/LaunchAgents/
+    launchctl unload ~/Library/LaunchAgents/sh.mimu.floatwatch.plist 2>/dev/null
+    launchctl load  ~/Library/LaunchAgents/sh.mimu.floatwatch.plist
+    crontab -l | grep -v floatwatch | crontab -    # remove the cron entry
+
+  Verify:
+    launchctl list | grep floatwatch
+-->
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>sh.mimu.floatwatch</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/Users/davidstrouk/code/solopreneur/floatwatch/run_hourly.sh</string>
+    </array>
+
+    <key>WorkingDirectory</key>
+    <string>/Users/davidstrouk/code/solopreneur/floatwatch</string>
+
+    <!-- Hourly at :23. launchd runs this on wake if the slot was missed. -->
+    <key>StartCalendarInterval</key>
+    <dict>
+        <key>Minute</key>
+        <integer>23</integer>
+    </dict>
+
+    <!-- Don't let a slow run overlap the next one. -->
+    <key>AbandonProcessGroup</key>
+    <false/>
+
+    <key>StandardOutPath</key>
+    <string>/Users/davidstrouk/code/solopreneur/floatwatch/logs/launchd.out</string>
+    <key>StandardErrorPath</key>
+    <string>/Users/davidstrouk/code/solopreneur/floatwatch/logs/launchd.err</string>
+
+    <key>RunAtLoad</key>
+    <false/>
+</dict>
+</plist>

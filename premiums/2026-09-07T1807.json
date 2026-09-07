@@ -1,0 +1,72 @@
+{
+ "captured_at": "2026-09-07T18:07:45.337165+00:00",
+ "premiums": {
+  "IBM": {
+   "token_px": 247.86,
+   "token_liq": 211569.59,
+   "token_chg24": 2.75,
+   "real_close": 234.89,
+   "real_after": 234.3,
+   "premium_pct": 5.52173357741923,
+   "rh_px": 251.57,
+   "twin_px": 240.77,
+   "twin_premium_pct": 4.485608672176755
+  },
+  "HIMS": {
+   "token_px": 28.12,
+   "token_liq": 1752704.9,
+   "token_chg24": 2.16,
+   "real_close": 27.71,
+   "real_after": 27.82,
+   "premium_pct": 1.479610249007579,
+   "rh_px": 28.16,
+   "twin_px": 27.65,
+   "twin_premium_pct": 1.8444846292947625
+  },
+  "MU": {
+   "token_px": 1041.39,
+   "token_liq": 1628301.84,
+   "token_chg24": 1.63,
+   "real_close": 1016.59,
+   "real_after": 1014.95,
+   "premium_pct": 2.4395282267187346
+  },
+  "MSTR": {
+   "token_px": 144.028,
+   "token_liq": 1228059.77,
+   "token_chg24": -1.37,
+   "real_close": 142.8,
+   "real_after": 142.58,
+   "premium_pct": 0.8599439775910156,
+   "rh_px": 144.07,
+   "twin_px": 141.62,
+   "twin_premium_pct": 1.7299816410111468
+  },
+  "NVDA": {
+   "token_px": 232.052,
+   "token_liq": 6877815.99,
+   "token_chg24": 0.3,
+   "real_close": 230.36,
+   "real_after": 229.47,
+   "premium_pct": 0.7345025177982301,
+   "rh_px": 232.0,
+   "twin_px": 232.29,
+   "twin_premium_pct": -0.12484394506866447
+  },
+  "TSLA": {
+   "rh_px": 356.22,
+   "twin_px": 355.63,
+   "twin_premium_pct": 0.1659027641087718
+  },
+  "AAPL": {
+   "rh_px": 320.58,
+   "twin_px": 321.16,
+   "twin_premium_pct": -0.18059534188568094
+  },
+  "PLTR": {
+   "rh_px": 176.49,
+   "twin_px": 178.54,
+   "twin_premium_pct": -1.1482020835666962
+  }
+ }
+}
