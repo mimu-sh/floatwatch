@@ -63,7 +63,7 @@ def main():
     for addr, b in B.items():
         aa = A.get(addr)
         if not aa:
-            rows.append((999, b["symbol"], None, b["pct"], None, b, "NEW"))
+            rows.append((999, b["symbol"], None, b["pct"], None, b, "NEW", False))
             continue
         d_pct = b["pct"] - aa["pct"]
         d_float = (b["float"] / aa["float"] - 1) * 100 if aa["float"] else 0
@@ -73,25 +73,32 @@ def main():
         # dropping out of enumeration; the real IBM +7.3pp move had an
         # identical pool set on both sides. Never alert without this.
         gone, new_p = aa["pairs"] - b["pairs"], b["pairs"] - aa["pairs"]
-        if gone or new_p:
-            stab = f"  [UNVERIFIED: {len(gone)} pool(s) left, {len(new_p)} joined set]"
-        else:
+        stable = not (gone or new_p)
+        if stable:
             stab = "  [pool set stable]"
+        else:
+            stab = f"  [UNVERIFIED: {len(gone)} pool(s) left, {len(new_p)} joined set]"
         rows.append((abs(d_pct), b["symbol"], aa["pct"], b["pct"], d_pct, b,
-                     f"float {d_float:+.1f}%  pooled {d_units:+.1f}%{stab}"))
+                     f"float {d_float:+.1f}%  pooled {d_units:+.1f}%{stab}", stable))
     rows.sort(reverse=True, key=lambda r: r[0])
 
     print(f"{'stock':8}{'was %':>9}{'now %':>9}{'delta pp':>11}  what moved")
     print("-" * 74)
     shown = 0
-    for mag, sym, was, now, d, b, note in rows:
+    for mag, sym, was, now, d, b, note, stable in rows:
         if was is None:
             print(f"{sym[:7]:8}{'-':>9}{now:>8.1f}%{'NEW':>11}  {note}")
             shown += 1
             continue
         if abs(d) < 0.05:
             continue
-        flag = "  <<< ALERT" if abs(d) >= ALERT_PP else ""
+        # Never alert on an unstable pool set: a pool dropping out of
+        # enumeration looks exactly like liquidity leaving. This is the same
+        # root cause as the phantom AAPL -90%.
+        if abs(d) >= ALERT_PP:
+            flag = "  <<< ALERT" if stable else "  (large move, UNVERIFIED - not alerted)"
+        else:
+            flag = ""
         print(f"{sym[:7]:8}{was:>8.1f}%{now:>8.1f}%{d:>+10.2f}pp  {note}{flag}")
         shown += 1
     if not shown:
@@ -105,8 +112,14 @@ def main():
     # finish at least DEADBAND_PP clear of the level.
     print("\nTHRESHOLD CROSSINGS")
     hits = 0
-    for mag, sym, was, now, d, b, note in rows:
+    for mag, sym, was, now, d, b, note, stable in rows:
         if was is None:
+            continue
+        if not stable:
+            for lvl in CROSS_LEVELS:
+                if (was < lvl <= now) or (now < lvl <= was):
+                    print(f"  ({sym} crossed {lvl:.0f}% but pool set changed — "
+                          f"not alerted; likely a discovery artifact)")
             continue
         for lvl in CROSS_LEVELS:
             if was < lvl <= now and (now - lvl) >= DEADBAND_PP:
