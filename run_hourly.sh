@@ -13,4 +13,8 @@ STAMP=$(date -u +%FT%H)
   "$PY" collect.py 2>&1
   "$PY" report.py  2>&1 | tee "reports/$STAMP.txt"
   "$PY" check.py   2>&1 | tee "reports/paper-$STAMP.txt"
+  # Hourly premium snapshot. The 13:00 and 14:00 UTC runs straddle the 09:30 ET
+  # cash open, so this accumulates the pre/post-open pairs needed to answer the
+  # convergence question across many sessions rather than one.
+  "$PY" premium.py --record 2>&1
 } >> logs/run.log 2>&1
