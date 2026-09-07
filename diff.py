@@ -18,6 +18,7 @@ import json, glob, sys, argparse, datetime
 
 ALERT_PP = 2.0        # percentage-point move worth flagging
 CROSS_LEVELS = [10.0, 25.0, 50.0]
+DEADBAND_PP = 0.5     # a crossing must finish this far past the level to alert
 
 
 def load(path):
@@ -96,21 +97,29 @@ def main():
     if not shown:
         print("  (no measurable change)")
 
-    # threshold crossings — the alertable event the paid tier would sell
+    # threshold crossings — the alertable event the paid tier would sell.
+    # DEADBAND: a bare crossing test fires every time a value oscillates around
+    # a level. Observed 2026-09-07: HOODon 10.1% -> 9.8% tripped the 10% alert
+    # on a 0.3pp move, and would trip again on any wobble back. A paid alert
+    # that cries wolf on noise is worse than no alert, so require the value to
+    # finish at least DEADBAND_PP clear of the level.
     print("\nTHRESHOLD CROSSINGS")
     hits = 0
     for mag, sym, was, now, d, b, note in rows:
         if was is None:
             continue
         for lvl in CROSS_LEVELS:
-            if was < lvl <= now:
+            if was < lvl <= now and (now - lvl) >= DEADBAND_PP:
                 print(f"  {sym} crossed UP through {lvl:.0f}% of float "
                       f"({was:.1f}% -> {now:.1f}%)")
                 hits += 1
-            elif now < lvl <= was:
+            elif now < lvl <= was and (lvl - now) >= DEADBAND_PP:
                 print(f"  {sym} crossed DOWN through {lvl:.0f}% of float "
                       f"({was:.1f}% -> {now:.1f}%)")
                 hits += 1
+            elif (was < lvl <= now) or (now < lvl <= was):
+                print(f"  ({sym} grazed {lvl:.0f}% — {was:.1f}% -> {now:.1f}%, "
+                      f"inside {DEADBAND_PP}pp deadband, not alerted)")
     if not hits:
         print("  none")
 
