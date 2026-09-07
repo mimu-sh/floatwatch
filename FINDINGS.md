@@ -69,10 +69,32 @@ twin, against (B) Robinhood token vs the real share price on Nasdaq:
 | TSLA | −0.06% | +0.09% | yes |
 | IBM | +2.75% | +5.32% | **no — see below** |
 
-Four of five agree closely. IBM disagreed because it was **converging in real
-time**: the premium was +5.10% before the 09:30 ET open and +2.75% an hour
-after. One observation, not a pattern, but it is the first direct evidence that
-the premium compresses when the underlying market reopens.
+Four of five agree closely. IBM disagreed because its premium moved between the
+two measurements — it was mid-compression, from +5.10% to +2.75% against its
+Ondo twin over about half an hour.
+
+**Correction.** An earlier version of this document attributed that compression
+to the 09:30 ET cash open and called it "the first direct evidence that the
+premium compresses when the underlying market reopens." That was wrong. Both
+readings were taken *before* the open — 60 and 30 minutes prior. Measuring
+across the open itself shows almost no movement:
+
+| Time (UTC) | vs Ondo twin | |
+|---|---|---|
+| 12:30 | +5.10% | 60 min pre-open |
+| 13:00 | +2.75% | 30 min pre-open |
+| 13:32 | +2.55% | **at the open** |
+
+The premium compressed 2.35pp entirely before the market opened, then moved
+0.20pp across the open. So this is **not** evidence of open-driven convergence,
+and the cause of the pre-open compression is unexplained. Whether the premium
+converges at the open remains untested here.
+
+One measurement note the open exposed: against the *stored Friday close* IBM
+reads +5.43% at the open, while against the Ondo twin it reads +2.55%. The twin
+is itself a 24/7 token that drifts, so the two methods diverge exactly when the
+equity market is repricing. The twin is the better control for a like-for-like
+time series; the stored close goes stale the moment the bell rings.
 
 ## The float story
 
