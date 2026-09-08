@@ -23,8 +23,21 @@ def fetch(url, tries=5):
     return None
 
 
+# A mark this far from entry is a data fault, not a price move.
+ABSURD_MULTIPLE = 50.0
+
+
 def mark(pos):
-    """Current price for one position."""
+    """Current price for one position, orientation-checked.
+
+    priceUsd ALWAYS describes the pair's BASE token. DEX Screener can reorient a
+    pair, and when it does, priceUsd silently starts describing the other side.
+    Observed 2026-09-08: the UBIK/GLD pool flipped to GLD/UBIK, so UBIK marked
+    at $403.60 (the price of tokenized gold) against a $0.02462 entry -- a
+    +1,639,217% "gain" and a $32.7m paper P&L on $20k deployed.
+
+    If our token is the quote, its USD price is base_usd / priceNative.
+    """
     if pos.get("coingecko_id"):
         return None  # filled in batch below
     d = fetch(f"https://api.dexscreener.com/latest/dex/pairs/robinhood/{pos['pair']}")
@@ -34,8 +47,30 @@ def mark(pos):
     if not ps:
         return None
     p = ps[0]
-    return (float(p["priceUsd"]) if p.get("priceUsd") else None,
-            (p.get("liquidity") or {}).get("usd"))
+    liq = (p.get("liquidity") or {}).get("usd")
+    base, quote = p["baseToken"]["symbol"], p["quoteToken"]["symbol"]
+    sym = pos["symbol"]
+    px = float(p["priceUsd"]) if p.get("priceUsd") else None
+    if px is None:
+        return None
+
+    if base == sym:
+        pass                                   # priceUsd already describes us
+    elif quote == sym:
+        native = float(p.get("priceNative") or 0)   # base priced in quote units
+        if native <= 0:
+            return None
+        px = px / native                       # -> quote token in USD
+    else:
+        return None                            # neither side is us; refuse
+
+    # last-ditch guard: reject a mark that cannot be a real price move
+    e = pos.get("entry_price_usd") or 0
+    if e > 0 and (px / e > ABSURD_MULTIPLE or e / px > ABSURD_MULTIPLE):
+        print(f"  !! {sym}: mark ${px:.8g} vs entry ${e:.8g} exceeds "
+              f"{ABSURD_MULTIPLE}x — treating as a data fault, position skipped")
+        return None
+    return (px, liq)
 
 
 def main():

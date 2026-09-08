@@ -1,0 +1,33 @@
+floatwatch paper check   opened 2026-09-07T10:30:42Z   held 21.9h
+hyp  bucket      side  sym                 entry          now   gross%     net%     P&L $
+---------------------------------------------------------------------------------------------------
+H1   RECAP_named short AMC               0.11487     0.095622    16.8%    15.6%       259
+H1   RECAP_named short BONER            0.065117     0.052507    19.4%    18.2%       303
+H1   RECAP_named short OTC             0.0119417   0.02103938   -76.2%   -77.4%    -1,290
+H1   RECAP_named short STONK            0.133318     0.152064   -14.1%   -15.3%      -254
+H1   RECAP_named short UBIK           0.02405662   0.01836375    23.7%    22.5%       374
+H1   RECAP_named short ZCAT             0.135898     0.103096    24.1%    22.9%       382
+H2   HIGH_conc   short BONER             0.06525      0.05558    14.8%    13.9%       278
+H2   HIGH_conc   short MEME                 2.62         2.59     1.1%     0.3%         7
+H2   HIGH_conc   short MOO               0.02028      0.03067   -51.2%   -52.3%    -1,046
+H2   HIGH_conc   short SAYLORMOON       0.002565     0.003219   -25.5%   -27.4%      -549
+H2   HIGH_conc   short SEMI             0.009672     0.007126    26.3%    24.7%       494
+H2   LOW_conc    long  DOGGIE           0.001667     0.001286   -22.9%   -25.8%      -515
+H2   LOW_conc    long  ICOIN            0.005085     0.006499    27.8%    26.0%       521
+H2   LOW_conc    long  SCHIFFY          0.001286     0.001155   -10.2%   -13.8%      -276
+H2   LOW_conc    long  SHROOM            0.03203      0.02229   -30.4%   -32.8%      -656
+H2   LOW_conc    long  UBIK              0.02462      0.01815   -26.3%   -28.8%      -575
+
+H1  net P&L $     -225 on $10,000 deployed  = -2.25%
+H2  net P&L $   -2,318 on $20,000 deployed  = -11.59%
+     HIGH_conc  mean gross move (signed by side) -6.9%
+     LOW_conc   mean gross move (signed by side) -12.4%
+
+benchmark (equal-weight long all H2 names): -2.7%
+
+READ THIS BEFORE BELIEVING ANY OF IT
+  n = 10 names, horizon = 21.9h. Memecoin daily vol is ~50-150%.
+  A result under roughly +/-30% here is indistinguishable from noise.
+  This test can DISCONFIRM a strong effect. It cannot confirm a weak one.
+  Costs are modelled but fills are not: a real short leg needs a borrow
+  that mostly does not exist for these tokens.
