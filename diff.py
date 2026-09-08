@@ -57,6 +57,55 @@ def hourly_sd(symbol, min_obs=8):
     return _st.pstdev(diffs) if len(diffs) > 1 else None
 
 
+def series_for(symbol, upto=None):
+    """Concentration history for one stock, oldest first.
+
+    `upto` truncates at that snapshot path. Without it, evaluating a historical
+    diff would look at the tail of the WHOLE history rather than the window that
+    actually preceded the pair being compared.
+    """
+    out = []
+    files = sorted(glob.glob("snapshots/*T*.json"))
+    if upto and upto in files:
+        files = files[:files.index(upto) + 1]
+    for f in files:
+        try:
+            d = json.load(open(f))
+        except Exception:
+            continue
+        tot, fl = 0.0, None
+        for r in d["pools"]:
+            if r["stock"] != symbol or not r["counterparty_meme"] or not r["stock_float"]:
+                continue
+            u = r["stock_units_in_pool"]
+            if not u or not (0.5 <= r["liq_usd"] / (2 * u) <= 5000) or r["pct_of_float"] > 100:
+                continue
+            tot += u
+            fl = r["stock_float"]
+        if fl:
+            out.append(tot / fl * 100)
+    return out
+
+
+def sustained_cross(symbol, lvl, direction, upto=None, lookback=3):
+    """True only if this is a regime change, not a single-hour traverse.
+
+    Requires the previous `lookback` readings to sit entirely on the old side of
+    the level. Observed 2026-09-08: HOOD crossed 25% five times in a day while
+    simply oscillating, and because the up-moves fell inside its deadband but
+    the down-moves did not, it emitted TWO "crossed DOWN" alerts and no "up" --
+    reading as a sustained decline that was not happening. Asymmetric noise is
+    worse than symmetric noise: it invents a trend.
+    """
+    hist = series_for(symbol, upto)
+    if len(hist) < lookback + 1:
+        return True          # not enough history to judge; don't suppress
+    prior = hist[-(lookback + 1):-1]
+    if direction == "down":
+        return all(p >= lvl for p in prior)
+    return all(p < lvl for p in prior)
+
+
 def deadband_for(symbol):
     sd = hourly_sd(symbol)
     return max(DEADBAND_PP, DEADBAND_SD * sd) if sd else DEADBAND_PP
@@ -164,11 +213,13 @@ def main():
             continue
         band = deadband_for(sym)
         for lvl in CROSS_LEVELS:
-            if was < lvl <= now and (now - lvl) >= band:
+            if was < lvl <= now and (now - lvl) >= band and \
+                    sustained_cross(sym, lvl, "up", np_):
                 print(f"  {sym} crossed UP through {lvl:.0f}% of float "
                       f"({was:.1f}% -> {now:.1f}%)")
                 hits += 1
-            elif now < lvl <= was and (lvl - now) >= band:
+            elif now < lvl <= was and (lvl - now) >= band and \
+                    sustained_cross(sym, lvl, "down", np_):
                 print(f"  {sym} crossed DOWN through {lvl:.0f}% of float "
                       f"({was:.1f}% -> {now:.1f}%)")
                 hits += 1
