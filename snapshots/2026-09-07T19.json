@@ -1,84 +1,84 @@
 {
- "captured_at": "2026-09-07T18:25:15.519804+00:00",
+ "captured_at": "2026-09-07T19:25:21.435389+00:00",
  "chain": "robinhood",
  "per_stock": {
   "HIMS": {
    "symbol": "HIMS",
    "address": "0xCceE82fE024c36fA15E1005edE3E9e4787e23D09",
    "supply": 130876.339,
-   "units_in_pools": 88225.06629999999,
-   "units_in_meme_pools": 40941.194,
+   "units_in_pools": 88211.2496,
+   "units_in_meme_pools": 40398.2325,
    "pool_count": 10,
-   "liq_usd": 5635105.67,
+   "liq_usd": 5969322.99,
    "top_meme": "BONER",
-   "top_meme_pct": 30.135317278396666,
-   "pct_float_in_pools": 67.41101330776068,
-   "pct_float_in_meme_pools": 31.282349669026114
+   "top_meme_pct": 29.9595788662762,
+   "pct_float_in_pools": 67.40045624289658,
+   "pct_float_in_meme_pools": 30.867483617493303
   },
   "AMC": {
    "symbol": "AMC",
    "address": "0x05a3d1Cd21d0C88145E82600E62e7E496e0F222B",
    "supply": 2895757.579,
-   "units_in_pools": 1621910.8275000001,
-   "units_in_meme_pools": 663537.0,
+   "units_in_pools": 1638053.8275000001,
+   "units_in_meme_pools": 652373.0,
    "pool_count": 14,
-   "liq_usd": 8630081.03,
+   "liq_usd": 8555198.990000002,
    "top_meme": "MEME",
-   "top_meme_pct": 22.914107341441927,
-   "pct_float_in_pools": 56.00989665923966,
-   "pct_float_in_meme_pools": 22.914107341441927
+   "top_meme_pct": 22.528577831618275,
+   "pct_float_in_pools": 56.5673673576527,
+   "pct_float_in_meme_pools": 22.528577831618275
   },
   "GME": {
    "symbol": "GME",
    "address": "0x1b0E319c6A659F002271B69dB8A7df2F911c153E",
    "supply": 203814.266,
-   "units_in_pools": 67073.67566000002,
+   "units_in_pools": 67146.25056,
    "units_in_meme_pools": 0.0,
    "pool_count": 10,
-   "liq_usd": 2582691.0399999996,
+   "liq_usd": 2582617.3899999997,
    "top_meme": null,
    "top_meme_pct": 0.0,
-   "pct_float_in_pools": 32.90921532450531,
+   "pct_float_in_pools": 32.944823675885374,
    "pct_float_in_meme_pools": 0.0
   },
   "GLD": {
    "symbol": "GLD",
    "address": "0xC9a981FEE1F9DEc688bb123ccDeCc63D0deBFC4e",
    "supply": 15546.214,
-   "units_in_pools": 11277.825707000004,
-   "units_in_meme_pools": 1457.14169,
+   "units_in_pools": 11301.875030000001,
+   "units_in_meme_pools": 1407.0012,
    "pool_count": 20,
-   "liq_usd": 11044999.999999998,
+   "liq_usd": 10972374.280000001,
    "top_meme": "UBIK",
-   "top_meme_pct": 3.2903084956890467,
-   "pct_float_in_pools": 72.5438727847179,
-   "pct_float_in_meme_pools": 9.3729681709
+   "top_meme_pct": 3.1273813675792703,
+   "pct_float_in_pools": 72.69856847461382,
+   "pct_float_in_meme_pools": 9.050442763749425
   },
   "RDDT": {
    "symbol": "RDDT",
    "address": "0x05b37Fb53A299a1b874A619e1c4C404D52C36F4C",
    "supply": 13847.74,
-   "units_in_pools": 8581.15681,
-   "units_in_meme_pools": 503.2991,
-   "pool_count": 13,
-   "liq_usd": 3526085.09,
+   "units_in_pools": 8598.243139999999,
+   "units_in_meme_pools": 488.71029999999996,
+   "pool_count": 12,
+   "liq_usd": 3458987.2200000007,
    "top_meme": "SNOO",
-   "top_meme_pct": 1.8806462281931928,
-   "pct_float_in_pools": 61.96792263575139,
-   "pct_float_in_meme_pools": 3.634521589804546
+   "top_meme_pct": 1.8788740978672331,
+   "pct_float_in_pools": 62.09130977329151,
+   "pct_float_in_meme_pools": 3.5291701028471065
   },
   "HOODon": {
    "symbol": "HOODon",
    "address": "0xfB5b5778d45AE47F15323fb59B666c655174A79C",
    "supply": 3563.985071857587,
-   "units_in_pools": 585.4581,
-   "units_in_meme_pools": 358.8488,
-   "pool_count": 3,
-   "liq_usd": 181213.91999999998,
+   "units_in_pools": 605.38683,
+   "units_in_meme_pools": 350.92413,
+   "pool_count": 4,
+   "liq_usd": 221595.13,
    "top_meme": "COOKWARE",
-   "top_meme_pct": 5.870613815196152,
-   "pct_float_in_pools": 16.427063755765197,
-   "pct_float_in_meme_pools": 10.068751489269403
+   "top_meme_pct": 5.879404536640917,
+   "pct_float_in_pools": 16.986233606317153,
+   "pct_float_in_meme_pools": 9.846397303148482
   },
   "HOOD": {
    "symbol": "HOOD",
@@ -97,118 +97,118 @@
    "symbol": "SPY",
    "address": "0x117cc2133c37B721F49dE2A7a74833232B3B4C0C",
    "supply": 22573.21,
-   "units_in_pools": 9282.900394,
+   "units_in_pools": 9276.873293,
    "units_in_meme_pools": 0.0,
    "pool_count": 22,
-   "liq_usd": 18897824.149999995,
+   "liq_usd": 18931802.46,
    "top_meme": null,
    "top_meme_pct": 0.0,
-   "pct_float_in_pools": 41.123528262041596,
+   "pct_float_in_pools": 41.09682802313008,
    "pct_float_in_meme_pools": 0.0
   },
   "MU": {
    "symbol": "MU",
    "address": "0xfF080c8ce2E5feadaCa0Da81314Ae59D232d4afD",
    "supply": 4223.30363887,
-   "units_in_pools": 2099.1771999999996,
-   "units_in_meme_pools": 1296.6077,
+   "units_in_pools": 2056.0434999999998,
+   "units_in_meme_pools": 1275.1457,
    "pool_count": 12,
-   "liq_usd": 5589152.460000001,
+   "liq_usd": 5504206.07,
    "top_meme": "MOO",
-   "top_meme_pct": 15.63112095290008,
-   "pct_float_in_pools": 49.70462414020654,
-   "pct_float_in_meme_pools": 30.701266375129123
+   "top_meme_pct": 16.28247359889075,
+   "pct_float_in_pools": 48.683298095756165,
+   "pct_float_in_meme_pools": 30.193086006507976
   },
   "NVDA": {
    "symbol": "NVDA",
    "address": "0xd0601CE157Db5bdC3162BbaC2a2C8aF5320D9EEC",
    "supply": 65877.268,
-   "units_in_pools": 14172.956789999998,
+   "units_in_pools": 14090.500709999998,
    "units_in_meme_pools": 0.0,
    "pool_count": 16,
-   "liq_usd": 10502308.26,
+   "liq_usd": 10516481.67,
    "top_meme": null,
    "top_meme_pct": 0.0,
-   "pct_float_in_pools": 21.51418420994629,
+   "pct_float_in_pools": 21.389017999349942,
    "pct_float_in_meme_pools": 0.0
   },
   "TSLA": {
    "symbol": "TSLA",
    "address": "0x322F0929c4625eD5bAd873c95208D54E1c003b2d",
    "supply": 12254.791,
-   "units_in_pools": 6067.579340000001,
-   "units_in_meme_pools": 605.76178,
+   "units_in_pools": 6086.067170000001,
+   "units_in_meme_pools": 585.9411600000001,
    "pool_count": 16,
-   "liq_usd": 4553862.7,
+   "liq_usd": 4543334.49,
    "top_meme": "DOGGIE",
-   "top_meme_pct": 3.7174497712772094,
-   "pct_float_in_pools": 49.51189571490857,
-   "pct_float_in_meme_pools": 4.943060881250444
+   "top_meme_pct": 3.6448822342217015,
+   "pct_float_in_pools": 49.662757773674,
+   "pct_float_in_meme_pools": 4.781323157612399
   },
   "MSTR": {
    "symbol": "MSTR",
    "address": "0xec262a75e413fAfD0dF80480274532C79D42da09",
    "supply": 16082.7761,
-   "units_in_pools": 10631.896182499999,
-   "units_in_meme_pools": 3338.3012624999997,
-   "pool_count": 16,
-   "liq_usd": 3666474.01,
+   "units_in_pools": 10676.5270225,
+   "units_in_meme_pools": 3286.3765624999996,
+   "pool_count": 15,
+   "liq_usd": 3688603.3299999996,
    "top_meme": "SAYLORMOON",
-   "top_meme_pct": 10.503704021596123,
-   "pct_float_in_pools": 66.10734438129745,
-   "pct_float_in_meme_pools": 20.756996439812404
+   "top_meme_pct": 10.34544962669722,
+   "pct_float_in_pools": 66.38485144675987,
+   "pct_float_in_meme_pools": 20.434137378185596
   },
   "CRCL": {
    "symbol": "CRCL",
    "address": "0xdF0992E440dD0be65BD8439b609d6D4366bf1CB5",
    "supply": 21746.347,
-   "units_in_pools": 6418.947705,
-   "units_in_meme_pools": 928.113785,
+   "units_in_pools": 6356.28927,
+   "units_in_meme_pools": 806.4385,
    "pool_count": 10,
-   "liq_usd": 2284352.2399999998,
+   "liq_usd": 2283797.6300000004,
    "top_meme": "SHROOM",
-   "top_meme_pct": 1.8853809561670285,
-   "pct_float_in_pools": 29.517360800873817,
-   "pct_float_in_meme_pools": 4.267906628179896
+   "top_meme_pct": 1.4960135603464801,
+   "pct_float_in_pools": 29.22922764913114,
+   "pct_float_in_meme_pools": 3.7083860567478295
   },
   "PLTR": {
    "symbol": "PLTR",
    "address": "0x894E1EC2D74FFE5AEF8Dc8A9e84686acCB964F2A",
    "supply": 10493.827,
-   "units_in_pools": 4320.492359999999,
-   "units_in_meme_pools": 1612.0158599999997,
+   "units_in_pools": 4173.5534099999995,
+   "units_in_meme_pools": 1490.8353,
    "pool_count": 11,
-   "liq_usd": 1870605.1500000001,
+   "liq_usd": 1822659.27,
    "top_meme": "MONITOR",
-   "top_meme_pct": 8.257408855701549,
-   "pct_float_in_pools": 41.17175135439149,
-   "pct_float_in_meme_pools": 15.361563136118022
+   "top_meme_pct": 7.628126516665465,
+   "pct_float_in_pools": 39.771509574152496,
+   "pct_float_in_meme_pools": 14.206783664339046
   },
   "COIN": {
    "symbol": "COIN",
    "address": "0x6330D8C3178a418788dF01a47479c0ce7CCF450b",
    "supply": 8512.158,
-   "units_in_pools": 4101.3955000000005,
-   "units_in_meme_pools": 526.7280000000001,
+   "units_in_pools": 4066.6179199999992,
+   "units_in_meme_pools": 471.1483,
    "pool_count": 11,
-   "liq_usd": 1623015.7899999998,
+   "liq_usd": 1603328.68,
    "top_meme": "SHROOM",
-   "top_meme_pct": 2.6479900866501778,
-   "pct_float_in_pools": 48.18279336450288,
-   "pct_float_in_meme_pools": 6.187949048878088
+   "top_meme_pct": 2.1000632272098336,
+   "pct_float_in_pools": 47.77422975466386,
+   "pct_float_in_meme_pools": 5.535004166980923
   },
   "QQQ": {
    "symbol": "QQQ",
    "address": "0xD5f3879160bc7c32ebb4dC785F8a4F505888de68",
    "supply": 5212.603,
-   "units_in_pools": 1901.6363,
-   "units_in_meme_pools": 93.12440000000001,
-   "pool_count": 11,
-   "liq_usd": 3884580.2199999997,
-   "top_meme": "SHROOM",
-   "top_meme_pct": 1.198573917867906,
-   "pct_float_in_pools": 36.4815102934177,
-   "pct_float_in_meme_pools": 1.786523930558303
+   "units_in_pools": 1828.31391,
+   "units_in_meme_pools": 25.640500000000003,
+   "pool_count": 10,
+   "liq_usd": 3752717.9099999997,
+   "top_meme": "ASSDAQ",
+   "top_meme_pct": 0.33545428263000276,
+   "pct_float_in_pools": 35.074873532475046,
+   "pct_float_in_meme_pools": 0.49189435681175037
   },
   "PFE": {
    "symbol": "PFE",
@@ -227,144 +227,144 @@
    "symbol": "COST",
    "address": "0x4EA005168D7F09a7A0Ba9D1DEf21a479950E44C2",
    "supply": 1829.86063189,
-   "units_in_pools": 1176.8282299999996,
-   "units_in_meme_pools": 160.16463,
+   "units_in_pools": 1160.0654299999997,
+   "units_in_meme_pools": 139.76443,
    "pool_count": 12,
-   "liq_usd": 2105232.8600000003,
+   "liq_usd": 2061157.15,
    "top_meme": "HOTDOG",
-   "top_meme_pct": 4.953743384619093,
-   "pct_float_in_pools": 64.31245142339034,
-   "pct_float_in_meme_pools": 8.752832167036212
+   "top_meme_pct": 4.049062464580853,
+   "pct_float_in_pools": 63.39638165786473,
+   "pct_float_in_meme_pools": 7.637982235600213
   },
   "AAPL": {
    "symbol": "AAPL",
    "address": "0xaF3D76f1834A1d425780943C99Ea8A608f8a93f9",
    "supply": 17631.42312292,
-   "units_in_pools": 6497.1437,
-   "units_in_meme_pools": 1017.2555,
+   "units_in_pools": 6373.385599999999,
+   "units_in_meme_pools": 1025.0021,
    "pool_count": 10,
-   "liq_usd": 3893076.46,
+   "liq_usd": 3876481.44,
    "top_meme": "ICOIN",
-   "top_meme_pct": 5.44081208483373,
-   "pct_float_in_pools": 36.84979740264996,
-   "pct_float_in_meme_pools": 5.769559796211894
+   "top_meme_pct": 5.5158519719021815,
+   "pct_float_in_pools": 36.147879587297204,
+   "pct_float_in_meme_pools": 5.813496124811086
   },
   "SPCX": {
    "symbol": "SPCX",
    "address": "0x4a0E65A3EcceC6dBe60AE065F2e7bb85Fae35eEa",
    "supply": 58787.815,
-   "units_in_pools": 14020.288880000002,
+   "units_in_pools": 14050.730600000003,
    "units_in_meme_pools": 0.0,
    "pool_count": 12,
-   "liq_usd": 6546476.53,
+   "liq_usd": 6545092.540000001,
    "top_meme": null,
    "top_meme_pct": 0.0,
-   "pct_float_in_pools": 23.84897087942459,
+   "pct_float_in_pools": 23.90075324282762,
    "pct_float_in_meme_pools": 0.0
   },
   "MRNA": {
    "symbol": "MRNA",
    "address": "0x43B07D15cE533bEc5476d70C22a78a1B2B662155",
    "supply": 5558.534,
-   "units_in_pools": 2215.2571399999997,
-   "units_in_meme_pools": 696.03917,
-   "pool_count": 13,
-   "liq_usd": 755327.9499999998,
-   "top_meme": "SHROOM",
-   "top_meme_pct": 5.131723580354101,
-   "pct_float_in_pools": 39.85326238896803,
-   "pct_float_in_meme_pools": 12.52199176977239
+   "units_in_pools": 2159.6700299999998,
+   "units_in_meme_pools": 599.57967,
+   "pool_count": 11,
+   "liq_usd": 685114.1799999998,
+   "top_meme": "VACCINU",
+   "top_meme_pct": 4.988426804621506,
+   "pct_float_in_pools": 38.853230546039654,
+   "pct_float_in_meme_pools": 10.786651120601224
   },
   "LLY": {
    "symbol": "LLY",
    "address": "0x8005d266423c7ea827372c9c864491e5786600ea",
    "supply": 3375.941,
-   "units_in_pools": 1132.87987,
-   "units_in_meme_pools": 346.715,
+   "units_in_pools": 1124.95163,
+   "units_in_meme_pools": 339.43832999999995,
    "pool_count": 15,
-   "liq_usd": 2970241.41,
+   "liq_usd": 2941125.04,
    "top_meme": "FATCOIN",
-   "top_meme_pct": 6.070888087202946,
-   "pct_float_in_pools": 33.55745464745978,
-   "pct_float_in_meme_pools": 10.27017356049765
+   "top_meme_pct": 6.077626949049169,
+   "pct_float_in_pools": 33.32260931100396,
+   "pct_float_in_meme_pools": 10.05462862058312
   },
   "MSFT": {
    "symbol": "MSFT",
    "address": "0xe93237C50D904957Cf27E7B1133b510C669c2e74",
    "supply": 4835.405,
-   "units_in_pools": 1965.8263400000003,
-   "units_in_meme_pools": 301.49649999999997,
+   "units_in_pools": 1978.5606000000002,
+   "units_in_meme_pools": 303.1352,
    "pool_count": 9,
-   "liq_usd": 1874752.8800000001,
+   "liq_usd": 1875045.69,
    "top_meme": "CLIPPY",
-   "top_meme_pct": 5.222389851522261,
-   "pct_float_in_pools": 40.654843596348194,
-   "pct_float_in_meme_pools": 6.235186090927233
-  },
-  "IBM": {
-   "symbol": "IBM",
-   "address": "0x980dcf6766FA79f5Cf0c4AAdb3ab477ff15a9619",
-   "supply": 2167.863,
-   "units_in_pools": 1388.670178,
-   "units_in_meme_pools": 567.2011580000001,
-   "pool_count": 14,
-   "liq_usd": 946202.9500000002,
-   "top_meme": "QC",
-   "top_meme_pct": 10.1847856621936,
-   "pct_float_in_pools": 64.05710037949815,
-   "pct_float_in_meme_pools": 26.16406839362082
-  },
-  "ZEC": {
-   "symbol": "ZEC",
-   "address": "0xEc127e99Da1a2eD3d6C0433227154a99B7B29221",
-   "supply": 62.423733620105196,
-   "units_in_pools": 19.830199999999998,
-   "units_in_meme_pools": 2.8525,
-   "pool_count": 2,
-   "liq_usd": 57819.05,
-   "top_meme": "ZCAT",
-   "top_meme_pct": 4.569576080404902,
-   "pct_float_in_pools": 31.76708416814909,
-   "pct_float_in_meme_pools": 4.569576080404902
+   "top_meme_pct": 5.19419572920986,
+   "pct_float_in_pools": 40.91819816540704,
+   "pct_float_in_meme_pools": 6.26907570306934
   },
   "GOOGL": {
    "symbol": "GOOGL",
    "address": "0x2e0847E8910a9732eB3fb1bb4b70a580ADAD4FE3",
    "supply": 8276.724,
-   "units_in_pools": 3601.2540999999997,
-   "units_in_meme_pools": 431.8895,
+   "units_in_pools": 3621.75975,
+   "units_in_meme_pools": 436.3910499999999,
    "pool_count": 12,
-   "liq_usd": 2625005.9999999995,
+   "liq_usd": 2628587.8499999996,
    "top_meme": "QUBIT",
-   "top_meme_pct": 2.6294787647866475,
-   "pct_float_in_pools": 43.510622077044005,
-   "pct_float_in_meme_pools": 5.218121324330738
+   "top_meme_pct": 2.683349716627013,
+   "pct_float_in_pools": 43.75837287796476,
+   "pct_float_in_meme_pools": 5.2725093889804695
+  },
+  "IBM": {
+   "symbol": "IBM",
+   "address": "0x980dcf6766FA79f5Cf0c4AAdb3ab477ff15a9619",
+   "supply": 2167.863,
+   "units_in_pools": 1393.3378579999999,
+   "units_in_meme_pools": 555.1558580000001,
+   "pool_count": 14,
+   "liq_usd": 931567.7600000001,
+   "top_meme": "QC",
+   "top_meme_pct": 9.800679286467826,
+   "pct_float_in_pools": 64.27241287848909,
+   "pct_float_in_meme_pools": 25.608438263857085
+  },
+  "ZEC": {
+   "symbol": "ZEC",
+   "address": "0xEc127e99Da1a2eD3d6C0433227154a99B7B29221",
+   "supply": 62.02179792375911,
+   "units_in_pools": 19.926679999999998,
+   "units_in_meme_pools": 2.8525,
+   "pool_count": 2,
+   "liq_usd": 59850.79000000001,
+   "top_meme": "ZCAT",
+   "top_meme_pct": 4.599189471266961,
+   "pct_float_in_pools": 32.12851072859104,
+   "pct_float_in_meme_pools": 4.599189471266961
   },
   "META": {
    "symbol": "META",
    "address": "0xc0D6457C16Cc70d6790Dd43521C899C87ce02f35",
    "supply": 2856.917,
-   "units_in_pools": 1188.0377999999998,
-   "units_in_meme_pools": 7.1125,
+   "units_in_pools": 1188.0276,
+   "units_in_meme_pools": 6.9926,
    "pool_count": 7,
-   "liq_usd": 1550539.24,
+   "liq_usd": 1547516.7600000002,
    "top_meme": "PERV",
-   "top_meme_pct": 0.24895718006508416,
-   "pct_float_in_pools": 41.58461026344132,
-   "pct_float_in_meme_pools": 0.24895718006508416
+   "top_meme_pct": 0.2447603483055336,
+   "pct_float_in_pools": 41.58425323521824,
+   "pct_float_in_meme_pools": 0.2447603483055336
   },
   "AMZN": {
    "symbol": "AMZN",
    "address": "0x12f190a9F9d7D37a250758b26824B97CE941bF54",
    "supply": 9849.261,
-   "units_in_pools": 4181.112499999999,
-   "units_in_meme_pools": 319.01820000000004,
+   "units_in_pools": 4207.56254,
+   "units_in_meme_pools": 315.8838,
    "pool_count": 8,
-   "liq_usd": 2121469.95,
+   "liq_usd": 2118920.62,
    "top_meme": "SENDER",
-   "top_meme_pct": 1.4392226990431058,
-   "pct_float_in_pools": 42.45102754409695,
-   "pct_float_in_meme_pools": 3.2390064594693957
+   "top_meme_pct": 1.438949582105703,
+   "pct_float_in_pools": 42.719576016921465,
+   "pct_float_in_meme_pools": 3.207182752086679
   },
   "AI": {
    "symbol": "AI",
@@ -409,66 +409,66 @@
    "symbol": "AVGO",
    "address": "0x156E175DD063a8cE274C50654eF40e0032b3fbcF",
    "supply": 387.719,
-   "units_in_pools": 101.04741,
+   "units_in_pools": 102.1264,
    "units_in_meme_pools": 0.0,
    "pool_count": 1,
-   "liq_usd": 62852.21,
+   "liq_usd": 62771.34,
    "top_meme": null,
    "top_meme_pct": 0.0,
-   "pct_float_in_pools": 26.062021721917162,
+   "pct_float_in_pools": 26.340313474449278,
    "pct_float_in_meme_pools": 0.0
   },
   "AMD": {
    "symbol": "AMD",
    "address": "0x86923f96303D656E4aa86D9d42D1e57ad2023fdC",
    "supply": 4058.232,
-   "units_in_pools": 1196.8015786999997,
-   "units_in_meme_pools": 127.0455787,
-   "pool_count": 11,
-   "liq_usd": 1163239536.01,
+   "units_in_pools": 1263.8098787,
+   "units_in_meme_pools": 153.60037869999996,
+   "pool_count": 12,
+   "liq_usd": 1163303074.11,
    "top_meme": "MEOW",
-   "top_meme_pct": 0.9653686630039879,
-   "pct_float_in_pools": 29.49071365806587,
-   "pct_float_in_meme_pools": 3.130564706502733
+   "top_meme_pct": 0.9810331198413498,
+   "pct_float_in_pools": 31.141883428547207,
+   "pct_float_in_meme_pools": 3.7849087656890976
   },
   "INTC": {
    "symbol": "INTC",
    "address": "0xc72b96e0E48ecd4DC75E1e45396e26300BC39681",
    "supply": 15127.105,
-   "units_in_pools": 2784.6488600000002,
-   "units_in_meme_pools": 951.3780599999999,
-   "pool_count": 8,
-   "liq_usd": 819943.07,
+   "units_in_pools": 2792.7725,
+   "units_in_meme_pools": 934.8248,
+   "pool_count": 7,
+   "liq_usd": 790075.87,
    "top_meme": "INCEL",
-   "top_meme_pct": 5.692459330453514,
-   "pct_float_in_pools": 18.408339599678857,
-   "pct_float_in_meme_pools": 6.28922758188034
+   "top_meme_pct": 5.841341089388882,
+   "pct_float_in_pools": 18.46204214223409,
+   "pct_float_in_meme_pools": 6.179799770015479
   },
   "BABA": {
    "symbol": "BABA",
    "address": "0xad25Ac6C84D497db898fa1E8387bf6Af3532a1c4",
    "supply": 8540.607,
-   "units_in_pools": 2573.20258,
-   "units_in_meme_pools": 239.4587,
+   "units_in_pools": 2573.5065,
+   "units_in_meme_pools": 278.6405,
    "pool_count": 8,
-   "liq_usd": 546873.6599999999,
+   "liq_usd": 557336.34,
    "top_meme": "ANIU",
-   "top_meme_pct": 1.9198834462234355,
-   "pct_float_in_pools": 30.12903626170833,
-   "pct_float_in_meme_pools": 2.8037667580301964
+   "top_meme_pct": 2.378654116739009,
+   "pct_float_in_pools": 30.132594790979145,
+   "pct_float_in_meme_pools": 3.262537428545769
   },
   "NFLX": {
    "symbol": "NFLX",
    "address": "0xE0444EF8BF4eD74f74FD73686e2ddF4C1c5591E8",
    "supply": 12443.697,
-   "units_in_pools": 4781.33962,
-   "units_in_meme_pools": 718.60792,
+   "units_in_pools": 4755.668039999999,
+   "units_in_meme_pools": 716.06304,
    "pool_count": 10,
-   "liq_usd": 929536.9900000001,
+   "liq_usd": 916710.5599999998,
    "top_meme": "CHILLZ",
-   "top_meme_pct": 2.3271685255595664,
-   "pct_float_in_pools": 38.42378691798747,
-   "pct_float_in_meme_pools": 5.774874781988022
+   "top_meme_pct": 2.379783917914427,
+   "pct_float_in_pools": 38.21748504483835,
+   "pct_float_in_meme_pools": 5.754423625068981
   },
   "IONQ": {
    "symbol": "IONQ",
@@ -506,11 +506,11 @@
    "stock_addr": "0xCceE82fE024c36fA15E1005edE3E9e4787e23D09",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 1753033.73,
-   "vol24_usd": 10645095.2,
-   "stock_units_in_pool": 23991,
+   "liq_usd": 2128502.15,
+   "vol24_usd": 10686341.8,
+   "stock_units_in_pool": 24751,
    "stock_float": 130876.339,
-   "pct_of_float": 18.331044544270146
+   "pct_of_float": 18.911745384320383
   },
   {
    "chain": "robinhood",
@@ -520,11 +520,11 @@
    "stock_addr": "0xCceE82fE024c36fA15E1005edE3E9e4787e23D09",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 585621.18,
-   "vol24_usd": 2160953.07,
-   "stock_units_in_pool": 12991,
+   "liq_usd": 572968.43,
+   "vol24_usd": 2120128.93,
+   "stock_units_in_pool": 12721,
    "stock_float": 130876.339,
-   "pct_of_float": 9.926163964595617
+   "pct_of_float": 9.719862350367242
   },
   {
    "chain": "robinhood",
@@ -548,11 +548,11 @@
    "stock_addr": "0xCceE82fE024c36fA15E1005edE3E9e4787e23D09",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 69083.12,
-   "vol24_usd": 986382.94,
-   "stock_units_in_pool": 1417.7265,
+   "liq_usd": 68992.63,
+   "vol24_usd": 996057.66,
+   "stock_units_in_pool": 1440.4597,
    "stock_float": 130876.339,
-   "pct_of_float": 1.0832565388309034
+   "pct_of_float": 1.1006265234848907
   },
   {
    "chain": "robinhood",
@@ -576,11 +576,11 @@
    "stock_addr": "0xCceE82fE024c36fA15E1005edE3E9e4787e23D09",
    "counterparty": "WETH",
    "counterparty_meme": false,
-   "liq_usd": 40119.4,
-   "vol24_usd": 662426.93,
-   "stock_units_in_pool": 660.1732,
+   "liq_usd": 42644.5,
+   "vol24_usd": 665893.18,
+   "stock_units_in_pool": 702.263,
    "stock_float": 130876.339,
-   "pct_of_float": 0.5044251734455989
+   "pct_of_float": 0.5365851500476339
   },
   {
    "chain": "robinhood",
@@ -604,11 +604,11 @@
    "stock_addr": "0xCceE82fE024c36fA15E1005edE3E9e4787e23D09",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 29969.38,
-   "vol24_usd": 373377.97,
-   "stock_units_in_pool": 394.2867,
+   "liq_usd": 29981.63,
+   "vol24_usd": 384138.72,
+   "stock_units_in_pool": 368.6085,
    "stock_float": 130876.339,
-   "pct_of_float": 0.301266602513996
+   "pct_of_float": 0.28164640210481434
   },
   {
    "chain": "robinhood",
@@ -618,11 +618,11 @@
    "stock_addr": "0xCceE82fE024c36fA15E1005edE3E9e4787e23D09",
    "counterparty": "BONER",
    "counterparty_meme": true,
-   "liq_usd": 2550010.17,
-   "vol24_usd": 8498292.27,
-   "stock_units_in_pool": 39440,
+   "liq_usd": 2533664.14,
+   "vol24_usd": 8450609.29,
+   "stock_units_in_pool": 39210,
    "stock_float": 130876.339,
-   "pct_of_float": 30.135317278396666
+   "pct_of_float": 29.9595788662762
   },
   {
    "chain": "robinhood",
@@ -632,11 +632,11 @@
    "stock_addr": "0xCceE82fE024c36fA15E1005edE3E9e4787e23D09",
    "counterparty": "SHROOM",
    "counterparty_meme": true,
-   "liq_usd": 103820.79,
-   "vol24_usd": 2969.68,
-   "stock_units_in_pool": 1501.194,
+   "liq_usd": 89121.61,
+   "vol24_usd": 12246.13,
+   "stock_units_in_pool": 1188.2325,
    "stock_float": 130876.339,
-   "pct_of_float": 1.1470323906294475
+   "pct_of_float": 0.9079047512171012
   },
   {
    "chain": "robinhood",
@@ -646,11 +646,11 @@
    "stock_addr": "0x05a3d1Cd21d0C88145E82600E62e7E496e0F222B",
    "counterparty": "MEME",
    "counterparty_meme": true,
-   "liq_usd": 4034367.13,
-   "vol24_usd": 33888171.48,
-   "stock_units_in_pool": 663537,
+   "liq_usd": 3899340.99,
+   "vol24_usd": 20294354.82,
+   "stock_units_in_pool": 652373,
    "stock_float": 2895757.579,
-   "pct_of_float": 22.914107341441927
+   "pct_of_float": 22.528577831618275
   },
   {
    "chain": "robinhood",
@@ -660,11 +660,11 @@
    "stock_addr": "0x05a3d1Cd21d0C88145E82600E62e7E496e0F222B",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 768165.59,
-   "vol24_usd": 25462534.41,
-   "stock_units_in_pool": 127606,
+   "liq_usd": 786774.73,
+   "vol24_usd": 18396679.72,
+   "stock_units_in_pool": 144052,
    "stock_float": 2895757.579,
-   "pct_of_float": 4.406653406535037
+   "pct_of_float": 4.974587688025524
   },
   {
    "chain": "robinhood",
@@ -674,11 +674,11 @@
    "stock_addr": "0x05a3d1Cd21d0C88145E82600E62e7E496e0F222B",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 2679772.37,
-   "vol24_usd": 15951264.62,
-   "stock_units_in_pool": 576501,
+   "liq_usd": 2701270.55,
+   "vol24_usd": 8121178.4,
+   "stock_units_in_pool": 583706,
    "stock_float": 2895757.579,
-   "pct_of_float": 19.908469002404708
+   "pct_of_float": 20.157281266671944
   },
   {
    "chain": "robinhood",
@@ -688,11 +688,11 @@
    "stock_addr": "0x05a3d1Cd21d0C88145E82600E62e7E496e0F222B",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 121164.9,
-   "vol24_usd": 1153361.55,
-   "stock_units_in_pool": 45131,
+   "liq_usd": 120962.35,
+   "vol24_usd": 1162973.12,
+   "stock_units_in_pool": 45398,
    "stock_float": 2895757.579,
-   "pct_of_float": 1.558521346099186
+   "pct_of_float": 1.5677417311872295
   },
   {
    "chain": "robinhood",
@@ -702,11 +702,11 @@
    "stock_addr": "0x05a3d1Cd21d0C88145E82600E62e7E496e0F222B",
    "counterparty": "WETH",
    "counterparty_meme": false,
-   "liq_usd": 407425.09,
-   "vol24_usd": 653173.52,
-   "stock_units_in_pool": 34286,
+   "liq_usd": 406980.74,
+   "vol24_usd": 283663.47,
+   "stock_units_in_pool": 33222,
    "stock_float": 2895757.579,
-   "pct_of_float": 1.1840079517927078
+   "pct_of_float": 1.1472645445504677
   },
   {
    "chain": "robinhood",
@@ -716,25 +716,11 @@
    "stock_addr": "0x05a3d1Cd21d0C88145E82600E62e7E496e0F222B",
    "counterparty": "ETH",
    "counterparty_meme": false,
-   "liq_usd": 91717.47,
-   "vol24_usd": 96266.02,
-   "stock_units_in_pool": 33427,
+   "liq_usd": 112529.5,
+   "vol24_usd": 39308.02,
+   "stock_units_in_pool": 37850,
    "stock_float": 2895757.579,
-   "pct_of_float": 1.154343866434546
-  },
-  {
-   "chain": "robinhood",
-   "pair": "0x21a9493abddfc0dfe32df1c80248ce1981f4c03ef33c8941485e67daa033368c",
-   "dex": "uniswap",
-   "stock": "AMC",
-   "stock_addr": "0x05a3d1Cd21d0C88145E82600E62e7E496e0F222B",
-   "counterparty": "USDG",
-   "counterparty_meme": false,
-   "liq_usd": 60697.88,
-   "vol24_usd": 57.59,
-   "stock_units_in_pool": 353.5556,
-   "stock_float": 2895757.579,
-   "pct_of_float": 0.01220943364057755
+   "pct_of_float": 1.3070845527432184
   },
   {
    "chain": "robinhood",
@@ -744,8 +730,8 @@
    "stock_addr": "0x05a3d1Cd21d0C88145E82600E62e7E496e0F222B",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 156486.02,
-   "vol24_usd": 17104.05,
+   "liq_usd": 156486.95,
+   "vol24_usd": 12213.56,
    "stock_units_in_pool": 56611,
    "stock_float": 2895757.579,
    "pct_of_float": 1.954963371607565
@@ -759,7 +745,7 @@
    "counterparty": "USDG",
    "counterparty_meme": false,
    "liq_usd": 113404.88,
-   "vol24_usd": 13358.47,
+   "vol24_usd": 7947.27,
    "stock_units_in_pool": 37471,
    "stock_float": 2895757.579,
    "pct_of_float": 1.2939964405770448
@@ -780,20 +766,6 @@
   },
   {
    "chain": "robinhood",
-   "pair": "0x226082f4e1edbae611425c9474301500f29e7b7c65d6cfc618ae0bc8ab258774",
-   "dex": "uniswap",
-   "stock": "AMC",
-   "stock_addr": "0x05a3d1Cd21d0C88145E82600E62e7E496e0F222B",
-   "counterparty": "USDG",
-   "counterparty_meme": false,
-   "liq_usd": 39484.08,
-   "vol24_usd": 852593.61,
-   "stock_units_in_pool": 14754,
-   "stock_float": 2895757.579,
-   "pct_of_float": 0.5095039759887304
-  },
-  {
-   "chain": "robinhood",
    "pair": "0x7955e0abe1b04fce88accfd7b19df9d27ea73cbf25f39eb570d8a372660b512f",
    "dex": "uniswap",
    "stock": "AMC",
@@ -805,6 +777,34 @@
    "stock_units_in_pool": 11939,
    "stock_float": 2895757.579,
    "pct_of_float": 0.4122927998732176
+  },
+  {
+   "chain": "robinhood",
+   "pair": "0x226082f4e1edbae611425c9474301500f29e7b7c65d6cfc618ae0bc8ab258774",
+   "dex": "uniswap",
+   "stock": "AMC",
+   "stock_addr": "0x05a3d1Cd21d0C88145E82600E62e7E496e0F222B",
+   "counterparty": "USDG",
+   "counterparty_meme": false,
+   "liq_usd": 39354.8,
+   "vol24_usd": 593116.27,
+   "stock_units_in_pool": 14784,
+   "stock_float": 2895757.579,
+   "pct_of_float": 0.5105399743132296
+  },
+  {
+   "chain": "robinhood",
+   "pair": "0x21a9493abddfc0dfe32df1c80248ce1981f4c03ef33c8941485e67daa033368c",
+   "dex": "uniswap",
+   "stock": "AMC",
+   "stock_addr": "0x05a3d1Cd21d0C88145E82600E62e7E496e0F222B",
+   "counterparty": "USDG",
+   "counterparty_meme": false,
+   "liq_usd": 60697.88,
+   "vol24_usd": 40.5,
+   "stock_units_in_pool": 353.5556,
+   "stock_float": 2895757.579,
+   "pct_of_float": 0.01220943364057755
   },
   {
    "chain": "robinhood",
@@ -842,11 +842,11 @@
    "stock_addr": "0x1b0E319c6A659F002271B69dB8A7df2F911c153E",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 704955.98,
-   "vol24_usd": 9827496.1,
-   "stock_units_in_pool": 21728,
+   "liq_usd": 706078,
+   "vol24_usd": 9534963.64,
+   "stock_units_in_pool": 21826,
    "stock_float": 203814.266,
-   "pct_of_float": 10.660686529175537
+   "pct_of_float": 10.708769522541665
   },
   {
    "chain": "robinhood",
@@ -856,11 +856,11 @@
    "stock_addr": "0x1b0E319c6A659F002271B69dB8A7df2F911c153E",
    "counterparty": "WETH",
    "counterparty_meme": false,
-   "liq_usd": 59668.1,
-   "vol24_usd": 2024050.96,
-   "stock_units_in_pool": 2442.9057,
+   "liq_usd": 59576.91,
+   "vol24_usd": 2008791.54,
+   "stock_units_in_pool": 2412.4899,
    "stock_float": 203814.266,
-   "pct_of_float": 1.1985940670119724
+   "pct_of_float": 1.1836707740566108
   },
   {
    "chain": "robinhood",
@@ -870,11 +870,11 @@
    "stock_addr": "0x1b0E319c6A659F002271B69dB8A7df2F911c153E",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 1510592.53,
-   "vol24_usd": 1009668.02,
-   "stock_units_in_pool": 35426,
+   "liq_usd": 1509850.96,
+   "vol24_usd": 972573.46,
+   "stock_units_in_pool": 35356,
    "stock_float": 203814.266,
-   "pct_of_float": 17.381511459065383
+   "pct_of_float": 17.347166463803863
   },
   {
    "chain": "robinhood",
@@ -884,11 +884,11 @@
    "stock_addr": "0x1b0E319c6A659F002271B69dB8A7df2F911c153E",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 51690.22,
-   "vol24_usd": 5569.82,
-   "stock_units_in_pool": 1049.783,
+   "liq_usd": 51673.76,
+   "vol24_usd": 6665.98,
+   "stock_units_in_pool": 1106.8564,
    "stock_float": 203814.266,
-   "pct_of_float": 0.5150684594374763
+   "pct_of_float": 0.5430711116168875
   },
   {
    "chain": "robinhood",
@@ -906,31 +906,31 @@
   },
   {
    "chain": "robinhood",
-   "pair": "0xdA0EE6B8EF5D3A2338a15621faBf6619070F1b64",
-   "dex": "up",
-   "stock": "GME",
-   "stock_addr": "0x1b0E319c6A659F002271B69dB8A7df2F911c153E",
-   "counterparty": "USDG",
-   "counterparty_meme": false,
-   "liq_usd": 30044.78,
-   "vol24_usd": 876960.09,
-   "stock_units_in_pool": 958.3265,
-   "stock_float": 203814.266,
-   "pct_of_float": 0.47019598716411737
-  },
-  {
-   "chain": "robinhood",
    "pair": "0x3d436b4fdc532c61a0bf15d6cae80a66eb8f28ee9daec34dbec4b5bc9964063b",
    "dex": "uniswap",
    "stock": "GME",
    "stock_addr": "0x1b0E319c6A659F002271B69dB8A7df2F911c153E",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 70284.23,
-   "vol24_usd": 83654.96,
-   "stock_units_in_pool": 2573.5183,
+   "liq_usd": 70206.87,
+   "vol24_usd": 79929.92,
+   "stock_units_in_pool": 2567.6151,
    "stock_float": 203814.266,
-   "pct_of_float": 1.2626781974133254
+   "pct_of_float": 1.2597818348986425
+  },
+  {
+   "chain": "robinhood",
+   "pair": "0xdA0EE6B8EF5D3A2338a15621faBf6619070F1b64",
+   "dex": "up",
+   "stock": "GME",
+   "stock_addr": "0x1b0E319c6A659F002271B69dB8A7df2F911c153E",
+   "counterparty": "USDG",
+   "counterparty_meme": false,
+   "liq_usd": 29819.27,
+   "vol24_usd": 841379.49,
+   "stock_units_in_pool": 965.136,
+   "stock_float": 203814.266,
+   "pct_of_float": 0.473537019238879
   },
   {
    "chain": "robinhood",
@@ -954,11 +954,11 @@
    "stock_addr": "0x1b0E319c6A659F002271B69dB8A7df2F911c153E",
    "counterparty": "ETH",
    "counterparty_meme": false,
-   "liq_usd": 48582.31,
-   "vol24_usd": 104082.81,
-   "stock_units_in_pool": 1646.9235,
+   "liq_usd": 48538.73,
+   "vol24_usd": 104633.93,
+   "stock_units_in_pool": 1663.9345,
    "stock_float": 203814.266,
-   "pct_of_float": 0.8080511400512072
+   "pct_of_float": 0.8163974645425459
   },
   {
    "chain": "robinhood",
@@ -982,11 +982,11 @@
    "stock_addr": "0xC9a981FEE1F9DEc688bb123ccDeCc63D0deBFC4e",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 4777643.85,
-   "vol24_usd": 2224421.03,
-   "stock_units_in_pool": 4619.8396,
+   "liq_usd": 4626076.09,
+   "vol24_usd": 2258784.27,
+   "stock_units_in_pool": 4595.7311,
    "stock_float": 15546.214,
-   "pct_of_float": 29.71681465339407
+   "pct_of_float": 29.561738311334196
   },
   {
    "chain": "robinhood",
@@ -996,11 +996,11 @@
    "stock_addr": "0xC9a981FEE1F9DEc688bb123ccDeCc63D0deBFC4e",
    "counterparty": "WETH",
    "counterparty_meme": false,
-   "liq_usd": 388110.47,
-   "vol24_usd": 1454644.77,
-   "stock_units_in_pool": 522.237,
+   "liq_usd": 387602.24,
+   "vol24_usd": 1443963.28,
+   "stock_units_in_pool": 521.2079,
    "stock_float": 15546.214,
-   "pct_of_float": 3.3592551858606856
+   "pct_of_float": 3.3526355677337265
   },
   {
    "chain": "robinhood",
@@ -1010,11 +1010,11 @@
    "stock_addr": "0xC9a981FEE1F9DEc688bb123ccDeCc63D0deBFC4e",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 717665.88,
-   "vol24_usd": 2723793.58,
-   "stock_units_in_pool": 792.4754,
+   "liq_usd": 717615,
+   "vol24_usd": 2757297.02,
+   "stock_units_in_pool": 801.1276,
    "stock_float": 15546.214,
-   "pct_of_float": 5.097545936264611
+   "pct_of_float": 5.153200644221159
   },
   {
    "chain": "robinhood",
@@ -1024,11 +1024,11 @@
    "stock_addr": "0xC9a981FEE1F9DEc688bb123ccDeCc63D0deBFC4e",
    "counterparty": "WETH",
    "counterparty_meme": false,
-   "liq_usd": 735698.67,
-   "vol24_usd": 204080.87,
-   "stock_units_in_pool": 841.04902,
+   "liq_usd": 734548.89,
+   "vol24_usd": 203543.11,
+   "stock_units_in_pool": 841.06448,
    "stock_float": 15546.214,
-   "pct_of_float": 5.409992555100554
+   "pct_of_float": 5.4100920005346635
   },
   {
    "chain": "robinhood",
@@ -1038,11 +1038,11 @@
    "stock_addr": "0xC9a981FEE1F9DEc688bb123ccDeCc63D0deBFC4e",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 2759692.81,
-   "vol24_usd": 1075752.13,
-   "stock_units_in_pool": 2623.01871,
+   "liq_usd": 2883246.35,
+   "vol24_usd": 1242635.04,
+   "stock_units_in_pool": 2703.3581,
    "stock_float": 15546.214,
-   "pct_of_float": 16.87239549127524
+   "pct_of_float": 17.389173338280305
   },
   {
    "chain": "robinhood",
@@ -1052,11 +1052,11 @@
    "stock_addr": "0xC9a981FEE1F9DEc688bb123ccDeCc63D0deBFC4e",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 66315.82,
-   "vol24_usd": 11252.26,
-   "stock_units_in_pool": 109.001637,
+   "liq_usd": 66327.52,
+   "vol24_usd": 13445.31,
+   "stock_units_in_pool": 114.3496,
    "stock_float": 15546.214,
-   "pct_of_float": 0.7011458674118342
+   "pct_of_float": 0.7355462879901177
   },
   {
    "chain": "robinhood",
@@ -1066,11 +1066,11 @@
    "stock_addr": "0xC9a981FEE1F9DEc688bb123ccDeCc63D0deBFC4e",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 84502.54,
-   "vol24_usd": 449608.32,
-   "stock_units_in_pool": 115.9019,
+   "liq_usd": 84471.19,
+   "vol24_usd": 438928.85,
+   "stock_units_in_pool": 119.971,
    "stock_float": 15546.214,
-   "pct_of_float": 0.7455313557371589
+   "pct_of_float": 0.7717055741031225
   },
   {
    "chain": "robinhood",
@@ -1094,11 +1094,11 @@
    "stock_addr": "0xC9a981FEE1F9DEc688bb123ccDeCc63D0deBFC4e",
    "counterparty": "SPY",
    "counterparty_meme": false,
-   "liq_usd": 27270.27,
-   "vol24_usd": 385010.53,
-   "stock_units_in_pool": 32.5661,
+   "liq_usd": 27240.36,
+   "vol24_usd": 370088.05,
+   "stock_units_in_pool": 33.4694,
    "stock_float": 15546.214,
-   "pct_of_float": 0.20947929830375422
+   "pct_of_float": 0.2152897161971397
   },
   {
    "chain": "robinhood",
@@ -1109,7 +1109,7 @@
    "counterparty": "USDG",
    "counterparty_meme": false,
    "liq_usd": 29428.23,
-   "vol24_usd": 4.65,
+   "vol24_usd": 4.49,
    "stock_units_in_pool": 31.06895,
    "stock_float": 15546.214,
    "pct_of_float": 0.19984897930775944
@@ -1122,11 +1122,11 @@
    "stock_addr": "0xC9a981FEE1F9DEc688bb123ccDeCc63D0deBFC4e",
    "counterparty": "GOLDEN",
    "counterparty_meme": true,
-   "liq_usd": 56289.24,
-   "vol24_usd": 66807.19,
-   "stock_units_in_pool": 66.8968,
+   "liq_usd": 60069.65,
+   "vol24_usd": 61687.18,
+   "stock_units_in_pool": 71.3896,
    "stock_float": 15546.214,
-   "pct_of_float": 0.4303092701541352
+   "pct_of_float": 0.45920891092841
   },
   {
    "chain": "robinhood",
@@ -1136,11 +1136,11 @@
    "stock_addr": "0xC9a981FEE1F9DEc688bb123ccDeCc63D0deBFC4e",
    "counterparty": "UBIK",
    "counterparty_meme": true,
-   "liq_usd": 430408.94,
-   "vol24_usd": 1582808.97,
-   "stock_units_in_pool": 511.5184,
+   "liq_usd": 408958.96,
+   "vol24_usd": 1534172.48,
+   "stock_units_in_pool": 486.1894,
    "stock_float": 15546.214,
-   "pct_of_float": 3.2903084956890467
+   "pct_of_float": 3.1273813675792703
   },
   {
    "chain": "robinhood",
@@ -1150,11 +1150,11 @@
    "stock_addr": "0xC9a981FEE1F9DEc688bb123ccDeCc63D0deBFC4e",
    "counterparty": "RSRV",
    "counterparty_meme": true,
-   "liq_usd": 132679.28,
-   "vol24_usd": 916674.07,
-   "stock_units_in_pool": 146.5429,
+   "liq_usd": 109591.57,
+   "vol24_usd": 900462.34,
+   "stock_units_in_pool": 119.9722,
    "stock_float": 15546.214,
-   "pct_of_float": 0.9426275747908783
+   "pct_of_float": 0.7717132930242694
   },
   {
    "chain": "robinhood",
@@ -1164,11 +1164,11 @@
    "stock_addr": "0xC9a981FEE1F9DEc688bb123ccDeCc63D0deBFC4e",
    "counterparty": "SCHIFFY",
    "counterparty_meme": true,
-   "liq_usd": 277687.14,
-   "vol24_usd": 400276.23,
-   "stock_units_in_pool": 307.3469,
+   "liq_usd": 284185.26,
+   "vol24_usd": 404543.68,
+   "stock_units_in_pool": 314.7232,
    "stock_float": 15546.214,
-   "pct_of_float": 1.9769887382226952
+   "pct_of_float": 2.024436303269722
   },
   {
    "chain": "robinhood",
@@ -1178,11 +1178,11 @@
    "stock_addr": "0xC9a981FEE1F9DEc688bb123ccDeCc63D0deBFC4e",
    "counterparty": "GG",
    "counterparty_meme": true,
-   "liq_usd": 197443.02,
-   "vol24_usd": 306557.55,
-   "stock_units_in_pool": 234.6506,
+   "liq_usd": 189378.17,
+   "vol24_usd": 367834.45,
+   "stock_units_in_pool": 225.06601,
    "stock_float": 15546.214,
-   "pct_of_float": 1.5093745654086583
+   "pct_of_float": 1.4477223200452536
   },
   {
    "chain": "robinhood",
@@ -1192,11 +1192,11 @@
    "stock_addr": "0xC9a981FEE1F9DEc688bb123ccDeCc63D0deBFC4e",
    "counterparty": "ROCK",
    "counterparty_meme": true,
-   "liq_usd": 92101.33,
-   "vol24_usd": 14538.33,
-   "stock_units_in_pool": 84.2894,
+   "liq_usd": 91548.05,
+   "vol24_usd": 14648,
+   "stock_units_in_pool": 83.6399,
    "stock_float": 15546.214,
-   "pct_of_float": 0.5421860267715342
+   "pct_of_float": 0.538008160700734
   },
   {
    "chain": "robinhood",
@@ -1206,11 +1206,11 @@
    "stock_addr": "0xC9a981FEE1F9DEc688bb123ccDeCc63D0deBFC4e",
    "counterparty": "CASHBIRD",
    "counterparty_meme": true,
-   "liq_usd": 69938.23,
-   "vol24_usd": 18125.26,
-   "stock_units_in_pool": 57.6439,
+   "liq_usd": 69958.63,
+   "vol24_usd": 17244.41,
+   "stock_units_in_pool": 57.668,
    "stock_float": 15546.214,
-   "pct_of_float": 0.3707905989200972
+   "pct_of_float": 0.37094562058646563
   },
   {
    "chain": "robinhood",
@@ -1220,11 +1220,11 @@
    "stock_addr": "0xC9a981FEE1F9DEc688bb123ccDeCc63D0deBFC4e",
    "counterparty": "BASEMENT",
    "counterparty_meme": true,
-   "liq_usd": 42230.76,
-   "vol24_usd": 3910.17,
-   "stock_units_in_pool": 26.241,
+   "liq_usd": 42234.6,
+   "vol24_usd": 4106.86,
+   "stock_units_in_pool": 26.3411,
    "stock_float": 15546.214,
-   "pct_of_float": 0.1687935081814775
+   "pct_of_float": 0.169437394853821
   },
   {
    "chain": "robinhood",
@@ -1235,7 +1235,7 @@
    "counterparty": "SHROOM",
    "counterparty_meme": true,
    "liq_usd": 57146.28,
-   "vol24_usd": 31935.34,
+   "vol24_usd": 26913.1,
    "stock_units_in_pool": 0.03759,
    "stock_float": 15546.214,
    "pct_of_float": 0.00024179520492899426
@@ -1249,7 +1249,7 @@
    "counterparty": "GOLDINU",
    "counterparty_meme": true,
    "liq_usd": 39530.67,
-   "vol24_usd": 345.33,
+   "vol24_usd": 322.76,
    "stock_units_in_pool": 21.9742,
    "stock_float": 15546.214,
    "pct_of_float": 0.14134759755654977
@@ -1262,11 +1262,11 @@
    "stock_addr": "0x05b37Fb53A299a1b874A619e1c4C404D52C36F4C",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 2022729.09,
-   "vol24_usd": 763705.57,
-   "stock_units_in_pool": 4629.04301,
+   "liq_usd": 2022130.22,
+   "vol24_usd": 557577.64,
+   "stock_units_in_pool": 4668.4262,
    "stock_float": 13847.74,
-   "pct_of_float": 33.42814791438892
+   "pct_of_float": 33.71254948460904
   },
   {
    "chain": "robinhood",
@@ -1276,11 +1276,11 @@
    "stock_addr": "0x05b37Fb53A299a1b874A619e1c4C404D52C36F4C",
    "counterparty": "WETH",
    "counterparty_meme": false,
-   "liq_usd": 699767.49,
-   "vol24_usd": 397957.48,
-   "stock_units_in_pool": 1493.4132,
+   "liq_usd": 698739.12,
+   "vol24_usd": 277920.97,
+   "stock_units_in_pool": 1482.5015,
    "stock_float": 13847.74,
-   "pct_of_float": 10.784526572567076
+   "pct_of_float": 10.70572887705864
   },
   {
    "chain": "robinhood",
@@ -1290,11 +1290,11 @@
    "stock_addr": "0x05b37Fb53A299a1b874A619e1c4C404D52C36F4C",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 200630.38,
-   "vol24_usd": 256036.25,
-   "stock_units_in_pool": 703.6721,
+   "liq_usd": 200706.27,
+   "vol24_usd": 238243.14,
+   "stock_units_in_pool": 703.03574,
    "stock_float": 13847.74,
-   "pct_of_float": 5.081494164390723
+   "pct_of_float": 5.076898757486782
   },
   {
    "chain": "robinhood",
@@ -1304,11 +1304,11 @@
    "stock_addr": "0x05b37Fb53A299a1b874A619e1c4C404D52C36F4C",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 123275.87,
-   "vol24_usd": 228345.39,
-   "stock_units_in_pool": 620.1133,
+   "liq_usd": 123207.68,
+   "vol24_usd": 183242.52,
+   "stock_units_in_pool": 632.2752,
    "stock_float": 13847.74,
-   "pct_of_float": 4.478083066262076
+   "pct_of_float": 4.565908949763644
   },
   {
    "chain": "robinhood",
@@ -1318,25 +1318,11 @@
    "stock_addr": "0x05b37Fb53A299a1b874A619e1c4C404D52C36F4C",
    "counterparty": "WETH",
    "counterparty_meme": false,
-   "liq_usd": 55770.16,
-   "vol24_usd": 266900.17,
-   "stock_units_in_pool": 215.1961,
+   "liq_usd": 55781.99,
+   "vol24_usd": 269724.21,
+   "stock_units_in_pool": 204.5214,
    "stock_float": 13847.74,
-   "pct_of_float": 1.5540160343853944
-  },
-  {
-   "chain": "robinhood",
-   "pair": "0x3e0718d094c0154153fd7a9bbaa3f236162c1e0d1c3ee720f7c0edb22911fe06",
-   "dex": "uniswap",
-   "stock": "RDDT",
-   "stock_addr": "0x05b37Fb53A299a1b874A619e1c4C404D52C36F4C",
-   "counterparty": "SHROOM",
-   "counterparty_meme": true,
-   "liq_usd": 65290.18,
-   "vol24_usd": 36167.19,
-   "stock_units_in_pool": 13.9785,
-   "stock_float": 13847.74,
-   "pct_of_float": 0.10094426960644842
+   "pct_of_float": 1.4769298094851577
   },
   {
    "chain": "robinhood",
@@ -1346,11 +1332,11 @@
    "stock_addr": "0x05b37Fb53A299a1b874A619e1c4C404D52C36F4C",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 54301.53,
-   "vol24_usd": 15802.55,
-   "stock_units_in_pool": 170.5581,
+   "liq_usd": 54324.72,
+   "vol24_usd": 14677.95,
+   "stock_units_in_pool": 170.4045,
    "stock_float": 13847.74,
-   "pct_of_float": 1.2316674056560855
+   "pct_of_float": 1.2305581993884924
   },
   {
    "chain": "robinhood",
@@ -1360,11 +1346,11 @@
    "stock_addr": "0x05b37Fb53A299a1b874A619e1c4C404D52C36F4C",
    "counterparty": "SPY",
    "counterparty_meme": false,
-   "liq_usd": 39187.8,
-   "vol24_usd": 105123.8,
-   "stock_units_in_pool": 172.5445,
+   "liq_usd": 39163.66,
+   "vol24_usd": 95884.25,
+   "stock_units_in_pool": 172.5153,
    "stock_float": 13847.74,
-   "pct_of_float": 1.2460119846270945
+   "pct_of_float": 1.245801119893932
   },
   {
    "chain": "robinhood",
@@ -1374,11 +1360,11 @@
    "stock_addr": "0x05b37Fb53A299a1b874A619e1c4C404D52C36F4C",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 28517.04,
-   "vol24_usd": 7047.96,
-   "stock_units_in_pool": 73.3174,
+   "liq_usd": 28512.81,
+   "vol24_usd": 6816.09,
+   "stock_units_in_pool": 75.853,
    "stock_float": 13847.74,
-   "pct_of_float": 0.5294539036694796
+   "pct_of_float": 0.5477644727587317
   },
   {
    "chain": "robinhood",
@@ -1388,11 +1374,11 @@
    "stock_addr": "0x05b37Fb53A299a1b874A619e1c4C404D52C36F4C",
    "counterparty": "SNOO",
    "counterparty_meme": true,
-   "liq_usd": 105708.84,
-   "vol24_usd": 33602.76,
-   "stock_units_in_pool": 260.427,
+   "liq_usd": 105630.2,
+   "vol24_usd": 30095.59,
+   "stock_units_in_pool": 260.1816,
    "stock_float": 13847.74,
-   "pct_of_float": 1.8806462281931928
+   "pct_of_float": 1.8788740978672331
   },
   {
    "chain": "robinhood",
@@ -1402,11 +1388,11 @@
    "stock_addr": "0x05b37Fb53A299a1b874A619e1c4C404D52C36F4C",
    "counterparty": "CHUD",
    "counterparty_meme": true,
-   "liq_usd": 50488.75,
-   "vol24_usd": 5700.86,
-   "stock_units_in_pool": 96.4801,
+   "liq_usd": 50472.46,
+   "vol24_usd": 4816.5,
+   "stock_units_in_pool": 96.429,
    "stock_float": 13847.74,
-   "pct_of_float": 0.6967209089714278
+   "pct_of_float": 0.696351895688394
   },
   {
    "chain": "robinhood",
@@ -1430,11 +1416,11 @@
    "stock_addr": "0x05b37Fb53A299a1b874A619e1c4C404D52C36F4C",
    "counterparty": "MODERATOR",
    "counterparty_meme": true,
-   "liq_usd": 27895.75,
-   "vol24_usd": 2124.66,
-   "stock_units_in_pool": 31.4345,
+   "liq_usd": 27795.88,
+   "vol24_usd": 2174.62,
+   "stock_units_in_pool": 31.1207,
    "stock_float": 13847.74,
-   "pct_of_float": 0.22700094022562525
+   "pct_of_float": 0.2247348664836284
   },
   {
    "chain": "robinhood",
@@ -1444,11 +1430,11 @@
    "stock_addr": "0xfB5b5778d45AE47F15323fb59B666c655174A79C",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 87405.44,
-   "vol24_usd": 211956.11,
-   "stock_units_in_pool": 226.6093,
+   "liq_usd": 102646.78,
+   "vol24_usd": 215329.47,
+   "stock_units_in_pool": 254.4627,
    "stock_float": 3563.985071857587,
-   "pct_of_float": 6.358312266495797
+   "pct_of_float": 7.1398363031686705
   },
   {
    "chain": "robinhood",
@@ -1458,11 +1444,11 @@
    "stock_addr": "0xfB5b5778d45AE47F15323fb59B666c655174A79C",
    "counterparty": "COOKWARE",
    "counterparty_meme": true,
-   "liq_usd": 51655.86,
-   "vol24_usd": 19359.74,
-   "stock_units_in_pool": 209.2278,
+   "liq_usd": 52435.17,
+   "vol24_usd": 18929.72,
+   "stock_units_in_pool": 209.5411,
    "stock_float": 3563.985071857587,
-   "pct_of_float": 5.870613815196152
+   "pct_of_float": 5.879404536640917
   },
   {
    "chain": "robinhood",
@@ -1472,11 +1458,25 @@
    "stock_addr": "0xfB5b5778d45AE47F15323fb59B666c655174A79C",
    "counterparty": "HOOD",
    "counterparty_meme": true,
-   "liq_usd": 42152.62,
-   "vol24_usd": 13282.53,
-   "stock_units_in_pool": 149.621,
+   "liq_usd": 40412.53,
+   "vol24_usd": 14342.53,
+   "stock_units_in_pool": 141.03753,
    "stock_float": 3563.985071857587,
-   "pct_of_float": 4.1981376740732514
+   "pct_of_float": 3.957298562041668
+  },
+  {
+   "chain": "robinhood",
+   "pair": "0xd54be1be12fbc3ccdb36cfc8693ee5e55cb2718829236cb3cd07d69b3afd93ac",
+   "dex": "uniswap",
+   "stock": "HOODon",
+   "stock_addr": "0xfB5b5778d45AE47F15323fb59B666c655174A79C",
+   "counterparty": "RSTR",
+   "counterparty_meme": true,
+   "liq_usd": 26100.65,
+   "vol24_usd": 117.58,
+   "stock_units_in_pool": 0.3455,
+   "stock_float": 3563.985071857587,
+   "pct_of_float": 0.009694204465899227
   },
   {
    "chain": "robinhood",
@@ -1486,11 +1486,11 @@
    "stock_addr": "0x32aC8C1D7672667D5EbdEa22935F7B06fC8D496f",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 151116.4,
-   "vol24_usd": 1827207.3,
-   "stock_units_in_pool": 637.9237,
+   "liq_usd": 151051.2,
+   "vol24_usd": 1763102.37,
+   "stock_units_in_pool": 610.3228,
    "stock_float": 10134.41218754561,
-   "pct_of_float": 6.294629507806657
+   "pct_of_float": 6.022281200976199
   },
   {
    "chain": "robinhood",
@@ -1500,11 +1500,11 @@
    "stock_addr": "0x32aC8C1D7672667D5EbdEa22935F7B06fC8D496f",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 420998.31,
-   "vol24_usd": 373402.71,
-   "stock_units_in_pool": 1651.857,
+   "liq_usd": 421775.6,
+   "vol24_usd": 378268.72,
+   "stock_units_in_pool": 1584.166,
    "stock_float": 10134.41218754561,
-   "pct_of_float": 16.299485055778582
+   "pct_of_float": 15.631552878289426
   },
   {
    "chain": "robinhood",
@@ -1514,11 +1514,11 @@
    "stock_addr": "0x32aC8C1D7672667D5EbdEa22935F7B06fC8D496f",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 36280.46,
-   "vol24_usd": 42312.92,
-   "stock_units_in_pool": 134.4812,
+   "liq_usd": 36308.71,
+   "vol24_usd": 34317.1,
+   "stock_units_in_pool": 133.02062,
    "stock_float": 10134.41218754561,
-   "pct_of_float": 1.326975827618959
+   "pct_of_float": 1.3125637435930604
   },
   {
    "chain": "robinhood",
@@ -1528,11 +1528,11 @@
    "stock_addr": "0x32aC8C1D7672667D5EbdEa22935F7B06fC8D496f",
    "counterparty": "SWOLE",
    "counterparty_meme": true,
-   "liq_usd": 253200.39,
-   "vol24_usd": 1573361.1,
-   "stock_units_in_pool": 1007.02757,
+   "liq_usd": 250810.31,
+   "vol24_usd": 1569529.81,
+   "stock_units_in_pool": 993.9339,
    "stock_float": 10134.41218754561,
-   "pct_of_float": 9.93671415138963
+   "pct_of_float": 9.807514058106557
   },
   {
    "chain": "robinhood",
@@ -1542,11 +1542,11 @@
    "stock_addr": "0x32aC8C1D7672667D5EbdEa22935F7B06fC8D496f",
    "counterparty": "HOODCAT",
    "counterparty_meme": true,
-   "liq_usd": 46790.98,
-   "vol24_usd": 251961.5,
-   "stock_units_in_pool": 170.7522,
+   "liq_usd": 47459.68,
+   "vol24_usd": 186712.61,
+   "stock_units_in_pool": 173.399,
    "stock_float": 10134.41218754561,
-   "pct_of_float": 1.684875223546176
+   "pct_of_float": 1.7109921798236474
   },
   {
    "chain": "robinhood",
@@ -1556,11 +1556,11 @@
    "stock_addr": "0x32aC8C1D7672667D5EbdEa22935F7B06fC8D496f",
    "counterparty": "FORESKIN",
    "counterparty_meme": true,
-   "liq_usd": 69020.04,
-   "vol24_usd": 218298.18,
-   "stock_units_in_pool": 258.7384,
+   "liq_usd": 84396.03,
+   "vol24_usd": 214283.87,
+   "stock_units_in_pool": 319.5991,
    "stock_float": 10134.41218754561,
-   "pct_of_float": 2.5530676590988577
+   "pct_of_float": 3.153602735763619
   },
   {
    "chain": "robinhood",
@@ -1570,11 +1570,11 @@
    "stock_addr": "0x32aC8C1D7672667D5EbdEa22935F7B06fC8D496f",
    "counterparty": "CUCK",
    "counterparty_meme": true,
-   "liq_usd": 173873.18,
-   "vol24_usd": 664874.17,
-   "stock_units_in_pool": 687.006305,
+   "liq_usd": 173901.58,
+   "vol24_usd": 664880.96,
+   "stock_units_in_pool": 684.7874,
    "stock_float": 10134.41218754561,
-   "pct_of_float": 6.778945757152806
+   "pct_of_float": 6.757050999381588
   },
   {
    "chain": "robinhood",
@@ -1584,11 +1584,11 @@
    "stock_addr": "0x32aC8C1D7672667D5EbdEa22935F7B06fC8D496f",
    "counterparty": "UNICORN",
    "counterparty_meme": true,
-   "liq_usd": 40768.13,
-   "vol24_usd": 107895.34,
-   "stock_units_in_pool": 146.9127,
+   "liq_usd": 39149.63,
+   "vol24_usd": 106168.86,
+   "stock_units_in_pool": 140.5064,
    "stock_float": 10134.41218754561,
-   "pct_of_float": 1.449642044168522
+   "pct_of_float": 1.3864287084422249
   },
   {
    "chain": "robinhood",
@@ -1626,11 +1626,11 @@
    "stock_addr": "0x117cc2133c37B721F49dE2A7a74833232B3B4C0C",
    "counterparty": "WETH",
    "counterparty_meme": false,
-   "liq_usd": 1744875.57,
-   "vol24_usd": 9472730.78,
-   "stock_units_in_pool": 1348.1185,
+   "liq_usd": 1766179.04,
+   "vol24_usd": 9529136.02,
+   "stock_units_in_pool": 1322.1853,
    "stock_float": 22573.21,
-   "pct_of_float": 5.972205548081111
+   "pct_of_float": 5.857320691208739
   },
   {
    "chain": "robinhood",
@@ -1640,11 +1640,11 @@
    "stock_addr": "0x117cc2133c37B721F49dE2A7a74833232B3B4C0C",
    "counterparty": "WETH",
    "counterparty_meme": false,
-   "liq_usd": 174781.25,
-   "vol24_usd": 4895724.61,
-   "stock_units_in_pool": 177.989,
+   "liq_usd": 174449.42,
+   "vol24_usd": 4809067.81,
+   "stock_units_in_pool": 176.007913,
    "stock_float": 22573.21,
-   "pct_of_float": 0.7884966294115902
+   "pct_of_float": 0.7797203543492486
   },
   {
    "chain": "robinhood",
@@ -1654,11 +1654,11 @@
    "stock_addr": "0x117cc2133c37B721F49dE2A7a74833232B3B4C0C",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 561458.14,
-   "vol24_usd": 6257737.52,
-   "stock_units_in_pool": 345.7519,
+   "liq_usd": 561508.32,
+   "vol24_usd": 6173898.12,
+   "stock_units_in_pool": 336.04163,
    "stock_float": 22573.21,
-   "pct_of_float": 1.5316913279059559
+   "pct_of_float": 1.4886745394208445
   },
   {
    "chain": "robinhood",
@@ -1668,11 +1668,11 @@
    "stock_addr": "0x117cc2133c37B721F49dE2A7a74833232B3B4C0C",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 10149155.09,
-   "vol24_usd": 2743787.86,
-   "stock_units_in_pool": 3308.9837,
+   "liq_usd": 10188713.65,
+   "vol24_usd": 2706433.61,
+   "stock_units_in_pool": 3323.7681,
    "stock_float": 22573.21,
-   "pct_of_float": 14.658897427525815
+   "pct_of_float": 14.724392764697622
   },
   {
    "chain": "robinhood",
@@ -1682,11 +1682,11 @@
    "stock_addr": "0x117cc2133c37B721F49dE2A7a74833232B3B4C0C",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 2015281.83,
-   "vol24_usd": 4372228.55,
-   "stock_units_in_pool": 1141.001294,
+   "liq_usd": 1997023.84,
+   "vol24_usd": 4417437.65,
+   "stock_units_in_pool": 1162.3805,
    "stock_float": 22573.21,
-   "pct_of_float": 5.054670089012594
+   "pct_of_float": 5.149380615340043
   },
   {
    "chain": "robinhood",
@@ -1696,11 +1696,11 @@
    "stock_addr": "0x117cc2133c37B721F49dE2A7a74833232B3B4C0C",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 182153.35,
-   "vol24_usd": 2631538.63,
-   "stock_units_in_pool": 122.6835,
+   "liq_usd": 182184.21,
+   "vol24_usd": 2591595.18,
+   "stock_units_in_pool": 122.5525,
    "stock_float": 22573.21,
-   "pct_of_float": 0.5434915991123991
+   "pct_of_float": 0.5429112651678694
   },
   {
    "chain": "robinhood",
@@ -1710,11 +1710,11 @@
    "stock_addr": "0x117cc2133c37B721F49dE2A7a74833232B3B4C0C",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 219747.62,
-   "vol24_usd": 847148.6,
-   "stock_units_in_pool": 127.8218,
+   "liq_usd": 219789.78,
+   "vol24_usd": 877117.04,
+   "stock_units_in_pool": 125.01475,
    "stock_float": 22573.21,
-   "pct_of_float": 0.566254422831312
+   "pct_of_float": 0.553819106808469
   },
   {
    "chain": "robinhood",
@@ -1724,11 +1724,11 @@
    "stock_addr": "0x117cc2133c37B721F49dE2A7a74833232B3B4C0C",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 1415584.72,
-   "vol24_usd": 3437659.47,
-   "stock_units_in_pool": 880.09245,
+   "liq_usd": 1412434.24,
+   "vol24_usd": 3386112.24,
+   "stock_units_in_pool": 879.339,
    "stock_float": 22573.21,
-   "pct_of_float": 3.898836053888658
+   "pct_of_float": 3.89549824770159
   },
   {
    "chain": "robinhood",
@@ -1738,11 +1738,11 @@
    "stock_addr": "0x117cc2133c37B721F49dE2A7a74833232B3B4C0C",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 143326.76,
-   "vol24_usd": 11855.49,
-   "stock_units_in_pool": 85.1732,
+   "liq_usd": 143399.07,
+   "vol24_usd": 16791.56,
+   "stock_units_in_pool": 86.8481,
    "stock_float": 22573.21,
-   "pct_of_float": 0.37731984064295687
+   "pct_of_float": 0.3847396980757279
   },
   {
    "chain": "robinhood",
@@ -1752,11 +1752,11 @@
    "stock_addr": "0x117cc2133c37B721F49dE2A7a74833232B3B4C0C",
    "counterparty": "HIMS",
    "counterparty_meme": false,
-   "liq_usd": 155105.16,
-   "vol24_usd": 1295406.5,
-   "stock_units_in_pool": 104.1413,
+   "liq_usd": 166107.35,
+   "vol24_usd": 1310985.76,
+   "stock_units_in_pool": 118.4221,
    "stock_float": 22573.21,
-   "pct_of_float": 0.46134909478979735
+   "pct_of_float": 0.5246134687977474
   },
   {
    "chain": "robinhood",
@@ -1766,11 +1766,11 @@
    "stock_addr": "0x117cc2133c37B721F49dE2A7a74833232B3B4C0C",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 63557.94,
-   "vol24_usd": 2475894.01,
-   "stock_units_in_pool": 36.4277,
+   "liq_usd": 68928.94,
+   "vol24_usd": 2413332.42,
+   "stock_units_in_pool": 36.6079,
    "stock_float": 22573.21,
-   "pct_of_float": 0.1613758078713661
+   "pct_of_float": 0.16217409929735294
   },
   {
    "chain": "robinhood",
@@ -1780,11 +1780,11 @@
    "stock_addr": "0x117cc2133c37B721F49dE2A7a74833232B3B4C0C",
    "counterparty": "ETH",
    "counterparty_meme": false,
-   "liq_usd": 138839.18,
-   "vol24_usd": 138941.71,
-   "stock_units_in_pool": 93.05895,
+   "liq_usd": 138701.45,
+   "vol24_usd": 139333.77,
+   "stock_units_in_pool": 92.6857,
    "stock_float": 22573.21,
-   "pct_of_float": 0.4122539505901021
+   "pct_of_float": 0.4106004418512032
   },
   {
    "chain": "robinhood",
@@ -1794,11 +1794,11 @@
    "stock_addr": "0x117cc2133c37B721F49dE2A7a74833232B3B4C0C",
    "counterparty": "MU",
    "counterparty_meme": false,
-   "liq_usd": 440045.28,
-   "vol24_usd": 1169949.09,
-   "stock_units_in_pool": 377.463,
+   "liq_usd": 418577.38,
+   "vol24_usd": 1064873.26,
+   "stock_units_in_pool": 359.9773,
    "stock_float": 22573.21,
-   "pct_of_float": 1.672172455756182
+   "pct_of_float": 1.5947102782457614
   },
   {
    "chain": "robinhood",
@@ -1808,11 +1808,11 @@
    "stock_addr": "0x117cc2133c37B721F49dE2A7a74833232B3B4C0C",
    "counterparty": "NVDA",
    "counterparty_meme": false,
-   "liq_usd": 938677.77,
-   "vol24_usd": 380272.89,
-   "stock_units_in_pool": 758.6357,
+   "liq_usd": 938656.05,
+   "vol24_usd": 378962.88,
+   "stock_units_in_pool": 759.7681,
    "stock_float": 22573.21,
-   "pct_of_float": 3.360778994214824
+   "pct_of_float": 3.3657955603124234
   },
   {
    "chain": "robinhood",
@@ -1836,11 +1836,11 @@
    "stock_addr": "0x117cc2133c37B721F49dE2A7a74833232B3B4C0C",
    "counterparty": "WETH",
    "counterparty_meme": false,
-   "liq_usd": 78896.93,
-   "vol24_usd": 591053.28,
-   "stock_units_in_pool": 81.8859,
+   "liq_usd": 78795.18,
+   "vol24_usd": 605488.04,
+   "stock_units_in_pool": 81.1573,
    "stock_float": 22573.21,
-   "pct_of_float": 0.3627570026593471
+   "pct_of_float": 0.3595292827205347
   },
   {
    "chain": "robinhood",
@@ -1850,11 +1850,11 @@
    "stock_addr": "0x117cc2133c37B721F49dE2A7a74833232B3B4C0C",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 62233.04,
-   "vol24_usd": 184914.3,
-   "stock_units_in_pool": 33.7564,
+   "liq_usd": 62235.45,
+   "vol24_usd": 182438.82,
+   "stock_units_in_pool": 33.866,
    "stock_float": 22573.21,
-   "pct_of_float": 0.14954186843607978
+   "pct_of_float": 0.15002739973623602
   },
   {
    "chain": "robinhood",
@@ -1878,11 +1878,11 @@
    "stock_addr": "0x117cc2133c37B721F49dE2A7a74833232B3B4C0C",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 36741.88,
-   "vol24_usd": 7254.5,
-   "stock_units_in_pool": 20.2557,
+   "liq_usd": 36733.13,
+   "vol24_usd": 7747.96,
+   "stock_units_in_pool": 20.581,
    "stock_float": 22573.21,
-   "pct_of_float": 0.08973336091765416
+   "pct_of_float": 0.0911744497127347
   },
   {
    "chain": "robinhood",
@@ -1892,11 +1892,11 @@
    "stock_addr": "0x117cc2133c37B721F49dE2A7a74833232B3B4C0C",
    "counterparty": "ETH",
    "counterparty_meme": false,
-   "liq_usd": 30189.81,
-   "vol24_usd": 11.13,
-   "stock_units_in_pool": 27.3622,
+   "liq_usd": 30133.86,
+   "vol24_usd": 23.68,
+   "stock_units_in_pool": 27.3779,
    "stock_float": 22573.21,
-   "pct_of_float": 0.12121536990086922
+   "pct_of_float": 0.12128492137361059
   },
   {
    "chain": "robinhood",
@@ -1906,11 +1906,11 @@
    "stock_addr": "0x117cc2133c37B721F49dE2A7a74833232B3B4C0C",
    "counterparty": "ETH",
    "counterparty_meme": false,
-   "liq_usd": 28324.83,
-   "vol24_usd": 3847.17,
-   "stock_units_in_pool": 30.1376,
+   "liq_usd": 28404.1,
+   "vol24_usd": 3706.59,
+   "stock_units_in_pool": 30.1316,
    "stock_float": 22573.21,
-   "pct_of_float": 0.13351047547070177
+   "pct_of_float": 0.1334838952900363
   },
   {
    "chain": "robinhood",
@@ -1934,11 +1934,11 @@
    "stock_addr": "0xfF080c8ce2E5feadaCa0Da81314Ae59D232d4afD",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 1628381.93,
-   "vol24_usd": 1783417.04,
-   "stock_units_in_pool": 466.9349,
+   "liq_usd": 1628463.79,
+   "vol24_usd": 1615016.76,
+   "stock_units_in_pool": 466.9629,
    "stock_float": 4223.30363887,
-   "pct_of_float": 11.05615271661913
+   "pct_of_float": 11.056815704706043
   },
   {
    "chain": "robinhood",
@@ -1948,11 +1948,11 @@
    "stock_addr": "0xfF080c8ce2E5feadaCa0Da81314Ae59D232d4afD",
    "counterparty": "ETH",
    "counterparty_meme": false,
-   "liq_usd": 246594.32,
-   "vol24_usd": 106070.31,
-   "stock_units_in_pool": 93.2805,
+   "liq_usd": 246177.13,
+   "vol24_usd": 80761.09,
+   "stock_units_in_pool": 93.1546,
    "stock_float": 4223.30363887,
-   "pct_of_float": 2.2087092943418676
+   "pct_of_float": 2.2057282157653417
   },
   {
    "chain": "robinhood",
@@ -1962,11 +1962,11 @@
    "stock_addr": "0xfF080c8ce2E5feadaCa0Da81314Ae59D232d4afD",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 677352.72,
-   "vol24_usd": 207617.83,
-   "stock_units_in_pool": 193.8089,
+   "liq_usd": 602165.56,
+   "vol24_usd": 219925.99,
+   "stock_units_in_pool": 155.3147,
    "stock_float": 4223.30363887,
-   "pct_of_float": 4.589035422796551
+   "pct_of_float": 3.677564136533561
   },
   {
    "chain": "robinhood",
@@ -1976,11 +1976,25 @@
    "stock_addr": "0xfF080c8ce2E5feadaCa0Da81314Ae59D232d4afD",
    "counterparty": "WETH",
    "counterparty_meme": false,
-   "liq_usd": 69160.22,
-   "vol24_usd": 64915.8,
-   "stock_units_in_pool": 15.6874,
+   "liq_usd": 68984.06,
+   "vol24_usd": 60670.19,
+   "stock_units_in_pool": 16.0346,
    "stock_float": 4223.30363887,
-   "pct_of_float": 0.3714485469530997
+   "pct_of_float": 0.3796695992308587
+  },
+  {
+   "chain": "robinhood",
+   "pair": "0xbb92a955aa62bb1be9bf9a7de69c8cf1ada708107c5829a68873bbceb83aee4c",
+   "dex": "uniswap",
+   "stock": "MU",
+   "stock_addr": "0xfF080c8ce2E5feadaCa0Da81314Ae59D232d4afD",
+   "counterparty": "WETH",
+   "counterparty_meme": false,
+   "liq_usd": 32231.62,
+   "vol24_usd": 959.86,
+   "stock_units_in_pool": 16.5194,
+   "stock_float": 4223.30363887,
+   "pct_of_float": 0.3911487643928908
   },
   {
    "chain": "robinhood",
@@ -1990,11 +2004,11 @@
    "stock_addr": "0xfF080c8ce2E5feadaCa0Da81314Ae59D232d4afD",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 42488.77,
-   "vol24_usd": 86824.25,
-   "stock_units_in_pool": 10.7646,
+   "liq_usd": 42486.19,
+   "vol24_usd": 82369.65,
+   "stock_units_in_pool": 10.7364,
    "stock_float": 4223.30363887,
-   "pct_of_float": 0.2548857700148741
+   "pct_of_float": 0.2542180462987658
   },
   {
    "chain": "robinhood",
@@ -2004,11 +2018,11 @@
    "stock_addr": "0xfF080c8ce2E5feadaCa0Da81314Ae59D232d4afD",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 31041.03,
-   "vol24_usd": 23865.49,
-   "stock_units_in_pool": 6.3716,
+   "liq_usd": 31043.16,
+   "vol24_usd": 19304.91,
+   "stock_units_in_pool": 6.3182,
    "stock_float": 4223.30363887,
-   "pct_of_float": 0.1508676748069387
+   "pct_of_float": 0.14960326181260594
   },
   {
    "chain": "robinhood",
@@ -2018,11 +2032,11 @@
    "stock_addr": "0xfF080c8ce2E5feadaCa0Da81314Ae59D232d4afD",
    "counterparty": "WETH",
    "counterparty_meme": false,
-   "liq_usd": 26749.14,
-   "vol24_usd": 28880.84,
-   "stock_units_in_pool": 15.7216,
+   "liq_usd": 26737.22,
+   "vol24_usd": 40456.35,
+   "stock_units_in_pool": 15.857,
    "stock_float": 4223.30363887,
-   "pct_of_float": 0.3722583395449757
+   "pct_of_float": 0.375464360508134
   },
   {
    "chain": "robinhood",
@@ -2032,11 +2046,11 @@
    "stock_addr": "0xfF080c8ce2E5feadaCa0Da81314Ae59D232d4afD",
    "counterparty": "SHROOM",
    "counterparty_meme": true,
-   "liq_usd": 458793.46,
-   "vol24_usd": 749491.19,
-   "stock_units_in_pool": 219.3121,
+   "liq_usd": 390063.16,
+   "vol24_usd": 644391.47,
+   "stock_units_in_pool": 186.7646,
    "stock_float": 4223.30363887,
-   "pct_of_float": 5.192903914876454
+   "pct_of_float": 4.422239459201453
   },
   {
    "chain": "robinhood",
@@ -2046,11 +2060,11 @@
    "stock_addr": "0xfF080c8ce2E5feadaCa0Da81314Ae59D232d4afD",
    "counterparty": "MOO",
    "counterparty_meme": true,
-   "liq_usd": 1513983.15,
-   "vol24_usd": 2099045.1,
-   "stock_units_in_pool": 660.1497,
+   "liq_usd": 1577062.02,
+   "vol24_usd": 1985061.86,
+   "stock_units_in_pool": 687.6583,
    "stock_float": 4223.30363887,
-   "pct_of_float": 15.63112095290008
+   "pct_of_float": 16.28247359889075
   },
   {
    "chain": "robinhood",
@@ -2060,25 +2074,11 @@
    "stock_addr": "0xfF080c8ce2E5feadaCa0Da81314Ae59D232d4afD",
    "counterparty": "SEMI",
    "counterparty_meme": true,
-   "liq_usd": 828039.23,
-   "vol24_usd": 37490.48,
-   "stock_units_in_pool": 395.8187,
+   "liq_usd": 819512.93,
+   "vol24_usd": 40781.34,
+   "stock_units_in_pool": 392.395,
    "stock_float": 4223.30363887,
-   "pct_of_float": 9.37225295280702
-  },
-  {
-   "chain": "robinhood",
-   "pair": "0x4d32cc447a6678feacdc39a82dba052870817b1b05499eec611ffc7395c2f201",
-   "dex": "uniswap",
-   "stock": "MU",
-   "stock_addr": "0xfF080c8ce2E5feadaCa0Da81314Ae59D232d4afD",
-   "counterparty": "MU",
-   "counterparty_meme": true,
-   "liq_usd": 26104.84,
-   "vol24_usd": 28115.58,
-   "stock_units_in_pool": 12.4786,
-   "stock_float": 4223.30363887,
-   "pct_of_float": 0.29547011219252073
+   "pct_of_float": 9.291186084479362
   },
   {
    "chain": "robinhood",
@@ -2088,11 +2088,11 @@
    "stock_addr": "0xfF080c8ce2E5feadaCa0Da81314Ae59D232d4afD",
    "counterparty": "DATAINU",
    "counterparty_meme": true,
-   "liq_usd": 40463.65,
-   "vol24_usd": 987.79,
-   "stock_units_in_pool": 8.8486,
+   "liq_usd": 39279.23,
+   "vol24_usd": 1434,
+   "stock_units_in_pool": 8.3278,
    "stock_float": 4223.30363887,
-   "pct_of_float": 0.2095184423530475
+   "pct_of_float": 0.19718686393640905
   },
   {
    "chain": "robinhood",
@@ -2102,11 +2102,11 @@
    "stock_addr": "0xd0601CE157Db5bdC3162BbaC2a2C8aF5320D9EEC",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 6878600.97,
-   "vol24_usd": 24123005.98,
-   "stock_units_in_pool": 7235.7187,
+   "liq_usd": 6891830.99,
+   "vol24_usd": 24328336.83,
+   "stock_units_in_pool": 7149.5917,
    "stock_float": 65877.268,
-   "pct_of_float": 10.98363505298975
+   "pct_of_float": 10.85289648016369
   },
   {
    "chain": "robinhood",
@@ -2116,11 +2116,11 @@
    "stock_addr": "0xd0601CE157Db5bdC3162BbaC2a2C8aF5320D9EEC",
    "counterparty": "WETH",
    "counterparty_meme": false,
-   "liq_usd": 1087760.61,
-   "vol24_usd": 6806613.21,
-   "stock_units_in_pool": 2408.2744,
+   "liq_usd": 1087833.31,
+   "vol24_usd": 6805583.08,
+   "stock_units_in_pool": 2394.8552,
    "stock_float": 65877.268,
-   "pct_of_float": 3.655698654655806
+   "pct_of_float": 3.6353286538840686
   },
   {
    "chain": "robinhood",
@@ -2130,11 +2130,11 @@
    "stock_addr": "0xd0601CE157Db5bdC3162BbaC2a2C8aF5320D9EEC",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 115145.77,
-   "vol24_usd": 3327425.38,
-   "stock_units_in_pool": 180.08509,
+   "liq_usd": 115166.63,
+   "vol24_usd": 3295285.91,
+   "stock_units_in_pool": 175.3036,
    "stock_float": 65877.268,
-   "pct_of_float": 0.27336453903947566
+   "pct_of_float": 0.2661063600876709
   },
   {
    "chain": "robinhood",
@@ -2144,11 +2144,11 @@
    "stock_addr": "0xd0601CE157Db5bdC3162BbaC2a2C8aF5320D9EEC",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 108005.71,
-   "vol24_usd": 2739435.43,
-   "stock_units_in_pool": 266.9931,
+   "liq_usd": 77354.37,
+   "vol24_usd": 2697807.71,
+   "stock_units_in_pool": 248.9586,
    "stock_float": 65877.268,
-   "pct_of_float": 0.40528866497621
+   "pct_of_float": 0.37791275740214364
   },
   {
    "chain": "robinhood",
@@ -2158,11 +2158,11 @@
    "stock_addr": "0xd0601CE157Db5bdC3162BbaC2a2C8aF5320D9EEC",
    "counterparty": "WETH",
    "counterparty_meme": false,
-   "liq_usd": 312097.01,
-   "vol24_usd": 362091.75,
-   "stock_units_in_pool": 600.9498,
+   "liq_usd": 311337.26,
+   "vol24_usd": 345106.47,
+   "stock_units_in_pool": 599.621,
    "stock_float": 65877.268,
-   "pct_of_float": 0.9122263540133451
+   "pct_of_float": 0.9102092697590313
   },
   {
    "chain": "robinhood",
@@ -2172,25 +2172,11 @@
    "stock_addr": "0xd0601CE157Db5bdC3162BbaC2a2C8aF5320D9EEC",
    "counterparty": "WETH",
    "counterparty_meme": false,
-   "liq_usd": 85990.62,
-   "vol24_usd": 746668.15,
-   "stock_units_in_pool": 176.4574,
+   "liq_usd": 85915.57,
+   "vol24_usd": 747440.36,
+   "stock_units_in_pool": 168.2149,
    "stock_float": 65877.268,
-   "pct_of_float": 0.26785779883889543
-  },
-  {
-   "chain": "robinhood",
-   "pair": "0x3bb34a44f1b2b5f32c034c38a53065a521a47b199700fa9bd19d60985ff24bf1",
-   "dex": "uniswap",
-   "stock": "NVDA",
-   "stock_addr": "0xd0601CE157Db5bdC3162BbaC2a2C8aF5320D9EEC",
-   "counterparty": "USDG",
-   "counterparty_meme": false,
-   "liq_usd": 1025514.92,
-   "vol24_usd": 308502.99,
-   "stock_units_in_pool": 1393.06867,
-   "stock_float": 65877.268,
-   "pct_of_float": 2.114642443885196
+   "pct_of_float": 0.25534589564339555
   },
   {
    "chain": "robinhood",
@@ -2200,11 +2186,25 @@
    "stock_addr": "0xd0601CE157Db5bdC3162BbaC2a2C8aF5320D9EEC",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 343665.67,
-   "vol24_usd": 1354830.31,
-   "stock_units_in_pool": 553.4187,
+   "liq_usd": 343327.67,
+   "vol24_usd": 1355019.91,
+   "stock_units_in_pool": 514.9812,
    "stock_float": 65877.268,
-   "pct_of_float": 0.840075365602593
+   "pct_of_float": 0.7817282283169363
+  },
+  {
+   "chain": "robinhood",
+   "pair": "0x3bb34a44f1b2b5f32c034c38a53065a521a47b199700fa9bd19d60985ff24bf1",
+   "dex": "uniswap",
+   "stock": "NVDA",
+   "stock_addr": "0xd0601CE157Db5bdC3162BbaC2a2C8aF5320D9EEC",
+   "counterparty": "USDG",
+   "counterparty_meme": false,
+   "liq_usd": 1021402.85,
+   "vol24_usd": 217274.62,
+   "stock_units_in_pool": 1399.04558,
+   "stock_float": 65877.268,
+   "pct_of_float": 2.123715239678731
   },
   {
    "chain": "robinhood",
@@ -2214,11 +2214,11 @@
    "stock_addr": "0xd0601CE157Db5bdC3162BbaC2a2C8aF5320D9EEC",
    "counterparty": "ETH",
    "counterparty_meme": false,
-   "liq_usd": 176775.42,
-   "vol24_usd": 10787.37,
-   "stock_units_in_pool": 363.722,
+   "liq_usd": 212551.32,
+   "vol24_usd": 10591.35,
+   "stock_units_in_pool": 465.6427,
    "stock_float": 65877.268,
-   "pct_of_float": 0.5521206495691352
+   "pct_of_float": 0.7068336531502795
   },
   {
    "chain": "robinhood",
@@ -2242,11 +2242,11 @@
    "stock_addr": "0xd0601CE157Db5bdC3162BbaC2a2C8aF5320D9EEC",
    "counterparty": "WETH",
    "counterparty_meme": false,
-   "liq_usd": 52544.31,
-   "vol24_usd": 16515.27,
-   "stock_units_in_pool": 171.7861,
+   "liq_usd": 52535.22,
+   "vol24_usd": 25774.1,
+   "stock_units_in_pool": 162.6673,
    "stock_float": 65877.268,
-   "pct_of_float": 0.26076688547557864
+   "pct_of_float": 0.24692478139803856
   },
   {
    "chain": "robinhood",
@@ -2256,11 +2256,11 @@
    "stock_addr": "0xd0601CE157Db5bdC3162BbaC2a2C8aF5320D9EEC",
    "counterparty": "WETH",
    "counterparty_meme": false,
-   "liq_usd": 43458.36,
-   "vol24_usd": 215955.32,
-   "stock_units_in_pool": 75.1815,
+   "liq_usd": 44508.5,
+   "vol24_usd": 227468.28,
+   "stock_units_in_pool": 76.852,
    "stock_float": 65877.268,
-   "pct_of_float": 0.11412358508856198
+   "pct_of_float": 0.11665936116233601
   },
   {
    "chain": "robinhood",
@@ -2270,11 +2270,11 @@
    "stock_addr": "0xd0601CE157Db5bdC3162BbaC2a2C8aF5320D9EEC",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 51321.48,
-   "vol24_usd": 347881.46,
-   "stock_units_in_pool": 153.6415,
+   "liq_usd": 51271.37,
+   "vol24_usd": 349400.87,
+   "stock_units_in_pool": 149.6517,
    "stock_float": 65877.268,
-   "pct_of_float": 0.2332238489307116
+   "pct_of_float": 0.22716743505513923
   },
   {
    "chain": "robinhood",
@@ -2284,11 +2284,11 @@
    "stock_addr": "0xd0601CE157Db5bdC3162BbaC2a2C8aF5320D9EEC",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 45205.36,
-   "vol24_usd": 39431.99,
-   "stock_units_in_pool": 170.4925,
+   "liq_usd": 45214.13,
+   "vol24_usd": 39573.59,
+   "stock_units_in_pool": 170.5329,
    "stock_float": 65877.268,
-   "pct_of_float": 0.25880323391674354
+   "pct_of_float": 0.25886456007859954
   },
   {
    "chain": "robinhood",
@@ -2298,11 +2298,11 @@
    "stock_addr": "0xd0601CE157Db5bdC3162BbaC2a2C8aF5320D9EEC",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 36591.97,
-   "vol24_usd": 523862.52,
-   "stock_units_in_pool": 69.7699,
+   "liq_usd": 36600.68,
+   "vol24_usd": 518549.7,
+   "stock_units_in_pool": 61.2372,
    "stock_float": 65877.268,
-   "pct_of_float": 0.10590891534846285
+   "pct_of_float": 0.092956496010126
   },
   {
    "chain": "robinhood",
@@ -2312,11 +2312,11 @@
    "stock_addr": "0xd0601CE157Db5bdC3162BbaC2a2C8aF5320D9EEC",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 45956.38,
-   "vol24_usd": 12109.4,
-   "stock_units_in_pool": 75.3138,
+   "liq_usd": 45958.1,
+   "vol24_usd": 12499.08,
+   "stock_units_in_pool": 75.2615,
    "stock_float": 65877.268,
-   "pct_of_float": 0.11432441308889738
+   "pct_of_float": 0.1142450230328313
   },
   {
    "chain": "robinhood",
@@ -2326,11 +2326,11 @@
    "stock_addr": "0x322F0929c4625eD5bAd873c95208D54E1c003b2d",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 1362400.13,
-   "vol24_usd": 1269869.57,
-   "stock_units_in_pool": 1735.1637,
+   "liq_usd": 1362329.99,
+   "vol24_usd": 1264747.27,
+   "stock_units_in_pool": 1724.5533,
    "stock_float": 12254.791,
-   "pct_of_float": 14.159063993829028
+   "pct_of_float": 14.072482345884154
   },
   {
    "chain": "robinhood",
@@ -2340,25 +2340,11 @@
    "stock_addr": "0x322F0929c4625eD5bAd873c95208D54E1c003b2d",
    "counterparty": "WETH",
    "counterparty_meme": false,
-   "liq_usd": 146933.73,
-   "vol24_usd": 13164.24,
-   "stock_units_in_pool": 237.9615,
+   "liq_usd": 146735.41,
+   "vol24_usd": 32097.8,
+   "stock_units_in_pool": 231.4458,
    "stock_float": 12254.791,
-   "pct_of_float": 1.9417834216838132
-  },
-  {
-   "chain": "robinhood",
-   "pair": "0xd5effce87036cd858146c0c15fa825c231a9de1843200ca108e431e431331e8e",
-   "dex": "uniswap",
-   "stock": "TSLA",
-   "stock_addr": "0x322F0929c4625eD5bAd873c95208D54E1c003b2d",
-   "counterparty": "USDG",
-   "counterparty_meme": false,
-   "liq_usd": 623953.75,
-   "vol24_usd": 13531245.05,
-   "stock_units_in_pool": 758.7262,
-   "stock_float": 12254.791,
-   "pct_of_float": 6.191261850161296
+   "pct_of_float": 1.8886148282741013
   },
   {
    "chain": "robinhood",
@@ -2368,11 +2354,25 @@
    "stock_addr": "0x322F0929c4625eD5bAd873c95208D54E1c003b2d",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 860985.87,
-   "vol24_usd": 364953.43,
-   "stock_units_in_pool": 1200.08897,
+   "liq_usd": 860783.34,
+   "vol24_usd": 377064.91,
+   "stock_units_in_pool": 1207.3804,
    "stock_float": 12254.791,
-   "pct_of_float": 9.792814663261087
+   "pct_of_float": 9.852313270785281
+  },
+  {
+   "chain": "robinhood",
+   "pair": "0xd5effce87036cd858146c0c15fa825c231a9de1843200ca108e431e431331e8e",
+   "dex": "uniswap",
+   "stock": "TSLA",
+   "stock_addr": "0x322F0929c4625eD5bAd873c95208D54E1c003b2d",
+   "counterparty": "USDG",
+   "counterparty_meme": false,
+   "liq_usd": 627954.41,
+   "vol24_usd": 10801823.08,
+   "stock_units_in_pool": 794.5628,
+   "stock_float": 12254.791,
+   "pct_of_float": 6.483691153933186
   },
   {
    "chain": "robinhood",
@@ -2382,11 +2382,11 @@
    "stock_addr": "0x322F0929c4625eD5bAd873c95208D54E1c003b2d",
    "counterparty": "WETH",
    "counterparty_meme": false,
-   "liq_usd": 402286.47,
-   "vol24_usd": 387557.04,
-   "stock_units_in_pool": 628.1654,
+   "liq_usd": 401572.58,
+   "vol24_usd": 388002.26,
+   "stock_units_in_pool": 632.9948,
    "stock_float": 12254.791,
-   "pct_of_float": 5.12587607573234
+   "pct_of_float": 5.1652843365504975
   },
   {
    "chain": "robinhood",
@@ -2396,11 +2396,11 @@
    "stock_addr": "0x322F0929c4625eD5bAd873c95208D54E1c003b2d",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 59604.94,
-   "vol24_usd": 1363208.78,
-   "stock_units_in_pool": 61.1691,
+   "liq_usd": 60771.97,
+   "vol24_usd": 1311143.49,
+   "stock_units_in_pool": 65.3481,
    "stock_float": 12254.791,
-   "pct_of_float": 0.49914437545283313
+   "pct_of_float": 0.5332453242164636
   },
   {
    "chain": "robinhood",
@@ -2410,11 +2410,11 @@
    "stock_addr": "0x322F0929c4625eD5bAd873c95208D54E1c003b2d",
    "counterparty": "SPY",
    "counterparty_meme": false,
-   "liq_usd": 343315.12,
-   "vol24_usd": 133354.12,
-   "stock_units_in_pool": 488.6656,
+   "liq_usd": 343314.89,
+   "vol24_usd": 130788.19,
+   "stock_units_in_pool": 490.06105,
    "stock_float": 12254.791,
-   "pct_of_float": 3.987547400849186
+   "pct_of_float": 3.998934375951414
   },
   {
    "chain": "robinhood",
@@ -2424,11 +2424,11 @@
    "stock_addr": "0x322F0929c4625eD5bAd873c95208D54E1c003b2d",
    "counterparty": "ETH",
    "counterparty_meme": false,
-   "liq_usd": 84281.97,
-   "vol24_usd": 1027.93,
-   "stock_units_in_pool": 151.7298,
+   "liq_usd": 84169.91,
+   "vol24_usd": 1029.12,
+   "stock_units_in_pool": 151.8206,
    "stock_float": 12254.791,
-   "pct_of_float": 1.2381263784914815
+   "pct_of_float": 1.2388673132002008
   },
   {
    "chain": "robinhood",
@@ -2438,11 +2438,11 @@
    "stock_addr": "0x322F0929c4625eD5bAd873c95208D54E1c003b2d",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 60330.61,
-   "vol24_usd": 244669.12,
-   "stock_units_in_pool": 82.03533,
+   "liq_usd": 60320.59,
+   "vol24_usd": 243242.47,
+   "stock_units_in_pool": 83.8472,
    "stock_float": 12254.791,
-   "pct_of_float": 0.6694143539453263
+   "pct_of_float": 0.6841993470145677
   },
   {
    "chain": "robinhood",
@@ -2508,11 +2508,11 @@
    "stock_addr": "0x322F0929c4625eD5bAd873c95208D54E1c003b2d",
    "counterparty": "DOGGIE",
    "counterparty_meme": true,
-   "liq_usd": 352632.49,
-   "vol24_usd": 257977.25,
-   "stock_units_in_pool": 455.5657,
+   "liq_usd": 346034.99,
+   "vol24_usd": 243839.64,
+   "stock_units_in_pool": 446.6727,
    "stock_float": 12254.791,
-   "pct_of_float": 3.7174497712772094
+   "pct_of_float": 3.6448822342217015
   },
   {
    "chain": "robinhood",
@@ -2522,11 +2522,11 @@
    "stock_addr": "0x322F0929c4625eD5bAd873c95208D54E1c003b2d",
    "counterparty": "DANGER",
    "counterparty_meme": true,
-   "liq_usd": 68474.55,
-   "vol24_usd": 551754.45,
-   "stock_units_in_pool": 96.1049,
+   "liq_usd": 61286.71,
+   "vol24_usd": 515166.3,
+   "stock_units_in_pool": 86.01676,
    "stock_float": 12254.791,
-   "pct_of_float": 0.7842230846694979
+   "pct_of_float": 0.7019031169115819
   },
   {
    "chain": "robinhood",
@@ -2536,11 +2536,11 @@
    "stock_addr": "0x322F0929c4625eD5bAd873c95208D54E1c003b2d",
    "counterparty": "FSD",
    "counterparty_meme": true,
-   "liq_usd": 58919.96,
-   "vol24_usd": 45964.39,
-   "stock_units_in_pool": 54.09118,
+   "liq_usd": 58316.59,
+   "vol24_usd": 39925.67,
+   "stock_units_in_pool": 53.2517,
    "stock_float": 12254.791,
-   "pct_of_float": 0.4413880253037364
+   "pct_of_float": 0.43453780647911505
   },
   {
    "chain": "robinhood",
@@ -2550,11 +2550,11 @@
    "stock_addr": "0xec262a75e413fAfD0dF80480274532C79D42da09",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 1227270.84,
-   "vol24_usd": 1150370.53,
-   "stock_units_in_pool": 3955.5447,
+   "liq_usd": 1228554.18,
+   "vol24_usd": 1091400.41,
+   "stock_units_in_pool": 3916.5488,
    "stock_float": 16082.7761,
-   "pct_of_float": 24.59491244176433
+   "pct_of_float": 24.35244248659285
   },
   {
    "chain": "robinhood",
@@ -2564,25 +2564,11 @@
    "stock_addr": "0xec262a75e413fAfD0dF80480274532C79D42da09",
    "counterparty": "WETH",
    "counterparty_meme": false,
-   "liq_usd": 632952.91,
-   "vol24_usd": 143376.3,
-   "stock_units_in_pool": 1491.06293,
+   "liq_usd": 633571.45,
+   "vol24_usd": 143130.22,
+   "stock_units_in_pool": 1503.8732,
    "stock_float": 16082.7761,
-   "pct_of_float": 9.271178810976547
-  },
-  {
-   "chain": "robinhood",
-   "pair": "0x17578C0e0D15da44f31677263114F71aE76653EA",
-   "dex": "uniswap",
-   "stock": "MSTR",
-   "stock_addr": "0xec262a75e413fAfD0dF80480274532C79D42da09",
-   "counterparty": "USDG",
-   "counterparty_meme": false,
-   "liq_usd": 340763.16,
-   "vol24_usd": 217284.51,
-   "stock_units_in_pool": 649.2485,
-   "stock_float": 16082.7761,
-   "pct_of_float": 4.036918103958433
+   "pct_of_float": 9.350830917804048
   },
   {
    "chain": "robinhood",
@@ -2592,11 +2578,25 @@
    "stock_addr": "0xec262a75e413fAfD0dF80480274532C79D42da09",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 170694.9,
-   "vol24_usd": 1032847.85,
-   "stock_units_in_pool": 846.1913,
+   "liq_usd": 231759.5,
+   "vol24_usd": 1043421.62,
+   "stock_units_in_pool": 960.8944,
    "stock_float": 16082.7761,
-   "pct_of_float": 5.26147534939568
+   "pct_of_float": 5.974679955906369
+  },
+  {
+   "chain": "robinhood",
+   "pair": "0x17578C0e0D15da44f31677263114F71aE76653EA",
+   "dex": "uniswap",
+   "stock": "MSTR",
+   "stock_addr": "0xec262a75e413fAfD0dF80480274532C79D42da09",
+   "counterparty": "USDG",
+   "counterparty_meme": false,
+   "liq_usd": 340755.1,
+   "vol24_usd": 207918.27,
+   "stock_units_in_pool": 651.7162,
+   "stock_float": 16082.7761,
+   "pct_of_float": 4.052261848002722
   },
   {
    "chain": "robinhood",
@@ -2625,20 +2625,6 @@
    "stock_units_in_pool": 0.0007625,
    "stock_float": 16082.7761,
    "pct_of_float": 4.741096905527399e-06
-  },
-  {
-   "chain": "robinhood",
-   "pair": "0x983fD86a92E206112a1e6937D39F7b44A141c1D4",
-   "dex": "up",
-   "stock": "MSTR",
-   "stock_addr": "0xec262a75e413fAfD0dF80480274532C79D42da09",
-   "counterparty": "USDG",
-   "counterparty_meme": false,
-   "liq_usd": 25293.6,
-   "vol24_usd": 656565.48,
-   "stock_units_in_pool": 127.01043,
-   "stock_float": 16082.7761,
-   "pct_of_float": 0.7897295169084646
   },
   {
    "chain": "robinhood",
@@ -2676,11 +2662,11 @@
    "stock_addr": "0xec262a75e413fAfD0dF80480274532C79D42da09",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 27778.1,
-   "vol24_usd": 3987.08,
-   "stock_units_in_pool": 25.2633,
+   "liq_usd": 27828.76,
+   "vol24_usd": 5734.24,
+   "stock_units_in_pool": 157.8441,
    "stock_float": 16082.7761,
-   "pct_of_float": 0.15708295534873484
+   "pct_of_float": 0.9814480971354194
   },
   {
    "chain": "robinhood",
@@ -2690,11 +2676,11 @@
    "stock_addr": "0xec262a75e413fAfD0dF80480274532C79D42da09",
    "counterparty": "SAYLORMOON",
    "counterparty_meme": true,
-   "liq_usd": 521632.81,
-   "vol24_usd": 1047225.73,
-   "stock_units_in_pool": 1689.2872,
+   "liq_usd": 513971.35,
+   "vol24_usd": 1035885.03,
+   "stock_units_in_pool": 1663.8355,
    "stock_float": 16082.7761,
-   "pct_of_float": 10.503704021596123
+   "pct_of_float": 10.34544962669722
   },
   {
    "chain": "robinhood",
@@ -2704,11 +2690,11 @@
    "stock_addr": "0xec262a75e413fAfD0dF80480274532C79D42da09",
    "counterparty": "STRATEGY",
    "counterparty_meme": true,
-   "liq_usd": 344714.77,
-   "vol24_usd": 531857.68,
-   "stock_units_in_pool": 1098.9035,
+   "liq_usd": 337192.63,
+   "vol24_usd": 494951.97,
+   "stock_units_in_pool": 1073.8237,
    "stock_float": 16082.7761,
-   "pct_of_float": 6.832797355178003
+   "pct_of_float": 6.676855372002597
   },
   {
    "chain": "robinhood",
@@ -2718,11 +2704,11 @@
    "stock_addr": "0xec262a75e413fAfD0dF80480274532C79D42da09",
    "counterparty": "MSTR",
    "counterparty_meme": true,
-   "liq_usd": 35502.08,
-   "vol24_usd": 189117.34,
-   "stock_units_in_pool": 122.9411,
+   "liq_usd": 35113.24,
+   "vol24_usd": 173170.23,
+   "stock_units_in_pool": 121.5946,
    "stock_float": 16082.7761,
-   "pct_of_float": 0.7644271065864059
+   "pct_of_float": 0.756054795788645
   },
   {
    "chain": "robinhood",
@@ -2733,7 +2719,7 @@
    "counterparty": "MINR",
    "counterparty_meme": true,
    "liq_usd": 46821.57,
-   "vol24_usd": 1447.4,
+   "vol24_usd": 1344.66,
    "stock_units_in_pool": 86.7735,
    "stock_float": 16082.7761,
    "pct_of_float": 0.5395430456810252
@@ -2746,11 +2732,11 @@
    "stock_addr": "0xec262a75e413fAfD0dF80480274532C79D42da09",
    "counterparty": "BATE",
    "counterparty_meme": true,
-   "liq_usd": 25253.32,
-   "vol24_usd": 3529.56,
-   "stock_units_in_pool": 20.2635,
+   "liq_usd": 25239.6,
+   "vol24_usd": 3479.79,
+   "stock_units_in_pool": 20.2168,
    "stock_float": 16082.7761,
-   "pct_of_float": 0.12599503887889107
+   "pct_of_float": 0.12570466612415254
   },
   {
    "chain": "robinhood",
@@ -2774,11 +2760,11 @@
    "stock_addr": "0xdF0992E440dD0be65BD8439b609d6D4366bf1CB5",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 1599891.39,
-   "vol24_usd": 868312.37,
-   "stock_units_in_pool": 4361.1941,
+   "liq_usd": 1621677.1,
+   "vol24_usd": 808234.03,
+   "stock_units_in_pool": 4386.3497,
    "stock_float": 21746.347,
-   "pct_of_float": 20.05483541672539
+   "pct_of_float": 20.17051277623777
   },
   {
    "chain": "robinhood",
@@ -2788,11 +2774,11 @@
    "stock_addr": "0xdF0992E440dD0be65BD8439b609d6D4366bf1CB5",
    "counterparty": "WETH",
    "counterparty_meme": false,
-   "liq_usd": 193869.72,
-   "vol24_usd": 63186.1,
-   "stock_units_in_pool": 733.4178,
+   "liq_usd": 193285.3,
+   "vol24_usd": 62846.34,
+   "stock_units_in_pool": 766.07265,
    "stock_float": 21746.347,
-   "pct_of_float": 3.3726023041938955
+   "pct_of_float": 3.5227647659627612
   },
   {
    "chain": "robinhood",
@@ -2816,11 +2802,11 @@
    "stock_addr": "0xdF0992E440dD0be65BD8439b609d6D4366bf1CB5",
    "counterparty": "SHROOM",
    "counterparty_meme": true,
-   "liq_usd": 103091.62,
-   "vol24_usd": 4361.01,
-   "stock_units_in_pool": 410.001485,
+   "liq_usd": 89081.55,
+   "vol24_usd": 15788.55,
+   "stock_units_in_pool": 325.3283,
    "stock_float": 21746.347,
-   "pct_of_float": 1.8853809561670285
+   "pct_of_float": 1.4960135603464801
   },
   {
    "chain": "robinhood",
@@ -2830,11 +2816,11 @@
    "stock_addr": "0xdF0992E440dD0be65BD8439b609d6D4366bf1CB5",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 49979.85,
-   "vol24_usd": 447.42,
-   "stock_units_in_pool": 0.2821,
+   "liq_usd": 50009.34,
+   "vol24_usd": 467.15,
+   "stock_units_in_pool": 0.08922,
    "stock_float": 21746.347,
-   "pct_of_float": 0.0012972293691441601
+   "pct_of_float": 0.00041027580402354467
   },
   {
    "chain": "robinhood",
@@ -2844,11 +2830,11 @@
    "stock_addr": "0xdF0992E440dD0be65BD8439b609d6D4366bf1CB5",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 40505.85,
-   "vol24_usd": 40589.19,
-   "stock_units_in_pool": 201.02852,
+   "liq_usd": 40434.11,
+   "vol24_usd": 38146.18,
+   "stock_units_in_pool": 202.4278,
    "stock_float": 21746.347,
-   "pct_of_float": 0.9244243182544635
+   "pct_of_float": 0.9308588702277213
   },
   {
    "chain": "robinhood",
@@ -2858,11 +2844,11 @@
    "stock_addr": "0xdF0992E440dD0be65BD8439b609d6D4366bf1CB5",
    "counterparty": "CRCL",
    "counterparty_meme": true,
-   "liq_usd": 60235.15,
-   "vol24_usd": 417784.26,
-   "stock_units_in_pool": 289.3242,
+   "liq_usd": 52611.52,
+   "vol24_usd": 380345.37,
+   "stock_units_in_pool": 252.7061,
    "stock_float": 21746.347,
-   "pct_of_float": 1.3304496612695456
+   "pct_of_float": 1.1620622994749414
   },
   {
    "chain": "robinhood",
@@ -2872,11 +2858,11 @@
    "stock_addr": "0xdF0992E440dD0be65BD8439b609d6D4366bf1CB5",
    "counterparty": "OUROBOROS",
    "counterparty_meme": true,
-   "liq_usd": 50344.51,
-   "vol24_usd": 3994868.18,
-   "stock_units_in_pool": 224.9918,
+   "liq_usd": 50264.56,
+   "vol24_usd": 3777742.36,
+   "stock_units_in_pool": 224.6078,
    "stock_float": 21746.347,
-   "pct_of_float": 1.034618825865328
+   "pct_of_float": 1.0328530120484143
   },
   {
    "chain": "robinhood",
@@ -2914,11 +2900,11 @@
    "stock_addr": "0x894E1EC2D74FFE5AEF8Dc8A9e84686acCB964F2A",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 738325.88,
-   "vol24_usd": 790426.55,
-   "stock_units_in_pool": 1584.5656,
+   "liq_usd": 737938.87,
+   "vol24_usd": 790214.1,
+   "stock_units_in_pool": 1588.07124,
    "stock_float": 10493.827,
-   "pct_of_float": 15.09997830152908
+   "pct_of_float": 15.13338498909883
   },
   {
    "chain": "robinhood",
@@ -2928,11 +2914,11 @@
    "stock_addr": "0x894E1EC2D74FFE5AEF8Dc8A9e84686acCB964F2A",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 171106.73,
-   "vol24_usd": 597820.91,
-   "stock_units_in_pool": 486.9407,
+   "liq_usd": 171178.2,
+   "vol24_usd": 605805.46,
+   "stock_units_in_pool": 478.01277,
    "stock_float": 10493.827,
-   "pct_of_float": 4.640258506262778
+   "pct_of_float": 4.555180583785115
   },
   {
    "chain": "robinhood",
@@ -2942,11 +2928,11 @@
    "stock_addr": "0x894E1EC2D74FFE5AEF8Dc8A9e84686acCB964F2A",
    "counterparty": "SPY",
    "counterparty_meme": false,
-   "liq_usd": 215471.46,
-   "vol24_usd": 717883.74,
-   "stock_units_in_pool": 636.9702,
+   "liq_usd": 215545.07,
+   "vol24_usd": 718245.71,
+   "stock_units_in_pool": 616.6341,
    "stock_float": 10493.827,
-   "pct_of_float": 6.06995141048161
+   "pct_of_float": 5.8761603369295115
   },
   {
    "chain": "robinhood",
@@ -2956,11 +2942,11 @@
    "stock_addr": "0x894E1EC2D74FFE5AEF8Dc8A9e84686acCB964F2A",
    "counterparty": "BIGBROTHER",
    "counterparty_meme": true,
-   "liq_usd": 105217.61,
-   "vol24_usd": 975969.18,
-   "stock_units_in_pool": 235.07801,
+   "liq_usd": 92097.62,
+   "vol24_usd": 983468.83,
+   "stock_units_in_pool": 203.754,
    "stock_float": 10493.827,
-   "pct_of_float": 2.240155188378844
+   "pct_of_float": 1.9416557944017945
   },
   {
    "chain": "robinhood",
@@ -2970,11 +2956,11 @@
    "stock_addr": "0x894E1EC2D74FFE5AEF8Dc8A9e84686acCB964F2A",
    "counterparty": "MONITOR",
    "counterparty_meme": true,
-   "liq_usd": 332111.11,
-   "vol24_usd": 632983.95,
-   "stock_units_in_pool": 866.5182,
+   "liq_usd": 305849.16,
+   "vol24_usd": 648366.21,
+   "stock_units_in_pool": 800.4824,
    "stock_float": 10493.827,
-   "pct_of_float": 8.257408855701549
+   "pct_of_float": 7.628126516665465
   },
   {
    "chain": "robinhood",
@@ -2984,25 +2970,11 @@
    "stock_addr": "0x894E1EC2D74FFE5AEF8Dc8A9e84686acCB964F2A",
    "counterparty": "GOYBEAM",
    "counterparty_meme": true,
-   "liq_usd": 138399.32,
-   "vol24_usd": 96357.28,
-   "stock_units_in_pool": 310.07265,
+   "liq_usd": 129365.22,
+   "vol24_usd": 103643.91,
+   "stock_units_in_pool": 286.8043,
    "stock_float": 10493.827,
-   "pct_of_float": 2.9548100040147416
-  },
-  {
-   "chain": "robinhood",
-   "pair": "0x646241b00ea25b77d9da1460a7d87cfaf74edfeba6c27fdd99786f0df47e3a6a",
-   "dex": "uniswap",
-   "stock": "PLTR",
-   "stock_addr": "0x894E1EC2D74FFE5AEF8Dc8A9e84686acCB964F2A",
-   "counterparty": "WARCAT",
-   "counterparty_meme": true,
-   "liq_usd": 30375.46,
-   "vol24_usd": 8127.29,
-   "stock_units_in_pool": 28.7005,
-   "stock_float": 10493.827,
-   "pct_of_float": 0.27349888653586535
+   "pct_of_float": 2.7330763123882265
   },
   {
    "chain": "robinhood",
@@ -3012,11 +2984,25 @@
    "stock_addr": "0x894E1EC2D74FFE5AEF8Dc8A9e84686acCB964F2A",
    "counterparty": "PALANTARD",
    "counterparty_meme": true,
-   "liq_usd": 46424.1,
-   "vol24_usd": 5813.38,
-   "stock_units_in_pool": 73.6469,
+   "liq_usd": 46724.43,
+   "vol24_usd": 5638.18,
+   "stock_units_in_pool": 73.1187,
    "stock_float": 10493.827,
-   "pct_of_float": 0.7018116460277075
+   "pct_of_float": 0.696778210656608
+  },
+  {
+   "chain": "robinhood",
+   "pair": "0x646241b00ea25b77d9da1460a7d87cfaf74edfeba6c27fdd99786f0df47e3a6a",
+   "dex": "uniswap",
+   "stock": "PLTR",
+   "stock_addr": "0x894E1EC2D74FFE5AEF8Dc8A9e84686acCB964F2A",
+   "counterparty": "WARCAT",
+   "counterparty_meme": true,
+   "liq_usd": 30787.22,
+   "vol24_usd": 5611.91,
+   "stock_units_in_pool": 28.6763,
+   "stock_float": 10493.827,
+   "pct_of_float": 0.2732682747676325
   },
   {
    "chain": "robinhood",
@@ -3055,7 +3041,7 @@
    "counterparty": "MOSSAD",
    "counterparty_meme": true,
    "liq_usd": 25915,
-   "vol24_usd": 897.13,
+   "vol24_usd": 686.38,
    "stock_units_in_pool": 16.721,
    "stock_float": 10493.827,
    "pct_of_float": 0.1593412965546316
@@ -3068,11 +3054,11 @@
    "stock_addr": "0x6330D8C3178a418788dF01a47479c0ce7CCF450b",
    "counterparty": "WETH",
    "counterparty_meme": false,
-   "liq_usd": 430449.88,
-   "vol24_usd": 1041602.26,
-   "stock_units_in_pool": 1239.829,
+   "liq_usd": 432392.95,
+   "vol24_usd": 1046728.7,
+   "stock_units_in_pool": 1271.2458,
    "stock_float": 8512.158,
-   "pct_of_float": 14.565389881155872
+   "pct_of_float": 14.934471376118724
   },
   {
    "chain": "robinhood",
@@ -3082,11 +3068,11 @@
    "stock_addr": "0x6330D8C3178a418788dF01a47479c0ce7CCF450b",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 379119.52,
-   "vol24_usd": 256307.13,
-   "stock_units_in_pool": 845.9205,
+   "liq_usd": 376111.89,
+   "vol24_usd": 250494.08,
+   "stock_units_in_pool": 830.06982,
    "stock_float": 8512.158,
-   "pct_of_float": 9.937791333290571
+   "pct_of_float": 9.75157909427903
   },
   {
    "chain": "robinhood",
@@ -3096,11 +3082,11 @@
    "stock_addr": "0x6330D8C3178a418788dF01a47479c0ce7CCF450b",
    "counterparty": "SPY",
    "counterparty_meme": false,
-   "liq_usd": 333693.6,
-   "vol24_usd": 496937.86,
-   "stock_units_in_pool": 1032.7752,
+   "liq_usd": 333487.42,
+   "vol24_usd": 492392.66,
+   "stock_units_in_pool": 1034.2666,
    "stock_float": 8512.158,
-   "pct_of_float": 12.132942081197271
+   "pct_of_float": 12.1504629025918
   },
   {
    "chain": "robinhood",
@@ -3110,11 +3096,11 @@
    "stock_addr": "0x6330D8C3178a418788dF01a47479c0ce7CCF450b",
    "counterparty": "ETH",
    "counterparty_meme": false,
-   "liq_usd": 105475.22,
-   "vol24_usd": 38614.28,
-   "stock_units_in_pool": 304.7085,
+   "liq_usd": 105240.07,
+   "vol24_usd": 38582.45,
+   "stock_units_in_pool": 308.3144,
    "stock_float": 8512.158,
-   "pct_of_float": 3.579685668428617
+   "pct_of_float": 3.6220474291008227
   },
   {
    "chain": "robinhood",
@@ -3124,11 +3110,11 @@
    "stock_addr": "0x6330D8C3178a418788dF01a47479c0ce7CCF450b",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 53219.71,
-   "vol24_usd": 70879.57,
-   "stock_units_in_pool": 151.4343,
+   "liq_usd": 53218.83,
+   "vol24_usd": 69741.56,
+   "stock_units_in_pool": 151.573,
    "stock_float": 8512.158,
-   "pct_of_float": 1.7790353515524504
+   "pct_of_float": 1.780664785592561
   },
   {
    "chain": "robinhood",
@@ -3138,11 +3124,11 @@
    "stock_addr": "0x6330D8C3178a418788dF01a47479c0ce7CCF450b",
    "counterparty": "COPY",
    "counterparty_meme": true,
-   "liq_usd": 41758.4,
-   "vol24_usd": 572352.68,
-   "stock_units_in_pool": 106.8915,
+   "liq_usd": 41472.42,
+   "vol24_usd": 572321.86,
+   "stock_units_in_pool": 106.2693,
    "stock_float": 8512.158,
-   "pct_of_float": 1.2557508918419982
+   "pct_of_float": 1.2484413470708604
   },
   {
    "chain": "robinhood",
@@ -3152,11 +3138,11 @@
    "stock_addr": "0x6330D8C3178a418788dF01a47479c0ce7CCF450b",
    "counterparty": "SHROOM",
    "counterparty_meme": true,
-   "liq_usd": 103006.65,
-   "vol24_usd": 6486.02,
-   "stock_units_in_pool": 225.4011,
+   "liq_usd": 88620.4,
+   "vol24_usd": 15578.93,
+   "stock_units_in_pool": 178.7607,
    "stock_float": 8512.158,
-   "pct_of_float": 2.6479900866501778
+   "pct_of_float": 2.1000632272098336
   },
   {
    "chain": "robinhood",
@@ -3166,11 +3152,11 @@
    "stock_addr": "0x6330D8C3178a418788dF01a47479c0ce7CCF450b",
    "counterparty": "MEME",
    "counterparty_meme": true,
-   "liq_usd": 54131.04,
-   "vol24_usd": 6576.84,
-   "stock_units_in_pool": 79.3866,
+   "liq_usd": 50622.93,
+   "vol24_usd": 8206.28,
+   "stock_units_in_pool": 71.0695,
    "stock_float": 8512.158,
-   "pct_of_float": 0.9326260156355182
+   "pct_of_float": 0.834917537949836
   },
   {
    "chain": "robinhood",
@@ -3209,7 +3195,7 @@
    "counterparty": "CPER",
    "counterparty_meme": true,
    "liq_usd": 31721.04,
-   "vol24_usd": 25.6,
+   "vol24_usd": 10.95,
    "stock_units_in_pool": 0.2317,
    "stock_float": 8512.158,
    "pct_of_float": 0.0027219889480434925
@@ -3222,11 +3208,11 @@
    "stock_addr": "0xD5f3879160bc7c32ebb4dC785F8a4F505888de68",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 1368665.24,
-   "vol24_usd": 2408894.94,
-   "stock_units_in_pool": 943.9898,
+   "liq_usd": 1369752.05,
+   "vol24_usd": 2433177.04,
+   "stock_units_in_pool": 931.6684,
    "stock_float": 5212.603,
-   "pct_of_float": 18.109758214849663
+   "pct_of_float": 17.873381111126246
   },
   {
    "chain": "robinhood",
@@ -3236,11 +3222,11 @@
    "stock_addr": "0xD5f3879160bc7c32ebb4dC785F8a4F505888de68",
    "counterparty": "SPY",
    "counterparty_meme": false,
-   "liq_usd": 1895777.41,
-   "vol24_usd": 668014.83,
-   "stock_units_in_pool": 623.3625,
+   "liq_usd": 1895560.63,
+   "vol24_usd": 644943.28,
+   "stock_units_in_pool": 629.2068,
    "stock_float": 5212.603,
-   "pct_of_float": 11.95875649843274
+   "pct_of_float": 12.070875146256103
   },
   {
    "chain": "robinhood",
@@ -3250,11 +3236,11 @@
    "stock_addr": "0xD5f3879160bc7c32ebb4dC785F8a4F505888de68",
    "counterparty": "WETH",
    "counterparty_meme": false,
-   "liq_usd": 152049.94,
-   "vol24_usd": 283540.93,
-   "stock_units_in_pool": 117.7078,
+   "liq_usd": 151855.5,
+   "vol24_usd": 281597.13,
+   "stock_units_in_pool": 118.02001,
    "stock_float": 5212.603,
-   "pct_of_float": 2.2581385921774593
+   "pct_of_float": 2.2641281141111262
   },
   {
    "chain": "robinhood",
@@ -3264,25 +3250,11 @@
    "stock_addr": "0xD5f3879160bc7c32ebb4dC785F8a4F505888de68",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 114115.88,
-   "vol24_usd": 17323.14,
-   "stock_units_in_pool": 22.6421,
+   "liq_usd": 113985.73,
+   "vol24_usd": 17355.22,
+   "stock_units_in_pool": 22.6148,
    "stock_float": 5212.603,
-   "pct_of_float": 0.43437223206908326
-  },
-  {
-   "chain": "robinhood",
-   "pair": "0xff1e45c750af0a96a5841470f4a35f132b1bc64569a208214a90b24a35bf6630",
-   "dex": "uniswap",
-   "stock": "QQQ",
-   "stock_addr": "0xD5f3879160bc7c32ebb4dC785F8a4F505888de68",
-   "counterparty": "SHROOM",
-   "counterparty_meme": true,
-   "liq_usd": 114141.73,
-   "vol24_usd": 7860.1,
-   "stock_units_in_pool": 62.4769,
-   "stock_float": 5212.603,
-   "pct_of_float": 1.198573917867906
+   "pct_of_float": 0.43384850141090736
   },
   {
    "chain": "robinhood",
@@ -3292,11 +3264,11 @@
    "stock_addr": "0xD5f3879160bc7c32ebb4dC785F8a4F505888de68",
    "counterparty": "SPY",
    "counterparty_meme": false,
-   "liq_usd": 64071.22,
-   "vol24_usd": 155039.79,
-   "stock_units_in_pool": 31.3762,
+   "liq_usd": 53223.01,
+   "vol24_usd": 155094.98,
+   "stock_units_in_pool": 31.7026,
    "stock_float": 5212.603,
-   "pct_of_float": 0.6019295925663243
+   "pct_of_float": 0.608191339336604
   },
   {
    "chain": "robinhood",
@@ -3320,11 +3292,11 @@
    "stock_addr": "0xD5f3879160bc7c32ebb4dC785F8a4F505888de68",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 25694.01,
-   "vol24_usd": 63271.54,
-   "stock_units_in_pool": 0.1138,
+   "liq_usd": 25696.93,
+   "vol24_usd": 64009.05,
+   "stock_units_in_pool": 0.1411,
    "stock_float": 5212.603,
-   "pct_of_float": 0.0021831702893928425
+   "pct_of_float": 0.002706900947568806
   },
   {
    "chain": "robinhood",
@@ -3348,11 +3320,11 @@
    "stock_addr": "0xD5f3879160bc7c32ebb4dC785F8a4F505888de68",
    "counterparty": "ASSDAQ",
    "counterparty_meme": true,
-   "liq_usd": 25351.91,
-   "vol24_usd": 48565.86,
-   "stock_units_in_pool": 17.4538,
+   "liq_usd": 25355.52,
+   "vol24_usd": 47622.49,
+   "stock_units_in_pool": 17.4859,
    "stock_float": 5212.603,
-   "pct_of_float": 0.3348384674604991
+   "pct_of_float": 0.33545428263000276
   },
   {
    "chain": "robinhood",
@@ -3362,11 +3334,11 @@
    "stock_addr": "0xD5f3879160bc7c32ebb4dC785F8a4F505888de68",
    "counterparty": "WKND",
    "counterparty_meme": true,
-   "liq_usd": 39468.82,
-   "vol24_usd": 931.75,
-   "stock_units_in_pool": 13.1937,
+   "liq_usd": 32044.48,
+   "vol24_usd": 4558.73,
+   "stock_units_in_pool": 8.1546,
    "stock_float": 5212.603,
-   "pct_of_float": 0.2531115452298976
+   "pct_of_float": 0.15644007418174757
   },
   {
    "chain": "robinhood",
@@ -3376,11 +3348,11 @@
    "stock_addr": "0x7066A64c24e4206CD62E83bf198c1E7EB361F51e",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 120566.85,
-   "vol24_usd": 422227.16,
-   "stock_units_in_pool": 2121.8052,
+   "liq_usd": 120751.96,
+   "vol24_usd": 411601.8,
+   "stock_units_in_pool": 1966.06101,
    "stock_float": 11783.636,
-   "pct_of_float": 18.0063708688897
+   "pct_of_float": 16.684671946757348
   },
   {
    "chain": "robinhood",
@@ -3418,11 +3390,11 @@
    "stock_addr": "0x7066A64c24e4206CD62E83bf198c1E7EB361F51e",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 67715.52,
-   "vol24_usd": 13678.07,
-   "stock_units_in_pool": 774.7296,
+   "liq_usd": 67728.27,
+   "vol24_usd": 15837.62,
+   "stock_units_in_pool": 784.4434,
    "stock_float": 11783.636,
-   "pct_of_float": 6.574622637698585
+   "pct_of_float": 6.657057295388283
   },
   {
    "chain": "robinhood",
@@ -3432,11 +3404,11 @@
    "stock_addr": "0x7066A64c24e4206CD62E83bf198c1E7EB361F51e",
    "counterparty": "DOPAMEME",
    "counterparty_meme": true,
-   "liq_usd": 113036.05,
-   "vol24_usd": 16573.06,
-   "stock_units_in_pool": 591.6608,
+   "liq_usd": 119244.9,
+   "vol24_usd": 21571.62,
+   "stock_units_in_pool": 684.04585,
    "stock_float": 11783.636,
-   "pct_of_float": 5.021037649160242
+   "pct_of_float": 5.805049052771148
   },
   {
    "chain": "robinhood",
@@ -3446,11 +3418,11 @@
    "stock_addr": "0x7066A64c24e4206CD62E83bf198c1E7EB361F51e",
    "counterparty": "LABCAT",
    "counterparty_meme": true,
-   "liq_usd": 27591.41,
-   "vol24_usd": 35594.63,
-   "stock_units_in_pool": 116.8971,
+   "liq_usd": 27490.57,
+   "vol24_usd": 35246.64,
+   "stock_units_in_pool": 115.2423,
    "stock_float": 11783.636,
-   "pct_of_float": 0.9920291156312023
+   "pct_of_float": 0.9779859119884559
   },
   {
    "chain": "robinhood",
@@ -3474,11 +3446,11 @@
    "stock_addr": "0x4EA005168D7F09a7A0Ba9D1DEf21a479950E44C2",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 1199355.41,
-   "vol24_usd": 737139.93,
-   "stock_units_in_pool": 738.2771,
+   "liq_usd": 1199650.65,
+   "vol24_usd": 769979.3,
+   "stock_units_in_pool": 735.1545,
    "stock_float": 1829.86063189,
-   "pct_of_float": 40.346083583286834
+   "pct_of_float": 40.17543670747669
   },
   {
    "chain": "robinhood",
@@ -3488,11 +3460,11 @@
    "stock_addr": "0x4EA005168D7F09a7A0Ba9D1DEf21a479950E44C2",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 98640.39,
-   "vol24_usd": 1369084.8,
-   "stock_units_in_pool": 60.2792,
+   "liq_usd": 99603.56,
+   "vol24_usd": 1390818.54,
+   "stock_units_in_pool": 70.8581,
    "stock_float": 1829.86063189,
-   "pct_of_float": 3.294196232733839
+   "pct_of_float": 3.8723222285411487
   },
   {
    "chain": "robinhood",
@@ -3502,11 +3474,11 @@
    "stock_addr": "0x4EA005168D7F09a7A0Ba9D1DEf21a479950E44C2",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 148267.59,
-   "vol24_usd": 198752.92,
-   "stock_units_in_pool": 121.5263,
+   "liq_usd": 140324.05,
+   "vol24_usd": 206246.02,
+   "stock_units_in_pool": 117.7188,
    "stock_float": 1829.86063189,
-   "pct_of_float": 6.641287204177932
+   "pct_of_float": 6.433211248356783
   },
   {
    "chain": "robinhood",
@@ -3516,11 +3488,11 @@
    "stock_addr": "0x4EA005168D7F09a7A0Ba9D1DEf21a479950E44C2",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 49308.58,
-   "vol24_usd": 40676.13,
-   "stock_units_in_pool": 50.148,
+   "liq_usd": 49288.3,
+   "vol24_usd": 40392.67,
+   "stock_units_in_pool": 50.1366,
    "stock_float": 1829.86063189,
-   "pct_of_float": 2.7405365810949145
+   "pct_of_float": 2.739913582829291
   },
   {
    "chain": "robinhood",
@@ -3531,7 +3503,7 @@
    "counterparty": "ETH",
    "counterparty_meme": false,
    "liq_usd": 52102.64,
-   "vol24_usd": 344.58,
+   "vol24_usd": 221.68,
    "stock_units_in_pool": 46.433,
    "stock_float": 1829.86063189,
    "pct_of_float": 2.5375156550606235
@@ -3544,11 +3516,11 @@
    "stock_addr": "0x4EA005168D7F09a7A0Ba9D1DEf21a479950E44C2",
    "counterparty": "HOTDOG",
    "counterparty_meme": true,
-   "liq_usd": 169743.6,
-   "vol24_usd": 2283900.16,
-   "stock_units_in_pool": 90.6466,
+   "liq_usd": 138743.98,
+   "vol24_usd": 2315361.48,
+   "stock_units_in_pool": 74.0922,
    "stock_float": 1829.86063189,
-   "pct_of_float": 4.953743384619093
+   "pct_of_float": 4.049062464580853
   },
   {
    "chain": "robinhood",
@@ -3558,11 +3530,11 @@
    "stock_addr": "0x4EA005168D7F09a7A0Ba9D1DEf21a479950E44C2",
    "counterparty": "HOTDOG",
    "counterparty_meme": true,
-   "liq_usd": 31618.58,
-   "vol24_usd": 28631.08,
-   "stock_units_in_pool": 16.6494,
+   "liq_usd": 31144.76,
+   "vol24_usd": 28889.81,
+   "stock_units_in_pool": 16.4033,
    "stock_float": 1829.86063189,
-   "pct_of_float": 0.9098725722517681
+   "pct_of_float": 0.8964234605701964
   },
   {
    "chain": "robinhood",
@@ -3572,11 +3544,11 @@
    "stock_addr": "0x4EA005168D7F09a7A0Ba9D1DEf21a479950E44C2",
    "counterparty": "HOTDOG",
    "counterparty_meme": true,
-   "liq_usd": 77593.36,
-   "vol24_usd": 40714.17,
-   "stock_units_in_pool": 40.7321,
+   "liq_usd": 76823.51,
+   "vol24_usd": 41383.85,
+   "stock_units_in_pool": 40.2948,
    "stock_float": 1829.86063189,
-   "pct_of_float": 2.2259673381753244
+   "pct_of_float": 2.202069343301894
   },
   {
    "chain": "robinhood",
@@ -3586,11 +3558,11 @@
    "stock_addr": "0x4EA005168D7F09a7A0Ba9D1DEf21a479950E44C2",
    "counterparty": "SHROOM",
    "counterparty_meme": true,
-   "liq_usd": 70722.35,
-   "vol24_usd": 58010.37,
-   "stock_units_in_pool": 3.1838,
+   "liq_usd": 65595.34,
+   "vol24_usd": 52731.02,
+   "stock_units_in_pool": 0.0214,
    "stock_float": 1829.86063189,
-   "pct_of_float": 0.17399139281506718
+   "pct_of_float": 0.001169487972310584
   },
   {
    "chain": "robinhood",
@@ -3642,11 +3614,11 @@
    "stock_addr": "0xaF3D76f1834A1d425780943C99Ea8A608f8a93f9",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 326404.14,
-   "vol24_usd": 1946179.74,
-   "stock_units_in_pool": 589.6838,
+   "liq_usd": 326474.61,
+   "vol24_usd": 1954191.2,
+   "stock_units_in_pool": 583.5827,
    "stock_float": 17631.42312292,
-   "pct_of_float": 3.344504841662154
+   "pct_of_float": 3.309901282111315
   },
   {
    "chain": "robinhood",
@@ -3656,11 +3628,11 @@
    "stock_addr": "0xaF3D76f1834A1d425780943C99Ea8A608f8a93f9",
    "counterparty": "WETH",
    "counterparty_meme": false,
-   "liq_usd": 229722.04,
-   "vol24_usd": 1803427.28,
-   "stock_units_in_pool": 430.1918,
+   "liq_usd": 229488.94,
+   "vol24_usd": 1774164.9,
+   "stock_units_in_pool": 424.8039,
    "stock_float": 17631.42312292,
-   "pct_of_float": 2.439915354539767
+   "pct_of_float": 2.4093568456636683
   },
   {
    "chain": "robinhood",
@@ -3670,11 +3642,11 @@
    "stock_addr": "0xaF3D76f1834A1d425780943C99Ea8A608f8a93f9",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 1570207.9,
-   "vol24_usd": 1381825.9,
-   "stock_units_in_pool": 2580.405,
+   "liq_usd": 1570104.65,
+   "vol24_usd": 1361812.03,
+   "stock_units_in_pool": 2578.9545,
    "stock_float": 17631.42312292,
-   "pct_of_float": 14.635262179407391
+   "pct_of_float": 14.627035390282723
   },
   {
    "chain": "robinhood",
@@ -3684,11 +3656,11 @@
    "stock_addr": "0xaF3D76f1834A1d425780943C99Ea8A608f8a93f9",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 295914.41,
-   "vol24_usd": 1167443.68,
-   "stock_units_in_pool": 583.9891,
+   "liq_usd": 298458.3,
+   "vol24_usd": 1173025.12,
+   "stock_units_in_pool": 564.9914,
    "stock_float": 17631.42312292,
-   "pct_of_float": 3.3122062577061198
+   "pct_of_float": 3.2044571561868898
   },
   {
    "chain": "robinhood",
@@ -3698,11 +3670,11 @@
    "stock_addr": "0xaF3D76f1834A1d425780943C99Ea8A608f8a93f9",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 535546.02,
-   "vol24_usd": 2269599.17,
-   "stock_units_in_pool": 929.9216,
+   "liq_usd": 512862.72,
+   "vol24_usd": 2253174.69,
+   "stock_units_in_pool": 827.1215,
    "stock_float": 17631.42312292,
-   "pct_of_float": 5.2742288215586335
+   "pct_of_float": 4.691178325388731
   },
   {
    "chain": "robinhood",
@@ -3712,11 +3684,11 @@
    "stock_addr": "0xaF3D76f1834A1d425780943C99Ea8A608f8a93f9",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 136606.56,
-   "vol24_usd": 28274.71,
-   "stock_units_in_pool": 211.7006,
+   "liq_usd": 136607.64,
+   "vol24_usd": 28295.04,
+   "stock_units_in_pool": 211.6374,
    "stock_float": 17631.42312292,
-   "pct_of_float": 1.2007005817063026
+   "pct_of_float": 1.2003421307771893
   },
   {
    "chain": "robinhood",
@@ -3726,11 +3698,11 @@
    "stock_addr": "0xaF3D76f1834A1d425780943C99Ea8A608f8a93f9",
    "counterparty": "ETH",
    "counterparty_meme": false,
-   "liq_usd": 53169.59,
-   "vol24_usd": 76119.77,
-   "stock_units_in_pool": 80.334,
+   "liq_usd": 53090.95,
+   "vol24_usd": 76883.12,
+   "stock_units_in_pool": 83.6343,
    "stock_float": 17631.42312292,
-   "pct_of_float": 0.455629698408007
+   "pct_of_float": 0.47434798323953464
   },
   {
    "chain": "robinhood",
@@ -3740,11 +3712,11 @@
    "stock_addr": "0xaF3D76f1834A1d425780943C99Ea8A608f8a93f9",
    "counterparty": "ETH",
    "counterparty_meme": false,
-   "liq_usd": 43841.63,
-   "vol24_usd": 2300.23,
-   "stock_units_in_pool": 73.6623,
+   "liq_usd": 43751.05,
+   "vol24_usd": 2305.27,
+   "stock_units_in_pool": 73.6578,
    "stock_float": 17631.42312292,
-   "pct_of_float": 0.41778987144969915
+   "pct_of_float": 0.41776434883607555
   },
   {
    "chain": "robinhood",
@@ -3754,11 +3726,11 @@
    "stock_addr": "0xaF3D76f1834A1d425780943C99Ea8A608f8a93f9",
    "counterparty": "FINDER",
    "counterparty_meme": true,
-   "liq_usd": 37252.79,
-   "vol24_usd": 2680178.23,
-   "stock_units_in_pool": 57.9629,
+   "liq_usd": 33673.49,
+   "vol24_usd": 2698469.64,
+   "stock_units_in_pool": 52.4789,
    "stock_float": 17631.42312292,
-   "pct_of_float": 0.3287477113781645
+   "pct_of_float": 0.2976441529089048
   },
   {
    "chain": "robinhood",
@@ -3768,11 +3740,11 @@
    "stock_addr": "0xaF3D76f1834A1d425780943C99Ea8A608f8a93f9",
    "counterparty": "ICOIN",
    "counterparty_meme": true,
-   "liq_usd": 664411.38,
-   "vol24_usd": 1673482.05,
-   "stock_units_in_pool": 959.2926,
+   "liq_usd": 671969.09,
+   "vol24_usd": 1567939.26,
+   "stock_units_in_pool": 972.5232,
    "stock_float": 17631.42312292,
-   "pct_of_float": 5.44081208483373
+   "pct_of_float": 5.5158519719021815
   },
   {
    "chain": "robinhood",
@@ -3782,11 +3754,11 @@
    "stock_addr": "0x4a0E65A3EcceC6dBe60AE065F2e7bb85Fae35eEa",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 2422092.65,
-   "vol24_usd": 9684019.87,
-   "stock_units_in_pool": 5906.7046,
+   "liq_usd": 2422191.26,
+   "vol24_usd": 9329657.36,
+   "stock_units_in_pool": 5929.3717,
    "stock_float": 58787.815,
-   "pct_of_float": 10.047498108238926
+   "pct_of_float": 10.086055588220109
   },
   {
    "chain": "robinhood",
@@ -3796,11 +3768,11 @@
    "stock_addr": "0x4a0E65A3EcceC6dBe60AE065F2e7bb85Fae35eEa",
    "counterparty": "WETH",
    "counterparty_meme": false,
-   "liq_usd": 468302.94,
-   "vol24_usd": 3371619.37,
-   "stock_units_in_pool": 1505.2987,
+   "liq_usd": 467786.58,
+   "vol24_usd": 3353609.12,
+   "stock_units_in_pool": 1482.31,
    "stock_float": 58787.815,
-   "pct_of_float": 2.5605624226721133
+   "pct_of_float": 2.5214578905509586
   },
   {
    "chain": "robinhood",
@@ -3810,11 +3782,11 @@
    "stock_addr": "0x4a0E65A3EcceC6dBe60AE065F2e7bb85Fae35eEa",
    "counterparty": "ETH",
    "counterparty_meme": false,
-   "liq_usd": 421156.95,
-   "vol24_usd": 472687.31,
-   "stock_units_in_pool": 1353.6415,
+   "liq_usd": 420705.15,
+   "vol24_usd": 461806.44,
+   "stock_units_in_pool": 1358.7232,
    "stock_float": 58787.815,
-   "pct_of_float": 2.3025885551283034
+   "pct_of_float": 2.311232693373618
   },
   {
    "chain": "robinhood",
@@ -3824,11 +3796,11 @@
    "stock_addr": "0x4a0E65A3EcceC6dBe60AE065F2e7bb85Fae35eEa",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 2402468.42,
-   "vol24_usd": 214811.7,
-   "stock_units_in_pool": 3003.1259,
+   "liq_usd": 2401394.6,
+   "vol24_usd": 203386.39,
+   "stock_units_in_pool": 3010.4358,
    "stock_float": 58787.815,
-   "pct_of_float": 5.108415578976698
+   "pct_of_float": 5.120849958448022
   },
   {
    "chain": "robinhood",
@@ -3838,11 +3810,11 @@
    "stock_addr": "0x4a0E65A3EcceC6dBe60AE065F2e7bb85Fae35eEa",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 489785.96,
-   "vol24_usd": 75384.2,
-   "stock_units_in_pool": 1197.01744,
+   "liq_usd": 489793.06,
+   "vol24_usd": 72711.92,
+   "stock_units_in_pool": 1196.1012,
    "stock_float": 58787.815,
-   "pct_of_float": 2.0361658959428923
+   "pct_of_float": 2.034607341674461
   },
   {
    "chain": "robinhood",
@@ -3852,11 +3824,11 @@
    "stock_addr": "0x4a0E65A3EcceC6dBe60AE065F2e7bb85Fae35eEa",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 71138.58,
-   "vol24_usd": 288402.35,
-   "stock_units_in_pool": 233.02164,
+   "liq_usd": 71126.99,
+   "vol24_usd": 295413.8,
+   "stock_units_in_pool": 241.423,
    "stock_float": 58787.815,
-   "pct_of_float": 0.3963774465848067
+   "pct_of_float": 0.4106684352871424
   },
   {
    "chain": "robinhood",
@@ -3866,11 +3838,11 @@
    "stock_addr": "0x4a0E65A3EcceC6dBe60AE065F2e7bb85Fae35eEa",
    "counterparty": "WETH",
    "counterparty_meme": false,
-   "liq_usd": 71800.39,
-   "vol24_usd": 36910.95,
-   "stock_units_in_pool": 212.5343,
+   "liq_usd": 72605.37,
+   "vol24_usd": 36015.73,
+   "stock_units_in_pool": 216.1167,
    "stock_float": 58787.815,
-   "pct_of_float": 0.36152780980208227
+   "pct_of_float": 0.3676215896100238
   },
   {
    "chain": "robinhood",
@@ -3880,11 +3852,11 @@
    "stock_addr": "0x4a0E65A3EcceC6dBe60AE065F2e7bb85Fae35eEa",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 27155.04,
-   "vol24_usd": 4148.42,
-   "stock_units_in_pool": 74.5419,
+   "liq_usd": 27122.98,
+   "vol24_usd": 5006.46,
+   "stock_units_in_pool": 80.2511,
    "stock_float": 58787.815,
-   "pct_of_float": 0.12679821490218676
+   "pct_of_float": 0.13650975121290013
   },
   {
    "chain": "robinhood",
@@ -3894,11 +3866,11 @@
    "stock_addr": "0x4a0E65A3EcceC6dBe60AE065F2e7bb85Fae35eEa",
    "counterparty": "ETH",
    "counterparty_meme": false,
-   "liq_usd": 53056.05,
-   "vol24_usd": 7169.89,
-   "stock_units_in_pool": 180.7592,
+   "liq_usd": 52944.94,
+   "vol24_usd": 7272.6,
+   "stock_units_in_pool": 180.375,
    "stock_float": 58787.815,
-   "pct_of_float": 0.30747732331946676
+   "pct_of_float": 0.30682378652787146
   },
   {
    "chain": "robinhood",
@@ -3922,11 +3894,11 @@
    "stock_addr": "0x4a0E65A3EcceC6dBe60AE065F2e7bb85Fae35eEa",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 40652.62,
-   "vol24_usd": 104038.36,
-   "stock_units_in_pool": 110.6504,
+   "liq_usd": 40601.16,
+   "vol24_usd": 102632.26,
+   "stock_units_in_pool": 111.9489,
    "stock_float": 58787.815,
-   "pct_of_float": 0.1882199568056748
+   "pct_of_float": 0.19042874786212072
   },
   {
    "chain": "robinhood",
@@ -3936,11 +3908,11 @@
    "stock_addr": "0x4a0E65A3EcceC6dBe60AE065F2e7bb85Fae35eEa",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 29214.15,
-   "vol24_usd": 12106,
-   "stock_units_in_pool": 69.8036,
+   "liq_usd": 29167.67,
+   "vol24_usd": 9878.39,
+   "stock_units_in_pool": 70.4843,
    "stock_float": 58787.815,
-   "pct_of_float": 0.1187382113113066
+   "pct_of_float": 0.11989610432025753
   },
   {
    "chain": "robinhood",
@@ -3950,11 +3922,11 @@
    "stock_addr": "0x43B07D15cE533bEc5476d70C22a78a1B2B662155",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 130640.23,
-   "vol24_usd": 111160.29,
-   "stock_units_in_pool": 570.2652,
+   "liq_usd": 130503.56,
+   "vol24_usd": 111162.99,
+   "stock_units_in_pool": 569.7781,
    "stock_float": 5558.534,
-   "pct_of_float": 10.25927339834568
+   "pct_of_float": 10.250510296419883
   },
   {
    "chain": "robinhood",
@@ -3964,11 +3936,11 @@
    "stock_addr": "0x43B07D15cE533bEc5476d70C22a78a1B2B662155",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 66523.72,
-   "vol24_usd": 188444.34,
-   "stock_units_in_pool": 242.337,
+   "liq_usd": 66410.79,
+   "vol24_usd": 193626.89,
+   "stock_units_in_pool": 275.5632,
    "stock_float": 5558.534,
-   "pct_of_float": 4.359728662269584
+   "pct_of_float": 4.957479795931805
   },
   {
    "chain": "robinhood",
@@ -3978,11 +3950,11 @@
    "stock_addr": "0x43B07D15cE533bEc5476d70C22a78a1B2B662155",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 84536.34,
-   "vol24_usd": 3723.82,
-   "stock_units_in_pool": 332.03247,
+   "liq_usd": 84524.47,
+   "vol24_usd": 3467.45,
+   "stock_units_in_pool": 332.08976,
    "stock_float": 5558.534,
-   "pct_of_float": 5.9733820104365645
+   "pct_of_float": 5.974412677875138
   },
   {
    "chain": "robinhood",
@@ -3992,11 +3964,11 @@
    "stock_addr": "0x43B07D15cE533bEc5476d70C22a78a1B2B662155",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 67092.66,
-   "vol24_usd": 24425.46,
-   "stock_units_in_pool": 229.9359,
+   "liq_usd": 66942.45,
+   "vol24_usd": 24897.45,
+   "stock_units_in_pool": 235.3997,
    "stock_float": 5558.534,
-   "pct_of_float": 4.136628470744265
+   "pct_of_float": 4.234924172452665
   },
   {
    "chain": "robinhood",
@@ -4006,11 +3978,11 @@
    "stock_addr": "0x43B07D15cE533bEc5476d70C22a78a1B2B662155",
    "counterparty": "ETH",
    "counterparty_meme": false,
-   "liq_usd": 35066.49,
-   "vol24_usd": 2.97,
-   "stock_units_in_pool": 144.6474,
+   "liq_usd": 33770.67,
+   "vol24_usd": 645.02,
+   "stock_units_in_pool": 147.2596,
    "stock_float": 5558.534,
-   "pct_of_float": 2.602258077399545
+   "pct_of_float": 2.6492524827589436
   },
   {
    "chain": "robinhood",
@@ -4020,11 +3992,11 @@
    "stock_addr": "0x43B07D15cE533bEc5476d70C22a78a1B2B662155",
    "counterparty": "VACCINU",
    "counterparty_meme": true,
-   "liq_usd": 103549.65,
-   "vol24_usd": 62518.97,
-   "stock_units_in_pool": 278.76,
+   "liq_usd": 101785.57,
+   "vol24_usd": 60705.14,
+   "stock_units_in_pool": 277.2834,
    "stock_float": 5558.534,
-   "pct_of_float": 5.01499136283056
+   "pct_of_float": 4.988426804621506
   },
   {
    "chain": "robinhood",
@@ -4034,11 +4006,11 @@
    "stock_addr": "0x43B07D15cE533bEc5476d70C22a78a1B2B662155",
    "counterparty": "SHROOM",
    "counterparty_meme": true,
-   "liq_usd": 98389.22,
-   "vol24_usd": 4097.97,
-   "stock_units_in_pool": 285.2486,
+   "liq_usd": 83774.17,
+   "vol24_usd": 12789.42,
+   "stock_units_in_pool": 226.7514,
    "stock_float": 5558.534,
-   "pct_of_float": 5.131723580354101
+   "pct_of_float": 4.079338185212144
   },
   {
    "chain": "robinhood",
@@ -4062,25 +4034,11 @@
    "stock_addr": "0x43B07D15cE533bEc5476d70C22a78a1B2B662155",
    "counterparty": "BIOACC",
    "counterparty_meme": true,
-   "liq_usd": 25882.19,
-   "vol24_usd": 501.99,
-   "stock_units_in_pool": 10.4141,
+   "liq_usd": 25795.1,
+   "vol24_usd": 545.6,
+   "stock_units_in_pool": 10.1236,
    "stock_float": 5558.534,
-   "pct_of_float": 0.18735335611871762
-  },
-  {
-   "chain": "robinhood",
-   "pair": "0x1daae1b4d301d13009b4c31f4f84e5861b4e33d7bd18d13eb1d99a0485c44351",
-   "dex": "uniswap",
-   "stock": "MRNA",
-   "stock_addr": "0x43B07D15cE533bEc5476d70C22a78a1B2B662155",
-   "counterparty": "VACCINE",
-   "counterparty_meme": true,
-   "liq_usd": 25201.86,
-   "vol24_usd": 69.42,
-   "stock_units_in_pool": 17.9739,
-   "stock_float": 5558.534,
-   "pct_of_float": 0.32335684192990455
+   "pct_of_float": 0.18212715798805945
   },
   {
    "chain": "robinhood",
@@ -4112,31 +4070,17 @@
   },
   {
    "chain": "robinhood",
-   "pair": "0x53d08e0c2361f4c4bc14923cf29a8d05f08d25e81202ec2026610f6909739cb8",
-   "dex": "uniswap",
-   "stock": "MRNA",
-   "stock_addr": "0x43B07D15cE533bEc5476d70C22a78a1B2B662155",
-   "counterparty": "BOOSTER",
-   "counterparty_meme": true,
-   "liq_usd": 26838.19,
-   "vol24_usd": 1.35,
-   "stock_units_in_pool": 18.2213,
-   "stock_float": 5558.534,
-   "pct_of_float": 0.32780765575959414
-  },
-  {
-   "chain": "robinhood",
    "pair": "0x46ba8216b5d05ff33427b976663836ec5b34b3e261f374f9a5e773d776d3af85",
    "dex": "uniswap",
    "stock": "LLY",
    "stock_addr": "0x8005d266423c7ea827372c9c864491e5786600ea",
    "counterparty": "FATCOIN",
    "counterparty_meme": true,
-   "liq_usd": 480772.4,
-   "vol24_usd": 2983729.58,
-   "stock_units_in_pool": 204.9496,
+   "liq_usd": 465971.27,
+   "vol24_usd": 2875821.04,
+   "stock_units_in_pool": 205.1771,
    "stock_float": 3375.941,
-   "pct_of_float": 6.070888087202946
+   "pct_of_float": 6.077626949049169
   },
   {
    "chain": "robinhood",
@@ -4146,11 +4090,11 @@
    "stock_addr": "0x8005d266423c7ea827372c9c864491e5786600ea",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 356842.35,
-   "vol24_usd": 2737183.15,
-   "stock_units_in_pool": 161.05097,
+   "liq_usd": 356866.49,
+   "vol24_usd": 2719775.29,
+   "stock_units_in_pool": 162.795,
    "stock_float": 3375.941,
-   "pct_of_float": 4.770550492440479
+   "pct_of_float": 4.822211051674185
   },
   {
    "chain": "robinhood",
@@ -4160,11 +4104,11 @@
    "stock_addr": "0x8005d266423c7ea827372c9c864491e5786600ea",
    "counterparty": "WETH",
    "counterparty_meme": false,
-   "liq_usd": 116775.96,
-   "vol24_usd": 521196.98,
-   "stock_units_in_pool": 55.3236,
+   "liq_usd": 116560.33,
+   "vol24_usd": 518304.83,
+   "stock_units_in_pool": 59.8163,
    "stock_float": 3375.941,
-   "pct_of_float": 1.638760866970128
+   "pct_of_float": 1.7718407993504628
   },
   {
    "chain": "robinhood",
@@ -4174,11 +4118,11 @@
    "stock_addr": "0x8005d266423c7ea827372c9c864491e5786600ea",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 1291454.67,
-   "vol24_usd": 487406.78,
-   "stock_units_in_pool": 435.2462,
+   "liq_usd": 1296490.29,
+   "vol24_usd": 435135.91,
+   "stock_units_in_pool": 431.4235,
    "stock_float": 3375.941,
-   "pct_of_float": 12.892589058872773
+   "pct_of_float": 12.779355444896698
   },
   {
    "chain": "robinhood",
@@ -4189,7 +4133,7 @@
    "counterparty": "USDG",
    "counterparty_meme": false,
    "liq_usd": 144030.04,
-   "vol24_usd": 32967.41,
+   "vol24_usd": 32947.57,
    "stock_units_in_pool": 73.348,
    "stock_float": 3375.941,
    "pct_of_float": 2.172668301963808
@@ -4216,11 +4160,11 @@
    "stock_addr": "0x8005d266423c7ea827372c9c864491e5786600ea",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 37203.26,
-   "vol24_usd": 43607.28,
-   "stock_units_in_pool": 20.1624,
+   "liq_usd": 31232.66,
+   "vol24_usd": 47146.05,
+   "stock_units_in_pool": 16.9806,
    "stock_float": 3375.941,
-   "pct_of_float": 0.5972379256628004
+   "pct_of_float": 0.5029886482020864
   },
   {
    "chain": "robinhood",
@@ -4230,11 +4174,11 @@
    "stock_addr": "0x8005d266423c7ea827372c9c864491e5786600ea",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 29450.3,
-   "vol24_usd": 11332.33,
-   "stock_units_in_pool": 13.6978,
+   "liq_usd": 29419.65,
+   "vol24_usd": 12478.53,
+   "stock_units_in_pool": 13.814,
    "stock_float": 3375.941,
-   "pct_of_float": 0.4057476122953571
+   "pct_of_float": 0.40918961557681255
   },
   {
    "chain": "robinhood",
@@ -4244,11 +4188,11 @@
    "stock_addr": "0x8005d266423c7ea827372c9c864491e5786600ea",
    "counterparty": "PEPTIDES",
    "counterparty_meme": true,
-   "liq_usd": 182371.58,
-   "vol24_usd": 98602.78,
-   "stock_units_in_pool": 59.4516,
+   "liq_usd": 177080.4,
+   "vol24_usd": 97549.95,
+   "stock_units_in_pool": 59.02143,
    "stock_float": 3375.941,
-   "pct_of_float": 1.761037885436979
+   "pct_of_float": 1.7482956603803206
   },
   {
    "chain": "robinhood",
@@ -4258,11 +4202,11 @@
    "stock_addr": "0x8005d266423c7ea827372c9c864491e5786600ea",
    "counterparty": "PEPTI",
    "counterparty_meme": true,
-   "liq_usd": 43221.97,
-   "vol24_usd": 85948.19,
-   "stock_units_in_pool": 18.8313,
+   "liq_usd": 45742.02,
+   "vol24_usd": 87930.01,
+   "stock_units_in_pool": 19.6996,
    "stock_float": 3375.941,
-   "pct_of_float": 0.5578089190539763
+   "pct_of_float": 0.5835291552784839
   },
   {
    "chain": "robinhood",
@@ -4272,11 +4216,11 @@
    "stock_addr": "0x8005d266423c7ea827372c9c864491e5786600ea",
    "counterparty": "SHROOM",
    "counterparty_meme": true,
-   "liq_usd": 96939.94,
-   "vol24_usd": 4876.7,
-   "stock_units_in_pool": 36.5392,
+   "liq_usd": 86563.34,
+   "vol24_usd": 13858.89,
+   "stock_units_in_pool": 28.7233,
    "stock_float": 3375.941,
-   "pct_of_float": 1.0823411902044497
+   "pct_of_float": 0.8508235185389792
   },
   {
    "chain": "robinhood",
@@ -4286,11 +4230,11 @@
    "stock_addr": "0x8005d266423c7ea827372c9c864491e5786600ea",
    "counterparty": "ALZHEIMERS",
    "counterparty_meme": true,
-   "liq_usd": 55223.83,
-   "vol24_usd": 3446.37,
-   "stock_units_in_pool": 15.541,
+   "liq_usd": 55213.44,
+   "vol24_usd": 3668.95,
+   "stock_units_in_pool": 15.4146,
    "stock_float": 3375.941,
-   "pct_of_float": 0.4603457228666023
+   "pct_of_float": 0.45660158160347
   },
   {
    "chain": "robinhood",
@@ -4301,7 +4245,7 @@
    "counterparty": "BE",
    "counterparty_meme": true,
    "liq_usd": 32002.75,
-   "vol24_usd": 1979.53,
+   "vol24_usd": 1962.47,
    "stock_units_in_pool": 5.6396,
    "stock_float": 3375.941,
    "pct_of_float": 0.1670526824965247
@@ -4342,11 +4286,11 @@
    "stock_addr": "0xe93237C50D904957Cf27E7B1133b510C669c2e74",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 587748.95,
-   "vol24_usd": 747191.87,
-   "stock_units_in_pool": 659.9505,
+   "liq_usd": 587995.66,
+   "vol24_usd": 763517.02,
+   "stock_units_in_pool": 663.5479,
    "stock_float": 4835.405,
-   "pct_of_float": 13.648298332818037
+   "pct_of_float": 13.72269541020866
   },
   {
    "chain": "robinhood",
@@ -4356,11 +4300,11 @@
    "stock_addr": "0xe93237C50D904957Cf27E7B1133b510C669c2e74",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 355764.27,
-   "vol24_usd": 234947.04,
-   "stock_units_in_pool": 371.05864,
+   "liq_usd": 355336.63,
+   "vol24_usd": 230627.69,
+   "stock_units_in_pool": 372.1394,
    "stock_float": 4835.405,
-   "pct_of_float": 7.673786166825737
+   "pct_of_float": 7.6961371384609985
   },
   {
    "chain": "robinhood",
@@ -4370,11 +4314,11 @@
    "stock_addr": "0xe93237C50D904957Cf27E7B1133b510C669c2e74",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 73922.08,
-   "vol24_usd": 361168.98,
-   "stock_units_in_pool": 90.1745,
+   "liq_usd": 73890.74,
+   "vol24_usd": 338567.55,
+   "stock_units_in_pool": 92.7937,
    "stock_float": 4835.405,
-   "pct_of_float": 1.8648799841998756
+   "pct_of_float": 1.919047111875841
   },
   {
    "chain": "robinhood",
@@ -4384,11 +4328,11 @@
    "stock_addr": "0xe93237C50D904957Cf27E7B1133b510C669c2e74",
    "counterparty": "SPY",
    "counterparty_meme": false,
-   "liq_usd": 439501.33,
-   "vol24_usd": 296300.94,
-   "stock_units_in_pool": 493.1682,
+   "liq_usd": 439427.24,
+   "vol24_usd": 292944.02,
+   "stock_units_in_pool": 496.4195,
    "stock_float": 4835.405,
-   "pct_of_float": 10.199108451101822
+   "pct_of_float": 10.266347906742041
   },
   {
    "chain": "robinhood",
@@ -4398,11 +4342,11 @@
    "stock_addr": "0xe93237C50D904957Cf27E7B1133b510C669c2e74",
    "counterparty": "ETH",
    "counterparty_meme": false,
-   "liq_usd": 45472.71,
-   "vol24_usd": 19678.44,
-   "stock_units_in_pool": 49.978,
+   "liq_usd": 45356.78,
+   "vol24_usd": 18827.58,
+   "stock_units_in_pool": 50.5249,
    "stock_float": 4835.405,
-   "pct_of_float": 1.0335845704754825
+   "pct_of_float": 1.0448948950501562
   },
   {
    "chain": "robinhood",
@@ -4412,11 +4356,11 @@
    "stock_addr": "0xe93237C50D904957Cf27E7B1133b510C669c2e74",
    "counterparty": "CLIPPY",
    "counterparty_meme": true,
-   "liq_usd": 282241.05,
-   "vol24_usd": 156775.01,
-   "stock_units_in_pool": 252.5237,
+   "liq_usd": 280058.43,
+   "vol24_usd": 153593.68,
+   "stock_units_in_pool": 251.1604,
    "stock_float": 4835.405,
-   "pct_of_float": 5.222389851522261
+   "pct_of_float": 5.19419572920986
   },
   {
    "chain": "robinhood",
@@ -4426,11 +4370,11 @@
    "stock_addr": "0xe93237C50D904957Cf27E7B1133b510C669c2e74",
    "counterparty": "VERITY",
    "counterparty_meme": true,
-   "liq_usd": 37619.87,
-   "vol24_usd": 225363.49,
-   "stock_units_in_pool": 37.6259,
+   "liq_usd": 40705.7,
+   "vol24_usd": 216089.01,
+   "stock_units_in_pool": 40.8253,
    "stock_float": 4835.405,
-   "pct_of_float": 0.7781333724889643
+   "pct_of_float": 0.8442994950784887
   },
   {
    "chain": "robinhood",
@@ -4440,11 +4384,11 @@
    "stock_addr": "0xe93237C50D904957Cf27E7B1133b510C669c2e74",
    "counterparty": "DEVS",
    "counterparty_meme": true,
-   "liq_usd": 25443.6,
-   "vol24_usd": 1023.1,
-   "stock_units_in_pool": 9.562,
+   "liq_usd": 25235.49,
+   "vol24_usd": 1121.96,
+   "stock_units_in_pool": 9.3646,
    "stock_float": 4835.405,
-   "pct_of_float": 0.19774972313591105
+   "pct_of_float": 0.19366733500089445
   },
   {
    "chain": "robinhood",
@@ -4455,10 +4399,178 @@
    "counterparty": "ROVER",
    "counterparty_meme": true,
    "liq_usd": 27039.02,
-   "vol24_usd": 778.17,
+   "vol24_usd": 631.37,
    "stock_units_in_pool": 1.7849,
    "stock_float": 4835.405,
    "pct_of_float": 0.03691314378009702
+  },
+  {
+   "chain": "robinhood",
+   "pair": "0x34D0dC122CF9A8Eb296fC5e0D3A233625D7d19b7",
+   "dex": "uniswap",
+   "stock": "GOOGL",
+   "stock_addr": "0x2e0847E8910a9732eB3fb1bb4b70a580ADAD4FE3",
+   "counterparty": "USDG",
+   "counterparty_meme": false,
+   "liq_usd": 461685.08,
+   "vol24_usd": 2288458.14,
+   "stock_units_in_pool": 709.8278,
+   "stock_float": 8276.724,
+   "pct_of_float": 8.576192706196316
+  },
+  {
+   "chain": "robinhood",
+   "pair": "0xd4ecb79fdc521d7725d22b33ed43cb4e47aa96bfad76aa29577e3151f723ac5e",
+   "dex": "uniswap",
+   "stock": "GOOGL",
+   "stock_addr": "0x2e0847E8910a9732eB3fb1bb4b70a580ADAD4FE3",
+   "counterparty": "USDG",
+   "counterparty_meme": false,
+   "liq_usd": 1239452.98,
+   "vol24_usd": 721658.58,
+   "stock_units_in_pool": 1471.9592,
+   "stock_float": 8276.724,
+   "pct_of_float": 17.784321429589774
+  },
+  {
+   "chain": "robinhood",
+   "pair": "0x2bca43d9d8c75399e3c6ba14e9dc88f44ca8968bb4694a8be4f80bd5a550df2e",
+   "dex": "uniswap",
+   "stock": "GOOGL",
+   "stock_addr": "0x2e0847E8910a9732eB3fb1bb4b70a580ADAD4FE3",
+   "counterparty": "SPY",
+   "counterparty_meme": false,
+   "liq_usd": 411228.55,
+   "vol24_usd": 176081.52,
+   "stock_units_in_pool": 793.3482,
+   "stock_float": 8276.724,
+   "pct_of_float": 9.585292441792188
+  },
+  {
+   "chain": "robinhood",
+   "pair": "0xE279774B0Bf7e23E4f4aaf3c7bbC552BC5A92A28",
+   "dex": "up",
+   "stock": "GOOGL",
+   "stock_addr": "0x2e0847E8910a9732eB3fb1bb4b70a580ADAD4FE3",
+   "counterparty": "USDG",
+   "counterparty_meme": false,
+   "liq_usd": 50470.61,
+   "vol24_usd": 169850.61,
+   "stock_units_in_pool": 74.3896,
+   "stock_float": 8276.724,
+   "pct_of_float": 0.8987807253207911
+  },
+  {
+   "chain": "robinhood",
+   "pair": "0x5182d37e70a1c2e1060f8671739ae929913ceabcf2bd80a1a2a6356eafd4b506",
+   "dex": "uniswap",
+   "stock": "GOOGL",
+   "stock_addr": "0x2e0847E8910a9732eB3fb1bb4b70a580ADAD4FE3",
+   "counterparty": "ETH",
+   "counterparty_meme": false,
+   "liq_usd": 44532.15,
+   "vol24_usd": 8998.61,
+   "stock_units_in_pool": 95.8914,
+   "stock_float": 8276.724,
+   "pct_of_float": 1.1585670852380725
+  },
+  {
+   "chain": "robinhood",
+   "pair": "0xa6e2e2CEAc575d25353401D862bf73620A3D2196",
+   "dex": "giga",
+   "stock": "GOOGL",
+   "stock_addr": "0x2e0847E8910a9732eB3fb1bb4b70a580ADAD4FE3",
+   "counterparty": "USDG",
+   "counterparty_meme": false,
+   "liq_usd": 25712.64,
+   "vol24_usd": 11941.47,
+   "stock_units_in_pool": 39.9525,
+   "stock_float": 8276.724,
+   "pct_of_float": 0.4827091008471468
+  },
+  {
+   "chain": "robinhood",
+   "pair": "0x5e2cf3ad5d8e7ad0f40d469f74e1216d99ac4e80073ae3719d26ba44a6f0c93d",
+   "dex": "uniswap",
+   "stock": "GOOGL",
+   "stock_addr": "0x2e0847E8910a9732eB3fb1bb4b70a580ADAD4FE3",
+   "counterparty": "DINO",
+   "counterparty_meme": true,
+   "liq_usd": 63435.14,
+   "vol24_usd": 396558.9,
+   "stock_units_in_pool": 93.5774,
+   "stock_float": 8276.724,
+   "pct_of_float": 1.1306091637222648
+  },
+  {
+   "chain": "robinhood",
+   "pair": "0x31cdc264b22012becfe8ae7a0b2ecb734be545988e764bebeb3df604c4b2e8ab",
+   "dex": "uniswap",
+   "stock": "GOOGL",
+   "stock_addr": "0x2e0847E8910a9732eB3fb1bb4b70a580ADAD4FE3",
+   "counterparty": "GEMMA",
+   "counterparty_meme": true,
+   "liq_usd": 30959.49,
+   "vol24_usd": 50292.75,
+   "stock_units_in_pool": 16.3465,
+   "stock_float": 8276.724,
+   "pct_of_float": 0.19749963874595794
+  },
+  {
+   "chain": "robinhood",
+   "pair": "0xfce98dcd43a9c0bdfdb5d5c10c87db298294426faf9b03d47caa5cec0ef16a03",
+   "dex": "uniswap",
+   "stock": "GOOGL",
+   "stock_addr": "0x2e0847E8910a9732eB3fb1bb4b70a580ADAD4FE3",
+   "counterparty": "QUBIT",
+   "counterparty_meme": true,
+   "liq_usd": 172002.53,
+   "vol24_usd": 201513.04,
+   "stock_units_in_pool": 222.09345,
+   "stock_float": 8276.724,
+   "pct_of_float": 2.683349716627013
+  },
+  {
+   "chain": "robinhood",
+   "pair": "0xa53605addbbc279b54b0857036493d3e6405c98c5b7f7b9df78674e5a0e660b4",
+   "dex": "uniswap",
+   "stock": "GOOGL",
+   "stock_addr": "0x2e0847E8910a9732eB3fb1bb4b70a580ADAD4FE3",
+   "counterparty": "TREX",
+   "counterparty_meme": true,
+   "liq_usd": 62769.31,
+   "vol24_usd": 2568,
+   "stock_units_in_pool": 63.4686,
+   "stock_float": 8276.724,
+   "pct_of_float": 0.7668323844071641
+  },
+  {
+   "chain": "robinhood",
+   "pair": "0xa7cf9c9db0793778a2b8e94f1f4cd2c423cc96835a7cd8bf9a9b840dd34e4859",
+   "dex": "uniswap",
+   "stock": "GOOGL",
+   "stock_addr": "0x2e0847E8910a9732eB3fb1bb4b70a580ADAD4FE3",
+   "counterparty": "ABCDEFG",
+   "counterparty_meme": true,
+   "liq_usd": 32386.51,
+   "vol24_usd": 3086.81,
+   "stock_units_in_pool": 19.2415,
+   "stock_float": 8276.724,
+   "pct_of_float": 0.23247724582818033
+  },
+  {
+   "chain": "robinhood",
+   "pair": "0xcb18df49bbc06098179e20bff48e4a08d3a6b2019c41fa710eb919d85a2ad586",
+   "dex": "uniswap",
+   "stock": "GOOGL",
+   "stock_addr": "0x2e0847E8910a9732eB3fb1bb4b70a580ADAD4FE3",
+   "counterparty": "ANDROID",
+   "counterparty_meme": true,
+   "liq_usd": 33952.86,
+   "vol24_usd": 9.82,
+   "stock_units_in_pool": 21.6636,
+   "stock_float": 8276.724,
+   "pct_of_float": 0.26174123964989043
   },
   {
    "chain": "robinhood",
@@ -4468,11 +4580,11 @@
    "stock_addr": "0x980dcf6766FA79f5Cf0c4AAdb3ab477ff15a9619",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 211566.51,
-   "vol24_usd": 2319403.56,
-   "stock_units_in_pool": 404.7164,
+   "liq_usd": 210880.31,
+   "vol24_usd": 2327223,
+   "stock_units_in_pool": 420.4296,
    "stock_float": 2167.863,
-   "pct_of_float": 18.668910350884723
+   "pct_of_float": 19.393734751688648
   },
   {
    "chain": "robinhood",
@@ -4482,11 +4594,11 @@
    "stock_addr": "0x980dcf6766FA79f5Cf0c4AAdb3ab477ff15a9619",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 124643.41,
-   "vol24_usd": 230536.3,
-   "stock_units_in_pool": 134.2397,
+   "liq_usd": 118818.66,
+   "vol24_usd": 230517.28,
+   "stock_units_in_pool": 130.3071,
    "stock_float": 2167.863,
-   "pct_of_float": 6.1922593817044715
+   "pct_of_float": 6.010854929485858
   },
   {
    "chain": "robinhood",
@@ -4497,7 +4609,7 @@
    "counterparty": "USDG",
    "counterparty_meme": false,
    "liq_usd": 30377.06,
-   "vol24_usd": 393856.67,
+   "vol24_usd": 390717.33,
    "stock_units_in_pool": 29.5986,
    "stock_float": 2167.863,
    "pct_of_float": 1.3653353556013457
@@ -4510,11 +4622,11 @@
    "stock_addr": "0x980dcf6766FA79f5Cf0c4AAdb3ab477ff15a9619",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 27883.23,
-   "vol24_usd": 31443.03,
-   "stock_units_in_pool": 31.1135,
+   "liq_usd": 27839.1,
+   "vol24_usd": 35277.9,
+   "stock_units_in_pool": 35.9908,
    "stock_float": 2167.863,
-   "pct_of_float": 1.4352152326969003
+   "pct_of_float": 1.6601971619055265
   },
   {
    "chain": "robinhood",
@@ -4538,11 +4650,11 @@
    "stock_addr": "0x980dcf6766FA79f5Cf0c4AAdb3ab477ff15a9619",
    "counterparty": "ETH",
    "counterparty_meme": false,
-   "liq_usd": 31167,
-   "vol24_usd": 6588.16,
-   "stock_units_in_pool": 104.05682,
+   "liq_usd": 31107.38,
+   "vol24_usd": 6602.11,
+   "stock_units_in_pool": 104.1119,
    "stock_float": 2167.863,
-   "pct_of_float": 4.79997213846078
+   "pct_of_float": 4.802512889421519
   },
   {
    "chain": "robinhood",
@@ -4566,11 +4678,11 @@
    "stock_addr": "0x980dcf6766FA79f5Cf0c4AAdb3ab477ff15a9619",
    "counterparty": "QC",
    "counterparty_meme": true,
-   "liq_usd": 127561.44,
-   "vol24_usd": 1113979.68,
-   "stock_units_in_pool": 220.7922,
+   "liq_usd": 121934.56,
+   "vol24_usd": 1084532.82,
+   "stock_units_in_pool": 212.4653,
    "stock_float": 2167.863,
-   "pct_of_float": 10.1847856621936
+   "pct_of_float": 9.800679286467826
   },
   {
    "chain": "robinhood",
@@ -4580,11 +4692,11 @@
    "stock_addr": "0x980dcf6766FA79f5Cf0c4AAdb3ab477ff15a9619",
    "counterparty": "TUX",
    "counterparty_meme": true,
-   "liq_usd": 130368.92,
-   "vol24_usd": 122901.7,
-   "stock_units_in_pool": 209.1378,
+   "liq_usd": 128446.81,
+   "vol24_usd": 123279.31,
+   "stock_units_in_pool": 205.9095,
    "stock_float": 2167.863,
-   "pct_of_float": 9.64718711468391
+   "pct_of_float": 9.498270877818388
   },
   {
    "chain": "robinhood",
@@ -4594,11 +4706,11 @@
    "stock_addr": "0x980dcf6766FA79f5Cf0c4AAdb3ab477ff15a9619",
    "counterparty": "IBM",
    "counterparty_meme": true,
-   "liq_usd": 32417.85,
-   "vol24_usd": 154974.95,
-   "stock_units_in_pool": 55.4164,
+   "liq_usd": 33634.74,
+   "vol24_usd": 148429.99,
+   "stock_units_in_pool": 57.9525,
    "stock_float": 2167.863,
-   "pct_of_float": 2.5562685464902533
+   "pct_of_float": 2.6732547213546245
   },
   {
    "chain": "robinhood",
@@ -4608,11 +4720,11 @@
    "stock_addr": "0x980dcf6766FA79f5Cf0c4AAdb3ab477ff15a9619",
    "counterparty": "IBM",
    "counterparty_meme": true,
-   "liq_usd": 74519.17,
-   "vol24_usd": 23499.74,
-   "stock_units_in_pool": 51.9184,
+   "liq_usd": 72830.78,
+   "vol24_usd": 20905.41,
+   "stock_units_in_pool": 48.8922,
    "stock_float": 2167.863,
-   "pct_of_float": 2.394911486565341
+   "pct_of_float": 2.255317794528529
   },
   {
    "chain": "robinhood",
@@ -4664,11 +4776,11 @@
    "stock_addr": "0xEc127e99Da1a2eD3d6C0433227154a99B7B29221",
    "counterparty": "ETH",
    "counterparty_meme": false,
-   "liq_usd": 30947.06,
-   "vol24_usd": 1064497.71,
-   "stock_units_in_pool": 16.9777,
-   "stock_float": 62.423733620105196,
-   "pct_of_float": 27.197508087744186
+   "liq_usd": 32978.8,
+   "vol24_usd": 1073085.08,
+   "stock_units_in_pool": 17.07418,
+   "stock_float": 62.02179792375911,
+   "pct_of_float": 27.529321257324074
   },
   {
    "chain": "robinhood",
@@ -4679,178 +4791,10 @@
    "counterparty": "ZCAT",
    "counterparty_meme": true,
    "liq_usd": 26871.99,
-   "vol24_usd": 1541.44,
+   "vol24_usd": 1535.28,
    "stock_units_in_pool": 2.8525,
-   "stock_float": 62.423733620105196,
-   "pct_of_float": 4.569576080404902
-  },
-  {
-   "chain": "robinhood",
-   "pair": "0x34D0dC122CF9A8Eb296fC5e0D3A233625D7d19b7",
-   "dex": "uniswap",
-   "stock": "GOOGL",
-   "stock_addr": "0x2e0847E8910a9732eB3fb1bb4b70a580ADAD4FE3",
-   "counterparty": "USDG",
-   "counterparty_meme": false,
-   "liq_usd": 461749.18,
-   "vol24_usd": 2287950.82,
-   "stock_units_in_pool": 696.426,
-   "stock_float": 8276.724,
-   "pct_of_float": 8.414271153659348
-  },
-  {
-   "chain": "robinhood",
-   "pair": "0xd4ecb79fdc521d7725d22b33ed43cb4e47aa96bfad76aa29577e3151f723ac5e",
-   "dex": "uniswap",
-   "stock": "GOOGL",
-   "stock_addr": "0x2e0847E8910a9732eB3fb1bb4b70a580ADAD4FE3",
-   "counterparty": "USDG",
-   "counterparty_meme": false,
-   "liq_usd": 1240885.67,
-   "vol24_usd": 731996.42,
-   "stock_units_in_pool": 1469.2792,
-   "stock_float": 8276.724,
-   "pct_of_float": 17.751941468629376
-  },
-  {
-   "chain": "robinhood",
-   "pair": "0x2bca43d9d8c75399e3c6ba14e9dc88f44ca8968bb4694a8be4f80bd5a550df2e",
-   "dex": "uniswap",
-   "stock": "GOOGL",
-   "stock_addr": "0x2e0847E8910a9732eB3fb1bb4b70a580ADAD4FE3",
-   "counterparty": "SPY",
-   "counterparty_meme": false,
-   "liq_usd": 411138.51,
-   "vol24_usd": 175264.55,
-   "stock_units_in_pool": 796.1983,
-   "stock_float": 8276.724,
-   "pct_of_float": 9.619727563707574
-  },
-  {
-   "chain": "robinhood",
-   "pair": "0xE279774B0Bf7e23E4f4aaf3c7bbC552BC5A92A28",
-   "dex": "up",
-   "stock": "GOOGL",
-   "stock_addr": "0x2e0847E8910a9732eB3fb1bb4b70a580ADAD4FE3",
-   "counterparty": "USDG",
-   "counterparty_meme": false,
-   "liq_usd": 50481.08,
-   "vol24_usd": 174781.27,
-   "stock_units_in_pool": 71.6737,
-   "stock_float": 8276.724,
-   "pct_of_float": 0.8659670178684223
-  },
-  {
-   "chain": "robinhood",
-   "pair": "0x5182d37e70a1c2e1060f8671739ae929913ceabcf2bd80a1a2a6356eafd4b506",
-   "dex": "uniswap",
-   "stock": "GOOGL",
-   "stock_addr": "0x2e0847E8910a9732eB3fb1bb4b70a580ADAD4FE3",
-   "counterparty": "ETH",
-   "counterparty_meme": false,
-   "liq_usd": 44240.17,
-   "vol24_usd": 8902.23,
-   "stock_units_in_pool": 95.8918,
-   "stock_float": 8276.724,
-   "pct_of_float": 1.1585719180680667
-  },
-  {
-   "chain": "robinhood",
-   "pair": "0xa6e2e2CEAc575d25353401D862bf73620A3D2196",
-   "dex": "giga",
-   "stock": "GOOGL",
-   "stock_addr": "0x2e0847E8910a9732eB3fb1bb4b70a580ADAD4FE3",
-   "counterparty": "USDG",
-   "counterparty_meme": false,
-   "liq_usd": 25728.27,
-   "vol24_usd": 11985.01,
-   "stock_units_in_pool": 39.8956,
-   "stock_float": 8276.724,
-   "pct_of_float": 0.4820216307804876
-  },
-  {
-   "chain": "robinhood",
-   "pair": "0x5e2cf3ad5d8e7ad0f40d469f74e1216d99ac4e80073ae3719d26ba44a6f0c93d",
-   "dex": "uniswap",
-   "stock": "GOOGL",
-   "stock_addr": "0x2e0847E8910a9732eB3fb1bb4b70a580ADAD4FE3",
-   "counterparty": "DINO",
-   "counterparty_meme": true,
-   "liq_usd": 62572.15,
-   "vol24_usd": 401215.36,
-   "stock_units_in_pool": 93.1803,
-   "stock_float": 8276.724,
-   "pct_of_float": 1.1258113717456326
-  },
-  {
-   "chain": "robinhood",
-   "pair": "0x31cdc264b22012becfe8ae7a0b2ecb734be545988e764bebeb3df604c4b2e8ab",
-   "dex": "uniswap",
-   "stock": "GOOGL",
-   "stock_addr": "0x2e0847E8910a9732eB3fb1bb4b70a580ADAD4FE3",
-   "counterparty": "GEMMA",
-   "counterparty_meme": true,
-   "liq_usd": 30959.49,
-   "vol24_usd": 50292.75,
-   "stock_units_in_pool": 16.3465,
-   "stock_float": 8276.724,
-   "pct_of_float": 0.19749963874595794
-  },
-  {
-   "chain": "robinhood",
-   "pair": "0xfce98dcd43a9c0bdfdb5d5c10c87db298294426faf9b03d47caa5cec0ef16a03",
-   "dex": "uniswap",
-   "stock": "GOOGL",
-   "stock_addr": "0x2e0847E8910a9732eB3fb1bb4b70a580ADAD4FE3",
-   "counterparty": "QUBIT",
-   "counterparty_meme": true,
-   "liq_usd": 167810.25,
-   "vol24_usd": 211640.39,
-   "stock_units_in_pool": 217.6347,
-   "stock_float": 8276.724,
-   "pct_of_float": 2.6294787647866475
-  },
-  {
-   "chain": "robinhood",
-   "pair": "0xa53605addbbc279b54b0857036493d3e6405c98c5b7f7b9df78674e5a0e660b4",
-   "dex": "uniswap",
-   "stock": "GOOGL",
-   "stock_addr": "0x2e0847E8910a9732eB3fb1bb4b70a580ADAD4FE3",
-   "counterparty": "TREX",
-   "counterparty_meme": true,
-   "liq_usd": 63101.86,
-   "vol24_usd": 2422.38,
-   "stock_units_in_pool": 63.8229,
-   "stock_float": 8276.724,
-   "pct_of_float": 0.7711130635744288
-  },
-  {
-   "chain": "robinhood",
-   "pair": "0xa7cf9c9db0793778a2b8e94f1f4cd2c423cc96835a7cd8bf9a9b840dd34e4859",
-   "dex": "uniswap",
-   "stock": "GOOGL",
-   "stock_addr": "0x2e0847E8910a9732eB3fb1bb4b70a580ADAD4FE3",
-   "counterparty": "ABCDEFG",
-   "counterparty_meme": true,
-   "liq_usd": 32386.51,
-   "vol24_usd": 3086.81,
-   "stock_units_in_pool": 19.2415,
-   "stock_float": 8276.724,
-   "pct_of_float": 0.23247724582818033
-  },
-  {
-   "chain": "robinhood",
-   "pair": "0xcb18df49bbc06098179e20bff48e4a08d3a6b2019c41fa710eb919d85a2ad586",
-   "dex": "uniswap",
-   "stock": "GOOGL",
-   "stock_addr": "0x2e0847E8910a9732eB3fb1bb4b70a580ADAD4FE3",
-   "counterparty": "ANDROID",
-   "counterparty_meme": true,
-   "liq_usd": 33952.86,
-   "vol24_usd": 9.82,
-   "stock_units_in_pool": 21.6636,
-   "stock_float": 8276.724,
-   "pct_of_float": 0.26174123964989043
+   "stock_float": 62.02179792375911,
+   "pct_of_float": 4.599189471266961
   },
   {
    "chain": "robinhood",
@@ -4860,11 +4804,11 @@
    "stock_addr": "0xc0D6457C16Cc70d6790Dd43521C899C87ce02f35",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 761587.51,
-   "vol24_usd": 337087.22,
-   "stock_units_in_pool": 567.8182,
+   "liq_usd": 760116.91,
+   "vol24_usd": 336899.52,
+   "stock_units_in_pool": 568.3186,
    "stock_float": 2856.917,
-   "pct_of_float": 19.87520813520309
+   "pct_of_float": 19.892723519794238
   },
   {
    "chain": "robinhood",
@@ -4874,11 +4818,11 @@
    "stock_addr": "0xc0D6457C16Cc70d6790Dd43521C899C87ce02f35",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 207546.59,
-   "vol24_usd": 96453.93,
-   "stock_units_in_pool": 183.5263,
+   "liq_usd": 206539.43,
+   "vol24_usd": 96245.3,
+   "stock_units_in_pool": 183.1858,
    "stock_float": 2856.917,
-   "pct_of_float": 6.423928311533027
+   "pct_of_float": 6.412009869380175
   },
   {
    "chain": "robinhood",
@@ -4888,11 +4832,11 @@
    "stock_addr": "0xc0D6457C16Cc70d6790Dd43521C899C87ce02f35",
    "counterparty": "SPY",
    "counterparty_meme": false,
-   "liq_usd": 350635.4,
-   "vol24_usd": 112624.54,
-   "stock_units_in_pool": 265.1312,
+   "liq_usd": 350466.83,
+   "vol24_usd": 112447.98,
+   "stock_units_in_pool": 266.4506,
    "stock_float": 2856.917,
-   "pct_of_float": 9.28032560973945
+   "pct_of_float": 9.326508260477992
   },
   {
    "chain": "robinhood",
@@ -4902,11 +4846,11 @@
    "stock_addr": "0xc0D6457C16Cc70d6790Dd43521C899C87ce02f35",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 95363.77,
-   "vol24_usd": 98791.8,
-   "stock_units_in_pool": 82.489,
+   "liq_usd": 95229.23,
+   "vol24_usd": 97652.61,
+   "stock_units_in_pool": 81.827,
    "stock_float": 2856.917,
-   "pct_of_float": 2.8873432444834766
+   "pct_of_float": 2.864171412750178
   },
   {
    "chain": "robinhood",
@@ -4916,11 +4860,11 @@
    "stock_addr": "0xc0D6457C16Cc70d6790Dd43521C899C87ce02f35",
    "counterparty": "WETH",
    "counterparty_meme": false,
-   "liq_usd": 77283.75,
-   "vol24_usd": 97716.78,
-   "stock_units_in_pool": 58.2256,
+   "liq_usd": 77191.33,
+   "vol24_usd": 100659.63,
+   "stock_units_in_pool": 57.518,
    "stock_float": 2856.917,
-   "pct_of_float": 2.0380571084144203
+   "pct_of_float": 2.013289150507348
   },
   {
    "chain": "robinhood",
@@ -4944,11 +4888,11 @@
    "stock_addr": "0xc0D6457C16Cc70d6790Dd43521C899C87ce02f35",
    "counterparty": "PERV",
    "counterparty_meme": true,
-   "liq_usd": 29525.69,
-   "vol24_usd": 1807.55,
-   "stock_units_in_pool": 7.1125,
+   "liq_usd": 29376.5,
+   "vol24_usd": 960.51,
+   "stock_units_in_pool": 6.9926,
    "stock_float": 2856.917,
-   "pct_of_float": 0.24895718006508416
+   "pct_of_float": 0.2447603483055336
   },
   {
    "chain": "robinhood",
@@ -4958,11 +4902,11 @@
    "stock_addr": "0x12f190a9F9d7D37a250758b26824B97CE941bF54",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 1148283.73,
-   "vol24_usd": 1546464.63,
-   "stock_units_in_pool": 2208.4746,
+   "liq_usd": 1148688.71,
+   "vol24_usd": 1591926.46,
+   "stock_units_in_pool": 2197.4507,
    "stock_float": 9849.261,
-   "pct_of_float": 22.42274420385448
+   "pct_of_float": 22.310818040053967
   },
   {
    "chain": "robinhood",
@@ -4972,11 +4916,11 @@
    "stock_addr": "0x12f190a9F9d7D37a250758b26824B97CE941bF54",
    "counterparty": "SPY",
    "counterparty_meme": false,
-   "liq_usd": 607353.47,
-   "vol24_usd": 824894.4,
-   "stock_units_in_pool": 1330.5532,
+   "liq_usd": 606328.78,
+   "vol24_usd": 823065.4,
+   "stock_units_in_pool": 1371.02834,
    "stock_float": 9849.261,
-   "pct_of_float": 13.50916784518148
+   "pct_of_float": 13.920113803462005
   },
   {
    "chain": "robinhood",
@@ -4986,11 +4930,11 @@
    "stock_addr": "0x12f190a9F9d7D37a250758b26824B97CE941bF54",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 97731.73,
-   "vol24_usd": 166421.78,
-   "stock_units_in_pool": 228.4284,
+   "liq_usd": 97584.29,
+   "vol24_usd": 178802.31,
+   "stock_units_in_pool": 228.5616,
    "stock_float": 9849.261,
-   "pct_of_float": 2.319244052929453
+   "pct_of_float": 2.3205964386566666
   },
   {
    "chain": "robinhood",
@@ -5001,7 +4945,7 @@
    "counterparty": "ETH",
    "counterparty_meme": false,
    "liq_usd": 41411.73,
-   "vol24_usd": 14984.17,
+   "vol24_usd": 14675.08,
    "stock_units_in_pool": 94.6381,
    "stock_float": 9849.261,
    "pct_of_float": 0.9608649826621509
@@ -5014,11 +4958,11 @@
    "stock_addr": "0x12f190a9F9d7D37a250758b26824B97CE941bF54",
    "counterparty": "WADDLES",
    "counterparty_meme": true,
-   "liq_usd": 56107.82,
-   "vol24_usd": 143519.12,
-   "stock_units_in_pool": 108.5492,
+   "liq_usd": 54333.39,
+   "vol24_usd": 148347.72,
+   "stock_units_in_pool": 105.3504,
    "stock_float": 9849.261,
-   "pct_of_float": 1.102105020874155
+   "pct_of_float": 1.069627457329032
   },
   {
    "chain": "robinhood",
@@ -5028,11 +4972,11 @@
    "stock_addr": "0x12f190a9F9d7D37a250758b26824B97CE941bF54",
    "counterparty": "SENDER",
    "counterparty_meme": true,
-   "liq_usd": 93693.34,
-   "vol24_usd": 47470.45,
-   "stock_units_in_pool": 141.7528,
+   "liq_usd": 93669.06,
+   "vol24_usd": 46140.22,
+   "stock_units_in_pool": 141.7259,
    "stock_float": 9849.261,
-   "pct_of_float": 1.4392226990431058
+   "pct_of_float": 1.438949582105703
   },
   {
    "chain": "robinhood",
@@ -5042,11 +4986,11 @@
    "stock_addr": "0x12f190a9F9d7D37a250758b26824B97CE941bF54",
    "counterparty": "PECCY",
    "counterparty_meme": true,
-   "liq_usd": 37214.17,
-   "vol24_usd": 5602.16,
-   "stock_units_in_pool": 31.3613,
+   "liq_usd": 37230.7,
+   "vol24_usd": 5626.35,
+   "stock_units_in_pool": 31.4526,
    "stock_float": 9849.261,
-   "pct_of_float": 0.318412721522965
+   "pct_of_float": 0.31933969462277423
   },
   {
    "chain": "robinhood",
@@ -5070,11 +5014,11 @@
    "stock_addr": "0x156E175DD063a8cE274C50654eF40e0032b3fbcF",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 62852.21,
-   "vol24_usd": 39825.79,
-   "stock_units_in_pool": 101.04741,
+   "liq_usd": 62771.34,
+   "vol24_usd": 39319.79,
+   "stock_units_in_pool": 102.1264,
    "stock_float": 387.719,
-   "pct_of_float": 26.062021721917162
+   "pct_of_float": 26.340313474449278
   },
   {
    "chain": "robinhood",
@@ -5084,11 +5028,11 @@
    "stock_addr": "0x86923f96303D656E4aa86D9d42D1e57ad2023fdC",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 680654.81,
-   "vol24_usd": 614706.61,
-   "stock_units_in_pool": 641.8049,
+   "liq_usd": 714513.43,
+   "vol24_usd": 616732.01,
+   "stock_units_in_pool": 670.3423,
    "stock_float": 4058.232,
-   "pct_of_float": 15.814889340974098
+   "pct_of_float": 16.518087186735507
   },
   {
    "chain": "robinhood",
@@ -5098,11 +5042,11 @@
    "stock_addr": "0x86923f96303D656E4aa86D9d42D1e57ad2023fdC",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 150577.08,
-   "vol24_usd": 815788.12,
-   "stock_units_in_pool": 83.8306,
+   "liq_usd": 150616.58,
+   "vol24_usd": 818747.91,
+   "stock_units_in_pool": 83.5909,
    "stock_float": 4058.232,
-   "pct_of_float": 2.065692646452938
+   "pct_of_float": 2.059786133468959
   },
   {
    "chain": "robinhood",
@@ -5112,11 +5056,11 @@
    "stock_addr": "0x86923f96303D656E4aa86D9d42D1e57ad2023fdC",
    "counterparty": "SPY",
    "counterparty_meme": false,
-   "liq_usd": 361163.98,
-   "vol24_usd": 715064.17,
-   "stock_units_in_pool": 312.2588,
+   "liq_usd": 364837.52,
+   "vol24_usd": 713659.61,
+   "stock_units_in_pool": 324.3525,
    "stock_float": 4058.232,
-   "pct_of_float": 7.694454136678239
+   "pct_of_float": 7.99245829218241
   },
   {
    "chain": "robinhood",
@@ -5126,11 +5070,25 @@
    "stock_addr": "0x86923f96303D656E4aa86D9d42D1e57ad2023fdC",
    "counterparty": "ETH",
    "counterparty_meme": false,
-   "liq_usd": 27160.75,
-   "vol24_usd": 5032.83,
-   "stock_units_in_pool": 31.8617,
+   "liq_usd": 27076.13,
+   "vol24_usd": 5045.7,
+   "stock_units_in_pool": 31.9238,
    "stock_float": 4058.232,
-   "pct_of_float": 0.7851128274578684
+   "pct_of_float": 0.7866430504712397
+  },
+  {
+   "chain": "robinhood",
+   "pair": "0x624ab0689e1fb8e71ef85e7f7e7bd261f65aac092b442f120323ba640c666d00",
+   "dex": "uniswap",
+   "stock": "AMD",
+   "stock_addr": "0x86923f96303D656E4aa86D9d42D1e57ad2023fdC",
+   "counterparty": "AMD",
+   "counterparty_meme": true,
+   "liq_usd": 26762.22,
+   "vol24_usd": 379109.94,
+   "stock_units_in_pool": 29.1162,
+   "stock_float": 4058.232,
+   "pct_of_float": 0.7174602142016523
   },
   {
    "chain": "robinhood",
@@ -5140,11 +5098,11 @@
    "stock_addr": "0x86923f96303D656E4aa86D9d42D1e57ad2023fdC",
    "counterparty": "CHIP",
    "counterparty_meme": true,
-   "liq_usd": 28293.82,
-   "vol24_usd": 32356.86,
-   "stock_units_in_pool": 28.3614,
+   "liq_usd": 27698.31,
+   "vol24_usd": 32907.72,
+   "stock_units_in_pool": 27.7645,
    "stock_float": 4058.232,
-   "pct_of_float": 0.6988609818265689
+   "pct_of_float": 0.6841526063566598
   },
   {
    "chain": "robinhood",
@@ -5154,11 +5112,11 @@
    "stock_addr": "0x86923f96303D656E4aa86D9d42D1e57ad2023fdC",
    "counterparty": "MEOW",
    "counterparty_meme": true,
-   "liq_usd": 61193.94,
-   "vol24_usd": 21387.98,
-   "stock_units_in_pool": 39.1769,
+   "liq_usd": 61706.25,
+   "vol24_usd": 21662.16,
+   "stock_units_in_pool": 39.8126,
    "stock_float": 4058.232,
-   "pct_of_float": 0.9653686630039879
+   "pct_of_float": 0.9810331198413498
   },
   {
    "chain": "robinhood",
@@ -5168,11 +5126,11 @@
    "stock_addr": "0x86923f96303D656E4aa86D9d42D1e57ad2023fdC",
    "counterparty": "MD",
    "counterparty_meme": true,
-   "liq_usd": 48688.88,
-   "vol24_usd": 6141.74,
-   "stock_units_in_pool": 27.4198,
+   "liq_usd": 45378.97,
+   "vol24_usd": 7049.62,
+   "stock_units_in_pool": 24.2819,
    "stock_float": 4058.232,
-   "pct_of_float": 0.6756587597751927
+   "pct_of_float": 0.5983369112460796
   },
   {
    "chain": "robinhood",
@@ -5182,25 +5140,11 @@
    "stock_addr": "0x86923f96303D656E4aa86D9d42D1e57ad2023fdC",
    "counterparty": "RYZEN",
    "counterparty_meme": true,
-   "liq_usd": 31462.9,
-   "vol24_usd": 25776.99,
-   "stock_units_in_pool": 10.5898,
+   "liq_usd": 29429.77,
+   "vol24_usd": 21868.7,
+   "stock_units_in_pool": 8.5212,
    "stock_float": 4058.232,
-   "pct_of_float": 0.2609461460064383
-  },
-  {
-   "chain": "robinhood",
-   "pair": "0xb215bd80e49cd61d9f39ed2b52b1262470926aeb98a28652f498bfdf3a0c18a2",
-   "dex": "uniswap",
-   "stock": "AMD",
-   "stock_addr": "0x86923f96303D656E4aa86D9d42D1e57ad2023fdC",
-   "counterparty": "MAMDGA",
-   "counterparty_meme": true,
-   "liq_usd": 26475.02,
-   "vol24_usd": 2393954.79,
-   "stock_units_in_pool": 14.6835,
-   "stock_float": 4058.232,
-   "pct_of_float": 0.3618201226543973
+   "pct_of_float": 0.20997321000869343
   },
   {
    "chain": "robinhood",
@@ -5232,45 +5176,31 @@
   },
   {
    "chain": "robinhood",
+   "pair": "0xb215bd80e49cd61d9f39ed2b52b1262470926aeb98a28652f498bfdf3a0c18a2",
+   "dex": "uniswap",
+   "stock": "AMD",
+   "stock_addr": "0x86923f96303D656E4aa86D9d42D1e57ad2023fdC",
+   "counterparty": "MAMDGA",
+   "counterparty_meme": true,
+   "liq_usd": 31190.1,
+   "vol24_usd": 2395461.61,
+   "stock_units_in_pool": 17.2898,
+   "stock_float": 4058.232,
+   "pct_of_float": 0.42604267079851516
+  },
+  {
+   "chain": "robinhood",
    "pair": "0x7fb585f108d921de3b197cf7e26b5aebc96b035fec13f972b868e008ea062394",
    "dex": "uniswap",
    "stock": "INTC",
    "stock_addr": "0xc72b96e0E48ecd4DC75E1e45396e26300BC39681",
    "counterparty": "SPY",
    "counterparty_meme": false,
-   "liq_usd": 239440.93,
-   "vol24_usd": 238036.15,
-   "stock_units_in_pool": 619.7939,
+   "liq_usd": 234640.15,
+   "vol24_usd": 226022.89,
+   "stock_units_in_pool": 645.3857,
    "stock_float": 15127.105,
-   "pct_of_float": 4.097240681544816
-  },
-  {
-   "chain": "robinhood",
-   "pair": "0xf2e329e631d0fb315a5c563ee3a9120f24822b5ef6c502a91cb56b174d5d8c22",
-   "dex": "uniswap",
-   "stock": "INTC",
-   "stock_addr": "0xc72b96e0E48ecd4DC75E1e45396e26300BC39681",
-   "counterparty": "USDG",
-   "counterparty_meme": false,
-   "liq_usd": 176993.85,
-   "vol24_usd": 49150.79,
-   "stock_units_in_pool": 728.551,
-   "stock_float": 15127.105,
-   "pct_of_float": 4.816195828613605
-  },
-  {
-   "chain": "robinhood",
-   "pair": "0x6290Be6e6913708866E6f17eaf3F4FCC7d3fdF67",
-   "dex": "up",
-   "stock": "INTC",
-   "stock_addr": "0xc72b96e0E48ecd4DC75E1e45396e26300BC39681",
-   "counterparty": "USDG",
-   "counterparty_meme": false,
-   "liq_usd": 30621.22,
-   "vol24_usd": 55527.7,
-   "stock_units_in_pool": 89.3535,
-   "stock_float": 15127.105,
-   "pct_of_float": 0.5906847344551386
+   "pct_of_float": 4.266419119851419
   },
   {
    "chain": "robinhood",
@@ -5280,11 +5210,39 @@
    "stock_addr": "0xc72b96e0E48ecd4DC75E1e45396e26300BC39681",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 72201.17,
-   "vol24_usd": 55884.95,
-   "stock_units_in_pool": 239.4504,
+   "liq_usd": 72181.9,
+   "vol24_usd": 54837.91,
+   "stock_units_in_pool": 241.641,
    "stock_float": 15127.105,
-   "pct_of_float": 1.582922839499032
+   "pct_of_float": 1.597404129871512
+  },
+  {
+   "chain": "robinhood",
+   "pair": "0x6290Be6e6913708866E6f17eaf3F4FCC7d3fdF67",
+   "dex": "up",
+   "stock": "INTC",
+   "stock_addr": "0xc72b96e0E48ecd4DC75E1e45396e26300BC39681",
+   "counterparty": "USDG",
+   "counterparty_meme": false,
+   "liq_usd": 30625.55,
+   "vol24_usd": 53191.8,
+   "stock_units_in_pool": 86.2728,
+   "stock_float": 15127.105,
+   "pct_of_float": 0.5703193043216135
+  },
+  {
+   "chain": "robinhood",
+   "pair": "0xf2e329e631d0fb315a5c563ee3a9120f24822b5ef6c502a91cb56b174d5d8c22",
+   "dex": "uniswap",
+   "stock": "INTC",
+   "stock_addr": "0xc72b96e0E48ecd4DC75E1e45396e26300BC39681",
+   "counterparty": "USDG",
+   "counterparty_meme": false,
+   "liq_usd": 176926.27,
+   "vol24_usd": 23650.09,
+   "stock_units_in_pool": 727.9731,
+   "stock_float": 15127.105,
+   "pct_of_float": 4.8123755338513226
   },
   {
    "chain": "robinhood",
@@ -5294,11 +5252,11 @@
    "stock_addr": "0xc72b96e0E48ecd4DC75E1e45396e26300BC39681",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 39056.11,
-   "vol24_usd": 10011.87,
-   "stock_units_in_pool": 156.122,
+   "liq_usd": 39047.98,
+   "vol24_usd": 9950.83,
+   "stock_units_in_pool": 156.6751,
    "stock_float": 15127.105,
-   "pct_of_float": 1.0320679336859233
+   "pct_of_float": 1.0357242843227439
   },
   {
    "chain": "robinhood",
@@ -5308,25 +5266,11 @@
    "stock_addr": "0xc72b96e0E48ecd4DC75E1e45396e26300BC39681",
    "counterparty": "INCEL",
    "counterparty_meme": true,
-   "liq_usd": 201348.44,
-   "vol24_usd": 184853.04,
-   "stock_units_in_pool": 861.1043,
+   "liq_usd": 206136.39,
+   "vol24_usd": 157300.79,
+   "stock_units_in_pool": 883.6258,
    "stock_float": 15127.105,
-   "pct_of_float": 5.692459330453514
-  },
-  {
-   "chain": "robinhood",
-   "pair": "0xb2fa797c3f4d7a692a8f6891d224caec383724b079a24cc8c605e61997b836c6",
-   "dex": "uniswap",
-   "stock": "INTC",
-   "stock_addr": "0xc72b96e0E48ecd4DC75E1e45396e26300BC39681",
-   "counterparty": "GRANNY",
-   "counterparty_meme": true,
-   "liq_usd": 29763.72,
-   "vol24_usd": 10.14,
-   "stock_units_in_pool": 39.07476,
-   "stock_float": 15127.105,
-   "pct_of_float": 0.2583095708002291
+   "pct_of_float": 5.841341089388882
   },
   {
    "chain": "robinhood",
@@ -5350,11 +5294,11 @@
    "stock_addr": "0xad25Ac6C84D497db898fa1E8387bf6Af3532a1c4",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 280553.82,
-   "vol24_usd": 695908.28,
-   "stock_units_in_pool": 1404.07738,
+   "liq_usd": 280577.46,
+   "vol24_usd": 667233.32,
+   "stock_units_in_pool": 1389.3447,
    "stock_float": 8540.607,
-   "pct_of_float": 16.44001860757672
+   "pct_of_float": 16.26751705118852
   },
   {
    "chain": "robinhood",
@@ -5364,11 +5308,11 @@
    "stock_addr": "0xad25Ac6C84D497db898fa1E8387bf6Af3532a1c4",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 30288.47,
-   "vol24_usd": 369836.11,
-   "stock_units_in_pool": 132.2988,
+   "liq_usd": 30299.85,
+   "vol24_usd": 359855.03,
+   "stock_units_in_pool": 112.3319,
    "stock_float": 8540.607,
-   "pct_of_float": 1.5490561736419906
+   "pct_of_float": 1.3152683409973085
   },
   {
    "chain": "robinhood",
@@ -5378,11 +5322,11 @@
    "stock_addr": "0xad25Ac6C84D497db898fa1E8387bf6Af3532a1c4",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 51232.68,
-   "vol24_usd": 25244.21,
-   "stock_units_in_pool": 237.2416,
+   "liq_usd": 51232.3,
+   "vol24_usd": 23664.43,
+   "stock_units_in_pool": 237.2724,
    "stock_float": 8540.607,
-   "pct_of_float": 2.7778072448480535
+   "pct_of_float": 2.77816787495315
   },
   {
    "chain": "robinhood",
@@ -5392,11 +5336,11 @@
    "stock_addr": "0xad25Ac6C84D497db898fa1E8387bf6Af3532a1c4",
    "counterparty": "ETH",
    "counterparty_meme": false,
-   "liq_usd": 49568.98,
-   "vol24_usd": 11904.86,
-   "stock_units_in_pool": 309.6615,
+   "liq_usd": 50101.1,
+   "vol24_usd": 12652.57,
+   "stock_units_in_pool": 305.4524,
    "stock_float": 8540.607,
-   "pct_of_float": 3.625755171734281
+   "pct_of_float": 3.57647178941731
   },
   {
    "chain": "robinhood",
@@ -5407,7 +5351,7 @@
    "counterparty": "USDG",
    "counterparty_meme": false,
    "liq_usd": 34184.67,
-   "vol24_usd": 4302.72,
+   "vol24_usd": 2422.2,
    "stock_units_in_pool": 250.4646,
    "stock_float": 8540.607,
    "pct_of_float": 2.932632305877088
@@ -5420,11 +5364,11 @@
    "stock_addr": "0xad25Ac6C84D497db898fa1E8387bf6Af3532a1c4",
    "counterparty": "ANIU",
    "counterparty_meme": true,
-   "liq_usd": 42460.09,
-   "vol24_usd": 583754.31,
-   "stock_units_in_pool": 163.9697,
+   "liq_usd": 52356.01,
+   "vol24_usd": 578643.67,
+   "stock_units_in_pool": 203.1515,
    "stock_float": 8540.607,
-   "pct_of_float": 1.9198834462234355
+   "pct_of_float": 2.378654116739009
   },
   {
    "chain": "robinhood",
@@ -5462,11 +5406,11 @@
    "stock_addr": "0xE0444EF8BF4eD74f74FD73686e2ddF4C1c5591E8",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 325523.31,
-   "vol24_usd": 330196.97,
-   "stock_units_in_pool": 2545.9235,
+   "liq_usd": 312728.17,
+   "vol24_usd": 326681.1,
+   "stock_units_in_pool": 2516.7961,
    "stock_float": 12443.697,
-   "pct_of_float": 20.459542690568565
+   "pct_of_float": 20.225469167241858
   },
   {
    "chain": "robinhood",
@@ -5476,11 +5420,11 @@
    "stock_addr": "0xE0444EF8BF4eD74f74FD73686e2ddF4C1c5591E8",
    "counterparty": "USDG",
    "counterparty_meme": false,
-   "liq_usd": 133043.15,
-   "vol24_usd": 62919.19,
-   "stock_units_in_pool": 1183.9161,
+   "liq_usd": 133002.74,
+   "vol24_usd": 62508.24,
+   "stock_units_in_pool": 1189.9168,
    "stock_float": 12443.697,
-   "pct_of_float": 9.514182963471386
+   "pct_of_float": 9.562405770568024
   },
   {
    "chain": "robinhood",
@@ -5490,11 +5434,11 @@
    "stock_addr": "0xE0444EF8BF4eD74f74FD73686e2ddF4C1c5591E8",
    "counterparty": "SHROOM",
    "counterparty_meme": true,
-   "liq_usd": 64626.45,
-   "vol24_usd": 36283.56,
-   "stock_units_in_pool": 21.4161,
+   "liq_usd": 61063.69,
+   "vol24_usd": 33367.35,
+   "stock_units_in_pool": 0.2432,
    "stock_float": 12443.697,
-   "pct_of_float": 0.17210399771064822
+   "pct_of_float": 0.001954403100621945
   },
   {
    "chain": "robinhood",
@@ -5505,7 +5449,7 @@
    "counterparty": "ETH",
    "counterparty_meme": false,
    "liq_usd": 31851.99,
-   "vol24_usd": 1364.08,
+   "vol24_usd": 943.72,
    "stock_units_in_pool": 332.8921,
    "stock_float": 12443.697,
    "pct_of_float": 2.6751864819595013
@@ -5518,11 +5462,11 @@
    "stock_addr": "0xE0444EF8BF4eD74f74FD73686e2ddF4C1c5591E8",
    "counterparty": "CHILLZ",
    "counterparty_meme": true,
-   "liq_usd": 45317.03,
-   "vol24_usd": 72064.29,
-   "stock_units_in_pool": 289.5858,
+   "liq_usd": 46329.32,
+   "vol24_usd": 71230.9,
+   "stock_units_in_pool": 296.1331,
    "stock_float": 12443.697,
-   "pct_of_float": 2.3271685255595664
+   "pct_of_float": 2.379783917914427
   },
   {
    "chain": "robinhood",
@@ -5532,11 +5476,11 @@
    "stock_addr": "0xE0444EF8BF4eD74f74FD73686e2ddF4C1c5591E8",
    "counterparty": "CHILL",
    "counterparty_meme": true,
-   "liq_usd": 25718.98,
-   "vol24_usd": 32546.65,
-   "stock_units_in_pool": 157.2298,
+   "liq_usd": 29023.94,
+   "vol24_usd": 35861.19,
+   "stock_units_in_pool": 176.8721,
    "stock_float": 12443.697,
-   "pct_of_float": 1.2635296407490477
+   "pct_of_float": 1.4213790322924127
   },
   {
    "chain": "robinhood",
@@ -5560,11 +5504,11 @@
    "stock_addr": "0xE0444EF8BF4eD74f74FD73686e2ddF4C1c5591E8",
    "counterparty": "CHILL",
    "counterparty_meme": true,
-   "liq_usd": 45305.16,
-   "vol24_usd": 2734.24,
-   "stock_units_in_pool": 149.6678,
+   "liq_usd": 44479.61,
+   "vol24_usd": 3331.19,
+   "stock_units_in_pool": 142.1533,
    "stock_float": 12443.697,
-   "pct_of_float": 1.2027599193390839
+   "pct_of_float": 1.1423719172847104
   },
   {
    "chain": "robinhood",
@@ -5588,11 +5532,11 @@
    "stock_addr": "0xE0444EF8BF4eD74f74FD73686e2ddF4C1c5591E8",
    "counterparty": "RATRACE",
    "counterparty_meme": true,
-   "liq_usd": 26876.03,
-   "vol24_usd": 152.41,
-   "stock_units_in_pool": 48.08136,
+   "liq_usd": 26956.21,
+   "vol24_usd": 136.65,
+   "stock_units_in_pool": 48.03428,
    "stock_float": 12443.697,
-   "pct_of_float": 0.3863912790547696
+   "pct_of_float": 0.3860129349019026
   },
   {
    "chain": "robinhood",

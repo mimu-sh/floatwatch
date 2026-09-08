@@ -18,7 +18,48 @@ import json, glob, sys, argparse, datetime
 
 ALERT_PP = 2.0        # percentage-point move worth flagging
 CROSS_LEVELS = [10.0, 25.0, 50.0]
-DEADBAND_PP = 0.5     # a crossing must finish this far past the level to alert
+DEADBAND_PP = 0.5     # floor for the deadband when history is too short
+DEADBAND_SD = 1.0     # deadband = this many sd of the stock's OWN hourly moves
+
+
+def hourly_sd(symbol, min_obs=8):
+    """Std-dev of a stock's own hourly concentration, from the snapshot history.
+
+    A FIXED deadband cannot work here: stocks differ ~3x in how much their
+    concentration moves hour to hour (IBM sd 2.93pp vs MSTR 0.91pp). Observed
+    2026-09-08: AMC (sd 0.94pp) crossed 25% upward and then back down within two
+    hours, firing twice, because a +/-0.5pp band is under one sd of its normal
+    movement. Scaling the band to each stock's own volatility is the same
+    outlier-ratio logic used elsewhere: divide by the source's own baseline.
+    """
+    import statistics as _st
+    vals = []
+    for f in sorted(glob.glob("snapshots/*T*.json")):
+        try:
+            d = json.load(open(f))
+        except Exception:
+            continue
+        pooled = fl = None
+        tot = 0.0
+        for r in d["pools"]:
+            if r["stock"] != symbol or not r["counterparty_meme"] or not r["stock_float"]:
+                continue
+            u = r["stock_units_in_pool"]
+            if not u or not (0.5 <= r["liq_usd"] / (2 * u) <= 5000):
+                continue
+            tot += u
+            fl = r["stock_float"]
+        if fl:
+            vals.append(tot / fl * 100)
+    if len(vals) < min_obs:
+        return None
+    diffs = [abs(vals[i + 1] - vals[i]) for i in range(len(vals) - 1)]
+    return _st.pstdev(diffs) if len(diffs) > 1 else None
+
+
+def deadband_for(symbol):
+    sd = hourly_sd(symbol)
+    return max(DEADBAND_PP, DEADBAND_SD * sd) if sd else DEADBAND_PP
 
 
 def load(path):
@@ -121,18 +162,19 @@ def main():
                     print(f"  ({sym} crossed {lvl:.0f}% but pool set changed — "
                           f"not alerted; likely a discovery artifact)")
             continue
+        band = deadband_for(sym)
         for lvl in CROSS_LEVELS:
-            if was < lvl <= now and (now - lvl) >= DEADBAND_PP:
+            if was < lvl <= now and (now - lvl) >= band:
                 print(f"  {sym} crossed UP through {lvl:.0f}% of float "
                       f"({was:.1f}% -> {now:.1f}%)")
                 hits += 1
-            elif now < lvl <= was and (lvl - now) >= DEADBAND_PP:
+            elif now < lvl <= was and (lvl - now) >= band:
                 print(f"  {sym} crossed DOWN through {lvl:.0f}% of float "
                       f"({was:.1f}% -> {now:.1f}%)")
                 hits += 1
             elif (was < lvl <= now) or (now < lvl <= was):
                 print(f"  ({sym} grazed {lvl:.0f}% — {was:.1f}% -> {now:.1f}%, "
-                      f"inside {DEADBAND_PP}pp deadband, not alerted)")
+                      f"inside its {band:.2f}pp deadband, not alerted)")
     if not hits:
         print("  none")
 
